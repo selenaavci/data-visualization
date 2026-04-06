@@ -1,0 +1,1501 @@
+﻿Tarih,Bölge,Ürün Kategorisi,Ürün Adı,Birim Fiyat (TL),Satış Miktarı,Toplam Tutar (TL),Müşteri Segmenti,Ödeme Yöntemi,Müşteri Yaşı,Cinsiyet,Sipariş Durumu,Müşteri Memnuniyeti,İndirim Oranı
+2024-01-01,Trabzon,Kitap & Kırtasiye,Defter,136.07,1,136.07,Bireysel,Kredi Kartı,36.0,Kadın,Tamamlandı,3.4,0.0
+2024-01-01,İstanbul,Gıda,Zeytinyağı,395.11,1,395.11,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,3.9,0.0
+2024-01-01,Samsun,Gıda,Zeytinyağı,139.83,2,279.66,Kurumsal,Kredi Kartı,37.0,Erkek,Tamamlandı,3.0,0.1
+2024-01-01,İzmir,Elektronik,Kulaklık,16755.51,6,100533.06,Bireysel,Havale/EFT,30.0,Erkek,İptal Edildi,3.6,0.0
+2024-01-02,Konya,Giyim,Elbise,114.36,2,228.72,Kurumsal,Havale/EFT,38.0,Erkek,Tamamlandı,4.0,0.0
+2024-01-02,Ankara,Gıda,Zeytinyağı,82.83,4,331.32,Kurumsal,Kredi Kartı,50.0,Kadın,İade Edildi,5.0,0.17
+2024-01-02,Ankara,Spor,Dambıl Seti,519.7,7,3637.9,Kurumsal,Banka Kartı,18.0,Erkek,Tamamlandı,4.2,0.0
+2024-01-03,İzmir,Spor,Koşu Ayakkabısı,391.75,2,783.5,Kurumsal,Kredi Kartı,34.0,Kadın,Tamamlandı,4.9,0.0
+2024-01-03,Trabzon,Elektronik,Akıllı Telefon,7878.8,3,23636.4,Kurumsal,Kredi Kartı,39.0,Kadın,Tamamlandı,4.5,0.0
+2024-01-04,Samsun,Kozmetik,Güneş Kremi,242.42,5,1212.1,Bireysel,Banka Kartı,22.0,Kadın,Tamamlandı,3.2,0.0
+2024-01-04,Adana,Elektronik,Akıllı Telefon,9577.04,2,19154.08,Bireysel,Kredi Kartı,35.0,Erkek,Beklemede,4.2,0.06
+2024-01-05,İstanbul,Kozmetik,Nemlendirici Krem,476.46,1,476.46,Bireysel,Havale/EFT,21.0,Kadın,Tamamlandı,4.3,0.0
+2024-01-05,Bursa,Giyim,Pantolon,1254.35,9,11289.15,Kurumsal,Kredi Kartı,42.0,Kadın,Tamamlandı,3.2,0.0
+2024-01-05,Antalya,Gıda,Zeytinyağı,100.21,3,300.63,Premium,Kredi Kartı,59.0,Erkek,İptal Edildi,4.2,0.0
+2024-01-05,İzmir,Kozmetik,Güneş Kremi,837.81,2,1675.62,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,3.1,0.07
+2024-01-05,Ankara,Ev & Yaşam,Yastık,1476.93,7,10338.51,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,3.1,0.0
+2024-01-06,İstanbul,Elektronik,Akıllı Saat,10060.84,2,20121.68,Kurumsal,Banka Kartı,59.0,Erkek,Beklemede,4.7,0.17
+2024-01-07,Samsun,Kitap & Kırtasiye,Roman,59.11,1,59.11,Premium,Banka Kartı,44.0,Erkek,Tamamlandı,2.6,0.2
+2024-01-07,Ankara,Giyim,Elbise,2116.71,5,10583.55,Premium,Kredi Kartı,49.0,Kadın,Tamamlandı,4.2,0.12
+2024-01-08,Antalya,Kozmetik,Nemlendirici Krem,580.99,2,1161.98,Bireysel,Banka Kartı,18.0,Erkek,İade Edildi,4.6,0.0
+2024-01-08,Ankara,Ev & Yaşam,Dekoratif Vazo,1221.06,2,2442.12,Bireysel,Kapıda Ödeme,29.0,Erkek,İade Edildi,2.7,0.0
+2024-01-08,Ankara,Elektronik,Akıllı Saat,5422.33,1,5422.33,Kurumsal,Kapıda Ödeme,50.0,Kadın,Tamamlandı,3.8,0.0
+2024-01-09,İzmir,Ev & Yaşam,Yastık,1307.17,2,2614.34,Bireysel,Kredi Kartı,33.0,Erkek,Tamamlandı,4.1,0.07
+2024-01-09,İzmir,Giyim,Elbise,1557.11,2,3114.22,Bireysel,Banka Kartı,39.0,Kadın,Tamamlandı,3.7,0.13
+2024-01-10,Bursa,Spor,Yoga Matı,346.29,2,692.58,Bireysel,Kredi Kartı,31.0,Kadın,İptal Edildi,3.2,0.07
+2024-01-10,İstanbul,Elektronik,Tablet,12828.9,1,12828.9,Bireysel,Banka Kartı,37.0,Erkek,İade Edildi,3.5,0.0
+2024-01-11,İstanbul,Elektronik,Akıllı Telefon,20776.45,2,41552.9,Bireysel,Banka Kartı,25.0,Kadın,İptal Edildi,5.0,0.0
+2024-01-11,İstanbul,Ev & Yaşam,Dekoratif Vazo,1236.62,1,1236.62,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,3.8,0.0
+2024-01-12,Bursa,Spor,Koşu Ayakkabısı,2698.75,2,5397.5,Kurumsal,Kredi Kartı,29.0,Kadın,Tamamlandı,4.0,0.0
+2024-01-12,Samsun,Kozmetik,Ruj,347.6,4,1390.4,Premium,Banka Kartı,38.0,Erkek,İptal Edildi,3.0,0.28
+2024-01-12,Trabzon,Giyim,Ayakkabı,1423.82,1,1423.82,Bireysel,Banka Kartı,33.0,Erkek,İade Edildi,4.4,0.0
+2024-01-13,Konya,Kozmetik,Ruj,1116.91,4,4467.64,Bireysel,Havale/EFT,39.0,Erkek,Tamamlandı,3.5,0.24
+2024-01-14,Bursa,Kitap & Kırtasiye,Boyama Kitabı,105.19,1,105.19,Kurumsal,Kapıda Ödeme,33.0,Kadın,Tamamlandı,4.9,0.0
+2024-01-15,İzmir,Kozmetik,Güneş Kremi,450.03,2,900.06,Kurumsal,Kredi Kartı,50.0,Erkek,İptal Edildi,2.8,0.0
+2024-01-15,Ankara,Giyim,Tişört,2001.51,2,4003.02,Bireysel,Kredi Kartı,21.0,Kadın,Tamamlandı,2.6,0.0
+2024-01-15,Ankara,Giyim,Ayakkabı,1207.06,1,1207.06,Kurumsal,Kredi Kartı,37.0,Erkek,Tamamlandı,4.7,0.0
+2024-01-15,İstanbul,Elektronik,Dizüstü Bilgisayar,5153.4,3,15460.2,Premium,Kapıda Ödeme,34.0,Erkek,Tamamlandı,5.0,0.0
+2024-01-15,İzmir,Elektronik,Dizüstü Bilgisayar,24670.95,3,74012.85,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.8,0.12
+2024-01-16,Bursa,Gıda,Bal,298.47,1,298.47,Kurumsal,Kredi Kartı,25.0,Kadın,Beklemede,2.3,0.12
+2024-01-16,Adana,Elektronik,Kulaklık,4691.61,4,18766.44,Bireysel,Kredi Kartı,25.0,Erkek,Tamamlandı,3.4,0.0
+2024-01-16,Konya,Ev & Yaşam,Dekoratif Vazo,438.6,2,877.2,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,5.0,0.0
+2024-01-17,İzmir,Spor,Koşu Ayakkabısı,1189.02,3,3567.06,Kurumsal,Kredi Kartı,18.0,Erkek,Tamamlandı,3.5,0.0
+2024-01-17,Ankara,Kozmetik,Parfüm,678.66,3,2035.98,Bireysel,Kredi Kartı,50.0,Kadın,Tamamlandı,2.3,0.22
+2024-01-17,İstanbul,Elektronik,Dizüstü Bilgisayar,6364.56,4,25458.24,Bireysel,Havale/EFT,36.0,Kadın,Tamamlandı,4.6,0.0
+2024-01-17,İzmir,Ev & Yaşam,Mum,240.98,3,722.94,Bireysel,Kapıda Ödeme,37.0,Erkek,Tamamlandı,4.2,0.1
+2024-01-18,Adana,Spor,Pilates Bandı,1890.37,3,5671.11,Kurumsal,Kapıda Ödeme,26.0,Erkek,Tamamlandı,3.5,0.0
+2024-01-18,Adana,Ev & Yaşam,Nevresim Takımı,556.94,1,556.94,Bireysel,Kredi Kartı,47.0,Erkek,Tamamlandı,4.7,0.0
+2024-01-19,Ankara,Spor,Yoga Matı,1268.17,1,1268.17,Kurumsal,Banka Kartı,18.0,Kadın,İptal Edildi,5.0,0.26
+2024-01-19,Antalya,Kitap & Kırtasiye,Ajanda,152.51,1,152.51,Bireysel,Banka Kartı,57.0,Kadın,İade Edildi,3.4,0.0
+2024-01-20,İstanbul,Giyim,Ayakkabı,216.04,1,216.04,Bireysel,Banka Kartı,36.0,Kadın,Tamamlandı,3.0,0.0
+2024-01-21,İstanbul,Giyim,Elbise,1194.06,4,4776.24,Kurumsal,Banka Kartı,33.0,Kadın,Beklemede,4.6,0.0
+2024-01-21,İstanbul,Giyim,Ayakkabı,1480.07,5,7400.35,Kurumsal,Havale/EFT,47.0,Kadın,Tamamlandı,4.6,0.22
+2024-01-22,Samsun,Elektronik,Dizüstü Bilgisayar,10035.61,2,20071.22,Bireysel,Banka Kartı,61.0,Erkek,Tamamlandı,3.7,0.0
+2024-01-22,İstanbul,Ev & Yaşam,Yastık,1039.64,1,1039.64,Bireysel,Havale/EFT,27.0,Erkek,Tamamlandı,3.7,0.0
+2024-01-23,Gaziantep,Kozmetik,Nemlendirici Krem,73.99,3,221.97,Kurumsal,Banka Kartı,50.0,Erkek,Tamamlandı,3.1,0.22
+2024-01-23,Ankara,Elektronik,Kulaklık,1182.11,2,2364.22,Kurumsal,Kredi Kartı,19.0,Erkek,Tamamlandı,3.1,0.08
+2024-01-23,Konya,Elektronik,Kulaklık,2931.32,4,11725.28,Bireysel,Banka Kartı,,Erkek,Tamamlandı,3.2,0.0
+2024-01-23,Konya,Giyim,Tişört,1139.39,4,4557.56,Bireysel,Kapıda Ödeme,,Erkek,Beklemede,5.0,0.0
+2024-01-25,Bursa,Giyim,Ayakkabı,1464.93,8,11719.44,Kurumsal,Kredi Kartı,23.0,Erkek,Tamamlandı,4.5,0.0
+2024-01-25,Gaziantep,Ev & Yaşam,Mum,1098.12,6,6588.72,Bireysel,Kredi Kartı,46.0,Erkek,Tamamlandı,3.9,0.0
+2024-01-25,Adana,Gıda,Bal,388.31,4,1553.24,Bireysel,Kredi Kartı,50.0,Erkek,Tamamlandı,3.6,0.0
+2024-01-25,İzmir,Gıda,Zeytinyağı,485.95,2,971.9,Kurumsal,Havale/EFT,48.0,Erkek,Tamamlandı,4.2,0.0
+2024-01-26,Bursa,Kozmetik,Güneş Kremi,779.39,1,779.39,Bireysel,Havale/EFT,43.0,Kadın,Tamamlandı,3.4,0.0
+2024-01-26,İstanbul,Giyim,Tişört,1872.03,2,3744.06,Kurumsal,Banka Kartı,51.0,Kadın,Tamamlandı,4.0,0.28
+2024-01-27,Gaziantep,Kozmetik,Göz Farı,658.84,5,3294.2,Bireysel,Kredi Kartı,46.0,Erkek,Beklemede,3.3,0.0
+2024-01-27,Adana,Elektronik,Kulaklık,15143.22,1,15143.22,Bireysel,Kredi Kartı,19.0,Kadın,İptal Edildi,2.8,0.0
+2024-01-28,Ankara,Gıda,Çay,367.47,2,734.94,Kurumsal,Havale/EFT,35.0,Kadın,Tamamlandı,3.0,0.09
+2024-01-28,Ankara,Kozmetik,Parfüm,292.4,5,1462.0,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,2.0,0.08
+2024-01-28,Bursa,Kozmetik,Göz Farı,765.98,3,2297.94,Premium,Kredi Kartı,41.0,Kadın,Tamamlandı,4.1,0.0
+2024-01-28,Bursa,Ev & Yaşam,Mum,833.32,1,833.32,Bireysel,Havale/EFT,47.0,Kadın,Tamamlandı,4.0,0.0
+2024-01-29,İstanbul,Gıda,Kahve,367.79,3,1103.37,Bireysel,Kapıda Ödeme,47.0,Kadın,Tamamlandı,5.0,0.14
+2024-01-29,Gaziantep,Ev & Yaşam,Yastık,1316.37,5,6581.85,Bireysel,Havale/EFT,28.0,Kadın,Tamamlandı,4.6,0.08
+2024-01-29,Ankara,Gıda,Çay,472.7,1,472.7,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.1,0.0
+2024-01-29,İstanbul,Giyim,Elbise,1167.99,5,5839.95,Bireysel,Kapıda Ödeme,33.0,Erkek,Tamamlandı,3.9,0.0
+2024-01-29,Samsun,Gıda,Kahve,220.99,3,662.97,Bireysel,Kredi Kartı,46.0,Kadın,İptal Edildi,1.9,0.0
+2024-02-01,Bursa,Ev & Yaşam,Yastık,988.9,1,988.9,Premium,Kredi Kartı,18.0,Kadın,Tamamlandı,3.4,0.0
+2024-02-02,Bursa,Ev & Yaşam,Havlu Seti,713.96,1,713.96,Bireysel,Havale/EFT,47.0,Erkek,Tamamlandı,3.7,0.0
+2024-02-02,Konya,Gıda,Zeytinyağı,61.05,3,183.15,Bireysel,Kredi Kartı,46.0,Kadın,Tamamlandı,4.4,0.0
+2024-02-03,İzmir,Elektronik,Akıllı Telefon,17452.22,7,122165.54,Kurumsal,Kapıda Ödeme,32.0,Erkek,Tamamlandı,3.5,0.0
+2024-02-03,Konya,Spor,Dambıl Seti,1805.11,1,1805.11,Bireysel,Kredi Kartı,37.0,Kadın,İade Edildi,5.0,0.0
+2024-02-03,Bursa,Kitap & Kırtasiye,Boyama Kitabı,100.97,2,201.94,Bireysel,Havale/EFT,32.0,Kadın,Tamamlandı,4.4,0.0
+2024-02-04,Adana,Giyim,Ceket,2004.17,9,18037.53,Bireysel,Kapıda Ödeme,35.0,Kadın,Tamamlandı,2.9,0.0
+2024-02-04,İstanbul,Ev & Yaşam,Havlu Seti,1425.14,1,1425.14,Kurumsal,Kapıda Ödeme,52.0,Kadın,Tamamlandı,3.1,0.09
+2024-02-05,İzmir,Elektronik,Akıllı Saat,17730.29,5,88651.45,Kurumsal,Banka Kartı,25.0,Kadın,Tamamlandı,2.7,0.0
+2024-02-05,İzmir,Gıda,Kahve,315.44,2,630.88,Bireysel,Havale/EFT,33.0,Erkek,Tamamlandı,,0.29
+2024-02-06,Bursa,Kozmetik,Parfüm,437.18,1,437.18,Premium,Havale/EFT,21.0,Erkek,Tamamlandı,3.4,0.0
+2024-02-06,Bursa,Giyim,Ceket,500.99,1,500.99,Premium,Kredi Kartı,44.0,Kadın,Beklemede,4.4,0.0
+2024-02-06,İzmir,Giyim,Elbise,1011.84,2,2023.68,Bireysel,Banka Kartı,30.0,Erkek,Tamamlandı,5.0,0.22
+2024-02-07,Bursa,Ev & Yaşam,Dekoratif Vazo,1087.22,6,6523.32,Kurumsal,Kredi Kartı,35.0,Erkek,İptal Edildi,3.5,0.0
+2024-02-08,Samsun,Giyim,Tişört,1209.37,3,3628.11,Bireysel,Kapıda Ödeme,42.0,Erkek,Tamamlandı,3.8,0.0
+2024-02-08,Ankara,Ev & Yaşam,Mum,1262.84,2,2525.68,Bireysel,Kredi Kartı,22.0,Erkek,Tamamlandı,4.3,0.0
+2024-02-08,Bursa,Gıda,Kahve,325.32,3,975.96,Premium,Havale/EFT,45.0,Erkek,Tamamlandı,4.6,0.0
+2024-02-08,Antalya,Gıda,Çay,273.12,2,546.24,Bireysel,Kapıda Ödeme,51.0,Kadın,Tamamlandı,4.2,0.0
+2024-02-08,İstanbul,Spor,Dambıl Seti,1359.05,1,1359.05,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,4.2,0.0
+2024-02-08,İstanbul,Gıda,Bal,468.72,4,1874.88,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,4.6,0.0
+2024-02-08,Bursa,Kitap & Kırtasiye,Boyama Kitabı,17.13,2,34.26,Premium,Kapıda Ödeme,29.0,Erkek,Tamamlandı,3.1,0.0
+2024-02-08,İzmir,Spor,Pilates Bandı,64.2,2,128.4,Bireysel,Kredi Kartı,30.0,Erkek,Tamamlandı,2.7,0.0
+2024-02-09,Antalya,Giyim,Ceket,1600.26,1,1600.26,Premium,Kredi Kartı,42.0,Erkek,Tamamlandı,3.7,0.0
+2024-02-10,İstanbul,Gıda,Çay,304.06,2,608.12,Kurumsal,Havale/EFT,45.0,Erkek,Beklemede,2.3,0.0
+2024-02-10,Ankara,Spor,Pilates Bandı,109.89,1,109.89,Kurumsal,Havale/EFT,42.0,Kadın,İptal Edildi,4.2,0.2
+2024-02-10,Ankara,Spor,Koşu Ayakkabısı,1394.64,5,6973.2,Bireysel,Kapıda Ödeme,50.0,Erkek,Tamamlandı,3.4,0.09
+2024-02-10,Bursa,Ev & Yaşam,Havlu Seti,1183.58,2,2367.16,Kurumsal,Kredi Kartı,18.0,Kadın,İade Edildi,3.5,0.26
+2024-02-11,İzmir,Giyim,Ceket,1151.32,2,2302.64,Kurumsal,Kredi Kartı,20.0,Kadın,İptal Edildi,4.9,0.0
+2024-02-11,Ankara,Elektronik,Tablet,7756.33,4,31025.32,Kurumsal,Havale/EFT,25.0,Kadın,Tamamlandı,5.0,0.0
+2024-02-11,Adana,Giyim,Pantolon,2037.29,1,2037.29,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,4.3,0.0
+2024-02-11,Trabzon,Kitap & Kırtasiye,Ajanda,69.45,1,69.45,Bireysel,Banka Kartı,49.0,Kadın,Beklemede,3.7,0.0
+2024-02-12,Ankara,Kozmetik,Ruj,352.77,2,705.54,Bireysel,Banka Kartı,55.0,Erkek,Tamamlandı,3.9,0.0
+2024-02-12,İstanbul,Giyim,Tişört,899.73,4,3598.92,Bireysel,Banka Kartı,,Erkek,Tamamlandı,4.0,0.28
+2024-02-13,İstanbul,Elektronik,Akıllı Saat,2049.71,1,2049.71,Bireysel,Havale/EFT,23.0,Kadın,Beklemede,3.7,0.0
+2024-02-15,Gaziantep,Giyim,Ceket,89.48,1,89.48,Kurumsal,Banka Kartı,22.0,Erkek,Tamamlandı,3.9,0.0
+2024-02-15,İstanbul,Spor,Spor Çantası,2294.5,6,13767.0,Kurumsal,Havale/EFT,19.0,Kadın,Tamamlandı,4.3,0.0
+2024-02-16,Antalya,Elektronik,Kulaklık,14332.55,2,28665.1,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,3.5,0.0
+2024-02-16,Ankara,Gıda,Kuruyemiş,319.66,3,958.98,Kurumsal,Kapıda Ödeme,38.0,Kadın,Tamamlandı,3.7,0.07
+2024-02-16,Konya,Kozmetik,Ruj,978.28,3,2934.84,Bireysel,Banka Kartı,41.0,Erkek,İptal Edildi,4.0,0.11
+2024-02-16,Bursa,Gıda,Kuruyemiş,355.14,1,355.14,Bireysel,Kapıda Ödeme,22.0,Kadın,Tamamlandı,5.0,0.11
+2024-02-16,Antalya,Kozmetik,Parfüm,215.47,6,1292.82,Kurumsal,Kredi Kartı,33.0,Kadın,Tamamlandı,,0.0
+2024-02-16,Antalya,Gıda,Zeytinyağı,197.68,1,197.68,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,4.1,0.0
+2024-02-17,Ankara,Elektronik,Akıllı Telefon,10164.75,2,20329.5,Premium,Havale/EFT,38.0,Erkek,Tamamlandı,4.1,0.22
+2024-02-17,İstanbul,Ev & Yaşam,Nevresim Takımı,198.38,1,198.38,Kurumsal,Kapıda Ödeme,31.0,Kadın,Tamamlandı,4.6,0.15
+2024-02-18,Bursa,Gıda,Çay,456.13,6,2736.78,Premium,Kapıda Ödeme,42.0,Erkek,Tamamlandı,1.5,0.3
+2024-02-18,İstanbul,Giyim,Elbise,2202.63,5,11013.15,Premium,Kredi Kartı,39.0,Kadın,Tamamlandı,4.3,0.09
+2024-02-20,Konya,Elektronik,Akıllı Telefon,16160.44,5,80802.2,Bireysel,Banka Kartı,27.0,Erkek,Tamamlandı,4.6,0.18
+2024-02-20,İstanbul,Giyim,Pantolon,2363.91,1,2363.91,Kurumsal,Kapıda Ödeme,39.0,Kadın,Tamamlandı,4.6,0.14
+2024-02-20,Antalya,Giyim,Elbise,2013.78,1,2013.78,Kurumsal,Kredi Kartı,25.0,Kadın,Tamamlandı,4.0,0.25
+2024-02-20,Gaziantep,Kozmetik,Nemlendirici Krem,866.18,1,866.18,Bireysel,Banka Kartı,37.0,Kadın,Tamamlandı,4.3,0.0
+2024-02-20,İzmir,Kitap & Kırtasiye,Ajanda,73.0,1,73.0,Kurumsal,Havale/EFT,41.0,Erkek,Tamamlandı,4.7,0.0
+2024-02-22,Ankara,Ev & Yaşam,Mum,62.32,3,186.96,Kurumsal,Havale/EFT,42.0,Kadın,Tamamlandı,3.3,0.0
+2024-02-22,İzmir,Spor,Koşu Ayakkabısı,969.82,2,1939.64,Kurumsal,Kapıda Ödeme,39.0,Erkek,Tamamlandı,4.2,0.22
+2024-02-22,Antalya,Giyim,Pantolon,1608.77,3,4826.31,Bireysel,Kredi Kartı,46.0,Kadın,Tamamlandı,3.0,0.0
+2024-02-22,Ankara,Giyim,Ceket,1948.61,3,5845.83,Kurumsal,Kapıda Ödeme,26.0,Erkek,Tamamlandı,4.4,0.0
+2024-02-22,Antalya,Elektronik,Akıllı Saat,17877.76,2,35755.52,Bireysel,Havale/EFT,42.0,Erkek,Tamamlandı,5.0,0.13
+2024-02-23,İstanbul,Giyim,Ayakkabı,1376.37,3,4129.11,Bireysel,Banka Kartı,46.0,Erkek,Tamamlandı,1.5,0.0
+2024-02-23,Gaziantep,Gıda,Kahve,498.91,2,997.82,Premium,Kredi Kartı,18.0,Erkek,Tamamlandı,3.4,0.0
+2024-02-23,Ankara,Kitap & Kırtasiye,Roman,209.71,1,209.71,Bireysel,Kredi Kartı,19.0,Erkek,İade Edildi,3.5,0.0
+2024-02-23,Ankara,Kitap & Kırtasiye,Ajanda,59.68,2,119.36,Kurumsal,Kredi Kartı,30.0,Erkek,Tamamlandı,4.0,0.0
+2024-02-24,İstanbul,Ev & Yaşam,Nevresim Takımı,1015.36,9,9138.24,Bireysel,Kredi Kartı,42.0,Erkek,Tamamlandı,1.9,0.25
+2024-02-24,İstanbul,Elektronik,Kulaklık,5428.79,4,21715.16,Bireysel,Banka Kartı,38.0,Erkek,Tamamlandı,3.3,0.0
+2024-02-24,İzmir,Elektronik,Akıllı Telefon,24167.53,1,24167.53,Kurumsal,Kapıda Ödeme,31.0,Erkek,Beklemede,4.4,0.0
+2024-02-25,Ankara,Gıda,Kuruyemiş,259.07,1,259.07,Bireysel,Havale/EFT,36.0,Kadın,Tamamlandı,4.1,0.25
+2024-02-25,Bursa,Ev & Yaşam,Dekoratif Vazo,832.51,2,1665.02,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,5.0,0.0
+2024-02-27,Antalya,Ev & Yaşam,Nevresim Takımı,357.52,1,357.52,Premium,Banka Kartı,41.0,Kadın,İade Edildi,4.9,0.0
+2024-02-27,Samsun,Elektronik,Akıllı Saat,24163.0,3,72489.0,Bireysel,Banka Kartı,35.0,Erkek,Tamamlandı,4.1,0.0
+2024-02-27,İstanbul,Ev & Yaşam,Havlu Seti,201.76,7,1412.32,Bireysel,Havale/EFT,38.0,Erkek,Tamamlandı,4.1,0.0
+2024-02-27,Bursa,Elektronik,Dizüstü Bilgisayar,23670.02,2,47340.04,Bireysel,Banka Kartı,40.0,Erkek,Tamamlandı,5.0,0.25
+2024-02-28,Trabzon,Giyim,Elbise,524.83,7,3673.81,Kurumsal,Kapıda Ödeme,47.0,Kadın,Tamamlandı,4.2,0.0
+2024-02-28,İstanbul,Gıda,Bal,319.08,1,319.08,Bireysel,Havale/EFT,57.0,Erkek,Tamamlandı,5.0,0.0
+2024-03-01,Samsun,Spor,Spor Çantası,1002.47,2,2004.94,Bireysel,Kredi Kartı,35.0,Erkek,İade Edildi,2.2,0.2
+2024-03-01,İstanbul,Elektronik,Kulaklık,2507.49,3,7522.47,Kurumsal,Kapıda Ödeme,29.0,Kadın,İptal Edildi,3.6,0.0
+2024-03-02,Adana,Ev & Yaşam,Dekoratif Vazo,738.07,5,3690.35,Bireysel,Banka Kartı,34.0,Erkek,Tamamlandı,3.0,0.0
+2024-03-03,Ankara,Ev & Yaşam,Nevresim Takımı,958.91,3,2876.73,Bireysel,Havale/EFT,27.0,Erkek,Beklemede,2.7,0.21
+2024-03-03,Konya,Giyim,Ayakkabı,711.26,2,1422.52,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,3.8,0.0
+2024-03-03,Bursa,Elektronik,Tablet,23745.37,1,23745.37,Kurumsal,Banka Kartı,18.0,Kadın,Tamamlandı,3.4,0.0
+2024-03-03,Samsun,Elektronik,Tablet,14016.36,1,14016.36,Bireysel,Kapıda Ödeme,22.0,Kadın,Tamamlandı,3.1,0.0
+2024-03-05,Adana,Ev & Yaşam,Yastık,1314.97,1,1314.97,Kurumsal,Havale/EFT,31.0,Erkek,Tamamlandı,3.0,0.12
+2024-03-05,Antalya,Ev & Yaşam,Dekoratif Vazo,885.91,1,885.91,Bireysel,Kredi Kartı,32.0,Erkek,Tamamlandı,4.0,0.0
+2024-03-07,İstanbul,Elektronik,Akıllı Saat,19806.86,4,79227.44,Kurumsal,Banka Kartı,36.0,Kadın,Tamamlandı,3.8,0.0
+2024-03-09,Ankara,Gıda,Bal,48.53,2,97.06,Bireysel,Kredi Kartı,25.0,Kadın,Tamamlandı,3.9,0.0
+2024-03-09,Antalya,Kitap & Kırtasiye,Boyama Kitabı,273.46,2,546.92,Premium,Kredi Kartı,29.0,Erkek,Tamamlandı,5.0,0.0
+2024-03-09,İstanbul,Elektronik,Tablet,4508.6,1,4508.6,Bireysel,Kredi Kartı,25.0,Erkek,Tamamlandı,4.3,0.2
+2024-03-09,İstanbul,Spor,Dambıl Seti,2563.65,2,5127.3,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,2.4,0.22
+2024-03-09,Antalya,Giyim,Elbise,1918.04,2,3836.08,Bireysel,Kredi Kartı,38.0,Erkek,Tamamlandı,4.3,0.3
+2024-03-10,Bursa,Gıda,Bal,322.79,1,322.79,Kurumsal,Kredi Kartı,29.0,Kadın,Tamamlandı,3.1,0.0
+2024-03-12,Ankara,Kozmetik,Güneş Kremi,226.6,9,2039.4,Bireysel,Havale/EFT,18.0,Kadın,Tamamlandı,4.5,0.22
+2024-03-12,İzmir,Kitap & Kırtasiye,Kalem Seti,66.06,2,132.12,Premium,Havale/EFT,32.0,Kadın,Tamamlandı,5.0,0.0
+2024-03-13,Ankara,Elektronik,Akıllı Saat,21692.38,5,108461.9,Bireysel,Banka Kartı,34.0,Erkek,Tamamlandı,4.1,0.0
+2024-03-13,Adana,Kozmetik,Göz Farı,631.28,6,3787.68,Bireysel,Havale/EFT,44.0,Erkek,Tamamlandı,5.0,0.0
+2024-03-14,Gaziantep,Giyim,Ayakkabı,1699.63,2,3399.26,Bireysel,Banka Kartı,43.0,Erkek,Tamamlandı,4.7,0.06
+2024-03-15,İzmir,Kitap & Kırtasiye,Defter,283.26,4,1133.04,Bireysel,Kredi Kartı,37.0,Kadın,İptal Edildi,5.0,0.0
+2024-03-15,Adana,Kitap & Kırtasiye,Boyama Kitabı,172.92,1,172.92,Premium,Havale/EFT,41.0,Kadın,Tamamlandı,4.7,0.0
+2024-03-15,Konya,Giyim,Pantolon,1072.94,3,3218.82,Kurumsal,Kredi Kartı,23.0,Erkek,Tamamlandı,3.8,0.22
+2024-03-15,Ankara,Elektronik,Akıllı Telefon,8665.85,3,25997.55,Premium,Kapıda Ödeme,31.0,Kadın,Tamamlandı,4.4,0.0
+2024-03-15,Ankara,Kozmetik,Güneş Kremi,1178.4,1,1178.4,Kurumsal,Kredi Kartı,33.0,Kadın,Beklemede,4.7,0.0
+2024-03-16,Ankara,Elektronik,Tablet,15903.98,3,47711.94,Bireysel,Havale/EFT,31.0,Kadın,Beklemede,4.6,0.0
+2024-03-16,İstanbul,Kozmetik,Nemlendirici Krem,59.34,2,118.68,Premium,Havale/EFT,28.0,Kadın,Tamamlandı,3.4,0.0
+2024-03-18,İzmir,Kozmetik,Nemlendirici Krem,98.37,1,98.37,Bireysel,Havale/EFT,21.0,Erkek,Tamamlandı,3.9,0.0
+2024-03-18,İzmir,Giyim,Pantolon,2021.5,2,4043.0,Bireysel,Kapıda Ödeme,29.0,Kadın,Tamamlandı,3.3,0.26
+2024-03-18,Samsun,Giyim,Pantolon,626.11,2,1252.22,Bireysel,Havale/EFT,35.0,Erkek,Tamamlandı,3.1,0.0
+2024-03-18,Bursa,Kozmetik,Ruj,453.04,1,453.04,Kurumsal,Havale/EFT,,Kadın,Tamamlandı,3.4,0.0
+2024-03-18,Konya,Giyim,Ceket,1005.32,1,1005.32,Kurumsal,Kapıda Ödeme,35.0,Erkek,Tamamlandı,4.3,0.17
+2024-03-20,İstanbul,Kitap & Kırtasiye,Kalem Seti,265.63,3,796.89,Premium,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.8,0.16
+2024-03-21,İzmir,Kozmetik,Nemlendirici Krem,227.28,1,227.28,Bireysel,Havale/EFT,50.0,Kadın,Tamamlandı,3.6,0.0
+2024-03-21,İstanbul,Elektronik,Kulaklık,17506.23,1,17506.23,Kurumsal,Havale/EFT,27.0,Kadın,Tamamlandı,5.0,0.13
+2024-03-21,Adana,Spor,Spor Çantası,2007.21,2,4014.42,Bireysel,Kredi Kartı,43.0,Kadın,Tamamlandı,4.3,0.29
+2024-03-21,Gaziantep,Ev & Yaşam,Yastık,567.01,4,2268.04,Bireysel,Havale/EFT,22.0,Kadın,İptal Edildi,3.1,0.0
+2024-03-22,İstanbul,Gıda,Kuruyemiş,118.59,9,1067.31,Bireysel,Banka Kartı,56.0,Kadın,İptal Edildi,4.6,0.0
+2024-03-23,Antalya,Kozmetik,Ruj,875.2,3,2625.6,Premium,Kapıda Ödeme,50.0,Kadın,Tamamlandı,4.6,0.0
+2024-03-24,İstanbul,Spor,Spor Çantası,622.25,2,1244.5,Bireysel,Kapıda Ödeme,37.0,Erkek,Tamamlandı,3.6,0.0
+2024-03-25,Antalya,Kozmetik,Göz Farı,762.84,1,762.84,Bireysel,Havale/EFT,34.0,Kadın,Tamamlandı,5.0,0.2
+2024-03-25,İstanbul,Gıda,Bal,34.28,1,34.28,Kurumsal,Havale/EFT,33.0,Erkek,İptal Edildi,3.3,0.21
+2024-03-26,İzmir,Giyim,Elbise,2236.16,5,11180.8,Kurumsal,Banka Kartı,18.0,Kadın,Tamamlandı,3.6,0.0
+2024-03-26,İzmir,Gıda,Çay,377.6,2,755.2,Bireysel,Kredi Kartı,30.0,Kadın,Tamamlandı,2.0,0.0
+2024-03-26,İstanbul,Elektronik,Dizüstü Bilgisayar,14259.07,4,57036.28,Bireysel,Kapıda Ödeme,36.0,Kadın,Tamamlandı,4.4,0.0
+2024-03-26,Gaziantep,Gıda,Kahve,172.3,2,344.6,Kurumsal,Havale/EFT,33.0,Erkek,Tamamlandı,3.9,0.27
+2024-03-27,Bursa,Kozmetik,Parfüm,945.35,1,945.35,Bireysel,Banka Kartı,21.0,Erkek,Tamamlandı,4.8,0.08
+2024-03-28,İzmir,Ev & Yaşam,Havlu Seti,317.24,2,634.48,Kurumsal,Banka Kartı,39.0,Erkek,Tamamlandı,4.0,0.0
+2024-03-28,Adana,Ev & Yaşam,Mum,275.75,6,1654.5,Bireysel,Kapıda Ödeme,30.0,Kadın,Tamamlandı,2.6,0.0
+2024-03-29,Konya,Giyim,Ayakkabı,955.48,1,955.48,Bireysel,Banka Kartı,,Erkek,Tamamlandı,4.8,0.0
+2024-03-29,İzmir,Elektronik,Tablet,17087.43,2,34174.86,Bireysel,Kredi Kartı,47.0,Erkek,Tamamlandı,4.3,0.0
+2024-03-30,Samsun,Kitap & Kırtasiye,Roman,293.57,2,587.14,Bireysel,Kredi Kartı,27.0,Kadın,Tamamlandı,3.8,0.09
+2024-03-30,İzmir,Ev & Yaşam,Nevresim Takımı,1430.78,2,2861.56,Kurumsal,Banka Kartı,53.0,Erkek,İptal Edildi,3.2,0.0
+2024-03-30,İstanbul,Ev & Yaşam,Havlu Seti,1262.62,6,7575.72,Kurumsal,Kredi Kartı,38.0,Erkek,İade Edildi,2.1,0.0
+2024-03-31,İstanbul,Spor,Dambıl Seti,2784.16,2,5568.32,Kurumsal,Havale/EFT,28.0,Kadın,Tamamlandı,4.9,0.11
+2024-04-01,Adana,Ev & Yaşam,Nevresim Takımı,535.57,2,1071.14,Premium,Kapıda Ödeme,30.0,Kadın,Tamamlandı,3.3,0.0
+2024-04-01,Konya,Gıda,Zeytinyağı,45.71,2,91.42,Bireysel,Kredi Kartı,46.0,Kadın,Tamamlandı,4.1,0.0
+2024-04-02,Konya,Ev & Yaşam,Yastık,308.85,3,926.55,Bireysel,Kredi Kartı,33.0,Kadın,Beklemede,4.6,0.26
+2024-04-03,Adana,Elektronik,Akıllı Telefon,17020.19,3,51060.57,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,4.7,0.13
+2024-04-04,Samsun,Gıda,Çay,189.03,1,189.03,Bireysel,Banka Kartı,31.0,Erkek,Tamamlandı,3.7,0.26
+2024-04-04,İstanbul,Spor,Yoga Matı,1316.97,3,3950.91,Premium,Havale/EFT,22.0,Erkek,Tamamlandı,4.5,0.25
+2024-04-04,Ankara,Elektronik,Tablet,19173.59,6,115041.54,Kurumsal,Kapıda Ödeme,26.0,Erkek,Tamamlandı,4.0,0.0
+2024-04-04,İstanbul,Giyim,Elbise,206.52,1,206.52,Bireysel,Banka Kartı,35.0,Kadın,İade Edildi,4.6,0.08
+2024-04-05,Ankara,Elektronik,Akıllı Saat,21152.16,1,21152.16,Bireysel,Banka Kartı,32.0,Erkek,Tamamlandı,5.0,0.0
+2024-04-05,Antalya,Kitap & Kırtasiye,Roman,132.17,3,396.51,Bireysel,Banka Kartı,30.0,Kadın,Tamamlandı,3.6,0.0
+2024-04-05,İzmir,Giyim,Pantolon,2453.44,2,4906.88,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,4.0,0.0
+2024-04-05,Gaziantep,Gıda,Çay,96.45,2,192.9,Bireysel,Kredi Kartı,37.0,Erkek,İptal Edildi,3.8,0.13
+2024-04-06,Bursa,Spor,Dambıl Seti,2941.22,2,5882.44,Premium,Kapıda Ödeme,24.0,Erkek,Tamamlandı,5.0,0.27
+2024-04-07,Antalya,Giyim,Pantolon,888.39,1,888.39,Bireysel,Banka Kartı,42.0,Kadın,Tamamlandı,3.9,0.0
+2024-04-07,Trabzon,Elektronik,Kulaklık,3890.74,3,11672.22,Kurumsal,Kredi Kartı,45.0,Erkek,Tamamlandı,3.3,0.28
+2024-04-07,İstanbul,Giyim,Elbise,297.08,1,297.08,Bireysel,Kapıda Ödeme,18.0,Erkek,Beklemede,3.7,0.0
+2024-04-08,Ankara,Giyim,Elbise,390.61,1,390.61,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,,0.13
+2024-04-08,Antalya,Kozmetik,Göz Farı,253.73,2,507.46,Bireysel,Kredi Kartı,23.0,Kadın,İade Edildi,3.5,0.27
+2024-04-08,Samsun,Giyim,Pantolon,679.27,3,2037.81,Bireysel,Banka Kartı,20.0,Erkek,Tamamlandı,3.4,0.0
+2024-04-08,Ankara,Giyim,Ayakkabı,1140.07,1,1140.07,Bireysel,Banka Kartı,24.0,Kadın,Tamamlandı,5.0,0.0
+2024-04-08,İstanbul,Giyim,Ceket,1181.0,3,3543.0,Bireysel,Banka Kartı,32.0,Kadın,Tamamlandı,4.6,0.0
+2024-04-08,İstanbul,Giyim,Ceket,1799.05,1,1799.05,Kurumsal,Banka Kartı,34.0,Erkek,Tamamlandı,3.2,0.0
+2024-04-08,Konya,Ev & Yaşam,Mum,1302.49,2,2604.98,Kurumsal,Havale/EFT,38.0,Kadın,Tamamlandı,3.0,0.07
+2024-04-08,Bursa,Kozmetik,Ruj,1117.37,2,2234.74,Kurumsal,Havale/EFT,30.0,Erkek,Tamamlandı,3.5,0.0
+2024-04-09,Ankara,Ev & Yaşam,Nevresim Takımı,1155.09,1,1155.09,Bireysel,Havale/EFT,33.0,Kadın,Tamamlandı,4.8,0.0
+2024-04-09,İstanbul,Ev & Yaşam,Nevresim Takımı,81.68,2,163.36,Bireysel,Kredi Kartı,33.0,Erkek,Tamamlandı,2.9,0.0
+2024-04-11,Bursa,Ev & Yaşam,Dekoratif Vazo,238.96,1,238.96,Kurumsal,Kredi Kartı,40.0,Kadın,İptal Edildi,4.5,0.22
+2024-04-12,İstanbul,Gıda,Bal,167.36,7,1171.52,Kurumsal,Kredi Kartı,42.0,Erkek,İptal Edildi,4.9,0.0
+2024-04-12,İzmir,Gıda,Zeytinyağı,299.2,4,1196.8,Bireysel,Kredi Kartı,32.0,Kadın,Tamamlandı,4.2,0.0
+2024-04-12,İstanbul,Giyim,Tişört,2354.62,9,21191.58,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,4.0,0.0
+2024-04-13,Antalya,Ev & Yaşam,Yastık,1462.94,1,1462.94,Bireysel,Kapıda Ödeme,29.0,Erkek,Tamamlandı,3.3,0.0
+2024-04-13,Bursa,Giyim,Elbise,1069.05,2,2138.1,Bireysel,Kapıda Ödeme,22.0,Kadın,Tamamlandı,3.1,0.13
+2024-04-13,Antalya,Kitap & Kırtasiye,Boyama Kitabı,52.01,5,260.05,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,4.2,0.29
+2024-04-14,İstanbul,Elektronik,Dizüstü Bilgisayar,12795.8,1,12795.8,Bireysel,Banka Kartı,35.0,Erkek,Tamamlandı,4.2,0.0
+2024-04-15,İstanbul,Ev & Yaşam,Yastık,838.96,4,3355.84,Kurumsal,Kapıda Ödeme,46.0,Kadın,Tamamlandı,3.5,0.14
+2024-04-15,Bursa,Giyim,Elbise,2153.82,6,12922.92,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,3.4,0.0
+2024-04-15,Bursa,Ev & Yaşam,Mum,1054.72,1,1054.72,Kurumsal,Banka Kartı,32.0,Erkek,Tamamlandı,3.4,0.0
+2024-04-15,İzmir,Kozmetik,Göz Farı,160.03,2,320.06,Bireysel,Kredi Kartı,32.0,Erkek,Tamamlandı,2.9,0.0
+2024-04-16,İzmir,Ev & Yaşam,Nevresim Takımı,753.58,2,1507.16,Premium,Kredi Kartı,25.0,Erkek,Tamamlandı,4.2,0.0
+2024-04-16,Antalya,Spor,Spor Çantası,113.01,3,339.03,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,4.7,0.0
+2024-04-17,İzmir,Elektronik,Akıllı Saat,19041.34,2,38082.68,Kurumsal,Banka Kartı,31.0,Kadın,Tamamlandı,3.7,0.0
+2024-04-17,İstanbul,Kozmetik,Nemlendirici Krem,1039.74,2,2079.48,Kurumsal,Banka Kartı,28.0,Erkek,Tamamlandı,3.8,0.22
+2024-04-18,Ankara,Elektronik,Akıllı Telefon,18619.3,1,18619.3,Bireysel,Kredi Kartı,43.0,Kadın,Tamamlandı,3.7,0.0
+2024-04-18,Ankara,Elektronik,Akıllı Telefon,10855.82,5,54279.1,Kurumsal,Kapıda Ödeme,39.0,Erkek,Beklemede,4.2,0.0
+2024-04-18,İzmir,Giyim,Ceket,408.22,2,816.44,Premium,Havale/EFT,21.0,Erkek,Tamamlandı,3.8,0.0
+2024-04-20,Ankara,Ev & Yaşam,Yastık,867.42,6,5204.52,Kurumsal,Kredi Kartı,35.0,Erkek,Tamamlandı,3.1,0.0
+2024-04-20,İstanbul,Ev & Yaşam,Nevresim Takımı,1061.28,1,1061.28,Premium,Havale/EFT,38.0,Erkek,İptal Edildi,5.0,0.0
+2024-04-20,Adana,Giyim,Tişört,1974.24,1,1974.24,Premium,Kapıda Ödeme,25.0,Erkek,Tamamlandı,2.3,0.11
+2024-04-21,Adana,Gıda,Bal,416.26,3,1248.78,Bireysel,Banka Kartı,29.0,Kadın,Tamamlandı,4.1,0.0
+2024-04-22,Bursa,Giyim,Pantolon,1048.8,1,1048.8,Kurumsal,Kredi Kartı,,Erkek,Tamamlandı,3.3,0.28
+2024-04-22,Adana,Elektronik,Tablet,8569.79,4,34279.16,Bireysel,Banka Kartı,44.0,Kadın,Tamamlandı,2.5,0.29
+2024-04-22,İstanbul,Kozmetik,Nemlendirici Krem,1101.51,1,1101.51,Bireysel,Havale/EFT,51.0,Kadın,İptal Edildi,3.1,0.0
+2024-04-22,İstanbul,Gıda,Kahve,355.67,5,1778.35,Kurumsal,Kapıda Ödeme,35.0,Erkek,Tamamlandı,3.8,0.0
+2024-04-22,İstanbul,Gıda,Kahve,355.65,7,2489.55,Premium,Kredi Kartı,31.0,Kadın,İade Edildi,4.3,0.0
+2024-04-22,İzmir,Elektronik,Akıllı Telefon,10897.11,4,43588.44,Bireysel,Kapıda Ödeme,25.0,Erkek,Tamamlandı,4.8,0.17
+2024-04-23,İstanbul,Spor,Dambıl Seti,2161.21,5,10806.05,Bireysel,Havale/EFT,21.0,Kadın,Tamamlandı,4.3,0.24
+2024-04-24,İstanbul,Kozmetik,Parfüm,848.54,2,1697.08,Kurumsal,Kredi Kartı,38.0,Kadın,İade Edildi,3.9,0.0
+2024-04-24,Bursa,Ev & Yaşam,Havlu Seti,195.22,2,390.44,Bireysel,Havale/EFT,25.0,Erkek,Tamamlandı,4.2,0.0
+2024-04-25,İzmir,Ev & Yaşam,Mum,902.31,5,4511.55,Kurumsal,Kredi Kartı,32.0,Erkek,Tamamlandı,4.4,0.0
+2024-04-26,İstanbul,Giyim,Ayakkabı,459.7,1,459.7,Kurumsal,Kredi Kartı,40.0,Kadın,Beklemede,2.4,0.21
+2024-04-26,Antalya,Giyim,Pantolon,1852.92,6,11117.52,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,4.0,0.0
+2024-04-26,Konya,Gıda,Bal,118.5,3,355.5,Bireysel,Banka Kartı,38.0,Kadın,İade Edildi,4.2,0.0
+2024-04-27,Antalya,Gıda,Bal,426.28,3,1278.84,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,5.0,0.11
+2024-04-27,Trabzon,Kozmetik,Parfüm,786.38,9,7077.42,Kurumsal,Banka Kartı,40.0,Kadın,Beklemede,2.8,0.09
+2024-04-27,Gaziantep,Spor,Yoga Matı,1423.6,1,1423.6,Bireysel,Banka Kartı,35.0,Kadın,Tamamlandı,3.7,0.25
+2024-04-27,Antalya,Elektronik,Tablet,23435.99,4,93743.96,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,4.8,0.0
+2024-04-27,Ankara,Kozmetik,Nemlendirici Krem,667.04,2,1334.08,Kurumsal,Havale/EFT,30.0,Kadın,Tamamlandı,5.0,0.25
+2024-04-28,İstanbul,Elektronik,Akıllı Telefon,12818.19,1,12818.19,Bireysel,Kredi Kartı,41.0,Kadın,Tamamlandı,3.3,0.0
+2024-04-28,İstanbul,Kitap & Kırtasiye,Defter,199.75,2,399.5,Premium,Kredi Kartı,59.0,Erkek,Tamamlandı,4.2,0.25
+2024-04-29,Ankara,Giyim,Ayakkabı,1997.95,5,9989.75,Premium,Kapıda Ödeme,29.0,Erkek,Tamamlandı,3.4,0.0
+2024-04-29,Trabzon,Giyim,Ceket,717.79,3,2153.37,Kurumsal,Banka Kartı,42.0,Kadın,Tamamlandı,4.2,0.0
+2024-04-29,İzmir,Spor,Spor Çantası,2906.88,1,2906.88,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,4.6,0.0
+2024-04-30,Ankara,Elektronik,Akıllı Telefon,7474.53,4,29898.12,Premium,Banka Kartı,28.0,Kadın,Tamamlandı,2.8,0.0
+2024-05-01,Adana,Gıda,Zeytinyağı,408.41,6,2450.46,Bireysel,Havale/EFT,37.0,Kadın,Tamamlandı,3.4,0.18
+2024-05-01,Konya,Elektronik,Akıllı Saat,24600.93,7,172206.51,Bireysel,Kredi Kartı,56.0,Erkek,Tamamlandı,3.5,0.14
+2024-05-02,Bursa,Kitap & Kırtasiye,Kalem Seti,147.24,1,147.24,Bireysel,Havale/EFT,44.0,Erkek,Tamamlandı,3.5,0.0
+2024-05-03,Konya,Elektronik,Dizüstü Bilgisayar,16275.74,4,65102.96,Kurumsal,Kredi Kartı,40.0,Erkek,Beklemede,3.3,0.0
+2024-05-04,Konya,Elektronik,Tablet,5687.0,4,22748.0,Kurumsal,Kredi Kartı,33.0,Erkek,Tamamlandı,4.5,0.0
+2024-05-05,Antalya,Ev & Yaşam,Nevresim Takımı,172.11,2,344.22,Bireysel,Havale/EFT,33.0,Kadın,Beklemede,3.6,0.0
+2024-05-05,İzmir,Spor,Dambıl Seti,2341.04,5,11705.2,Bireysel,Banka Kartı,37.0,Erkek,Tamamlandı,3.1,0.24
+2024-05-05,Ankara,Ev & Yaşam,Havlu Seti,336.65,1,336.65,Kurumsal,Kredi Kartı,18.0,Erkek,Tamamlandı,5.0,0.0
+2024-05-06,Adana,Giyim,Ceket,815.04,4,3260.16,Kurumsal,Kredi Kartı,43.0,Erkek,Tamamlandı,2.6,0.24
+2024-05-06,Antalya,Kozmetik,Güneş Kremi,551.1,1,551.1,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,4.9,0.2
+2024-05-07,Ankara,Kozmetik,Güneş Kremi,419.02,4,1676.08,Bireysel,Kapıda Ödeme,22.0,Kadın,Tamamlandı,3.8,0.13
+2024-05-07,Bursa,Gıda,Kuruyemiş,102.78,8,822.24,Bireysel,Kredi Kartı,30.0,Kadın,Tamamlandı,3.3,0.0
+2024-05-07,Gaziantep,Kozmetik,Güneş Kremi,97.01,4,388.04,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,3.4,0.0
+2024-05-08,Ankara,Elektronik,Tablet,6338.1,1,6338.1,Bireysel,Banka Kartı,48.0,Kadın,İptal Edildi,3.9,0.11
+2024-05-09,Bursa,Ev & Yaşam,Yastık,875.49,2,1750.98,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,3.2,0.0
+2024-05-09,İzmir,Giyim,Ayakkabı,1842.96,1,1842.96,Premium,Kapıda Ödeme,28.0,Erkek,Tamamlandı,3.8,0.0
+2024-05-09,Gaziantep,Elektronik,Akıllı Saat,20839.97,1,20839.97,Kurumsal,Kredi Kartı,42.0,Erkek,Tamamlandı,3.5,0.0
+2024-05-10,Ankara,Kozmetik,Güneş Kremi,195.94,1,195.94,Kurumsal,Banka Kartı,42.0,Kadın,Tamamlandı,3.3,0.0
+2024-05-10,İstanbul,Giyim,Pantolon,1060.02,9,9540.18,Bireysel,Havale/EFT,23.0,Erkek,İade Edildi,5.0,0.3
+2024-05-10,İzmir,Elektronik,Akıllı Telefon,7239.92,6,43439.52,Kurumsal,Banka Kartı,33.0,Kadın,Tamamlandı,5.0,0.0
+2024-05-10,Ankara,Ev & Yaşam,Nevresim Takımı,1444.24,3,4332.72,Bireysel,Kredi Kartı,30.0,Erkek,Tamamlandı,3.8,0.0
+2024-05-10,İzmir,Kitap & Kırtasiye,Ajanda,113.81,2,227.62,Bireysel,Havale/EFT,24.0,Kadın,İptal Edildi,4.0,0.0
+2024-05-11,Bursa,Ev & Yaşam,Nevresim Takımı,582.64,5,2913.2,Kurumsal,Kredi Kartı,45.0,Erkek,Tamamlandı,4.3,0.0
+2024-05-11,Samsun,Elektronik,Akıllı Saat,2929.08,2,5858.16,Kurumsal,Kapıda Ödeme,44.0,Kadın,İptal Edildi,4.1,0.0
+2024-05-12,Adana,Kozmetik,Güneş Kremi,558.87,3,1676.61,Bireysel,Banka Kartı,22.0,Erkek,Tamamlandı,3.2,0.0
+2024-05-12,Trabzon,Gıda,Bal,184.88,2,369.76,Bireysel,Kredi Kartı,31.0,Kadın,Tamamlandı,2.9,0.0
+2024-05-12,Samsun,Elektronik,Akıllı Telefon,5663.7,3,16991.1,Premium,Kredi Kartı,31.0,Erkek,Tamamlandı,2.5,0.0
+2024-05-13,Ankara,Gıda,Kuruyemiş,351.82,1,351.82,Bireysel,Kredi Kartı,23.0,Erkek,Tamamlandı,4.6,0.0
+2024-05-13,Ankara,Ev & Yaşam,Dekoratif Vazo,920.78,1,920.78,Bireysel,Kredi Kartı,46.0,Erkek,Tamamlandı,4.3,0.0
+2024-05-14,Adana,Gıda,Kuruyemiş,204.86,6,1229.16,Kurumsal,Kredi Kartı,43.0,Kadın,Tamamlandı,3.8,0.26
+2024-05-14,Samsun,Giyim,Pantolon,2327.1,2,4654.2,Bireysel,Havale/EFT,24.0,Kadın,Tamamlandı,4.0,0.0
+2024-05-16,Ankara,Giyim,Pantolon,1205.97,4,4823.88,Bireysel,Banka Kartı,42.0,Erkek,Tamamlandı,4.9,0.0
+2024-05-16,Ankara,Elektronik,Akıllı Telefon,5164.35,1,5164.35,Bireysel,Banka Kartı,43.0,Erkek,İptal Edildi,3.3,0.15
+2024-05-16,Samsun,Elektronik,Kulaklık,22630.2,1,22630.2,Kurumsal,Kredi Kartı,21.0,Erkek,Tamamlandı,3.3,0.0
+2024-05-16,Trabzon,Spor,Pilates Bandı,1389.51,3,4168.53,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,3.6,0.0
+2024-05-17,Bursa,Kozmetik,Parfüm,1160.0,2,2320.0,Bireysel,Kapıda Ödeme,43.0,Erkek,Tamamlandı,2.2,0.0
+2024-05-18,İzmir,Giyim,Pantolon,459.0,2,918.0,Kurumsal,Havale/EFT,30.0,Kadın,İade Edildi,3.9,0.0
+2024-05-18,İstanbul,Elektronik,Dizüstü Bilgisayar,722.63,2,1445.26,Premium,Kapıda Ödeme,36.0,Kadın,Tamamlandı,4.1,0.27
+2024-05-19,İstanbul,Ev & Yaşam,Nevresim Takımı,847.32,4,3389.28,Bireysel,Banka Kartı,21.0,Kadın,Tamamlandı,3.0,0.17
+2024-05-20,İstanbul,Kozmetik,Göz Farı,364.53,2,729.06,Bireysel,Havale/EFT,26.0,Kadın,Tamamlandı,2.1,0.0
+2024-05-20,İstanbul,Gıda,Kahve,165.08,7,1155.56,Bireysel,Banka Kartı,63.0,Kadın,Tamamlandı,4.8,0.0
+2024-05-20,Antalya,Kozmetik,Parfüm,121.84,1,121.84,Premium,Banka Kartı,38.0,Kadın,Tamamlandı,4.4,0.2
+2024-05-21,Ankara,Elektronik,Kulaklık,16084.59,1,16084.59,Bireysel,Banka Kartı,49.0,Erkek,Tamamlandı,3.2,0.0
+2024-05-22,Gaziantep,Kitap & Kırtasiye,Boyama Kitabı,288.02,1,288.02,Bireysel,Kredi Kartı,46.0,Kadın,Tamamlandı,3.9,0.17
+2024-05-22,İstanbul,Elektronik,Akıllı Saat,12982.97,2,25965.94,Premium,Kredi Kartı,37.0,Kadın,İptal Edildi,4.8,0.09
+2024-05-22,İstanbul,Elektronik,Akıllı Telefon,9533.77,2,19067.54,Premium,Kredi Kartı,41.0,Erkek,Tamamlandı,5.0,0.0
+2024-05-23,İstanbul,Giyim,Ayakkabı,2035.26,1,2035.26,Premium,Kredi Kartı,32.0,Kadın,Tamamlandı,3.9,0.0
+2024-05-23,İstanbul,Gıda,Kahve,244.04,4,976.16,Bireysel,Kapıda Ödeme,37.0,Kadın,Tamamlandı,2.4,0.07
+2024-05-23,İstanbul,Kitap & Kırtasiye,Ajanda,262.38,3,787.14,Kurumsal,Kredi Kartı,42.0,Erkek,Tamamlandı,4.4,0.24
+2024-05-23,Antalya,Kozmetik,Nemlendirici Krem,187.17,4,748.68,Bireysel,Banka Kartı,50.0,Erkek,Tamamlandı,4.8,0.0
+2024-05-23,Adana,Giyim,Tişört,2402.58,1,2402.58,Bireysel,Havale/EFT,29.0,Erkek,Tamamlandı,3.3,0.0
+2024-05-24,Antalya,Spor,Dambıl Seti,1116.71,4,4466.84,Bireysel,Kredi Kartı,23.0,Kadın,Tamamlandı,4.2,0.0
+2024-05-24,Ankara,Giyim,Ayakkabı,426.21,2,852.42,Bireysel,Kredi Kartı,29.0,Kadın,Tamamlandı,2.6,0.0
+2024-05-24,Ankara,Spor,Pilates Bandı,1804.88,7,12634.16,Bireysel,Banka Kartı,28.0,Erkek,Tamamlandı,3.8,0.21
+2024-05-24,Konya,Ev & Yaşam,Nevresim Takımı,196.69,1,196.69,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,3.2,0.0
+2024-05-25,Konya,Gıda,Zeytinyağı,251.23,8,2009.84,Bireysel,Kapıda Ödeme,45.0,Kadın,Tamamlandı,5.0,0.12
+2024-05-25,İstanbul,Elektronik,Tablet,15521.35,1,15521.35,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,4.6,0.0
+2024-05-25,İzmir,Kitap & Kırtasiye,Boyama Kitabı,56.5,5,282.5,Kurumsal,Kredi Kartı,48.0,Kadın,Tamamlandı,4.2,0.07
+2024-05-25,İzmir,Giyim,Elbise,1863.04,2,3726.08,Bireysel,Kredi Kartı,36.0,Erkek,Beklemede,4.4,0.0
+2024-05-26,Antalya,Spor,Yoga Matı,281.71,4,1126.84,Bireysel,Havale/EFT,18.0,Erkek,Beklemede,,0.0
+2024-05-26,Gaziantep,Ev & Yaşam,Havlu Seti,680.77,2,1361.54,Kurumsal,Havale/EFT,51.0,Kadın,Tamamlandı,2.4,0.17
+2024-05-27,Samsun,Giyim,Ceket,1910.38,1,1910.38,Bireysel,Havale/EFT,30.0,Erkek,Tamamlandı,3.9,0.0
+2024-05-27,İstanbul,Giyim,Pantolon,788.23,1,788.23,Kurumsal,Havale/EFT,49.0,Erkek,Beklemede,4.9,0.0
+2024-05-27,Antalya,Giyim,Pantolon,179.42,1,179.42,Kurumsal,Banka Kartı,44.0,Erkek,Tamamlandı,5.0,0.17
+2024-05-28,İzmir,Kozmetik,Parfüm,602.68,1,602.68,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,3.5,0.0
+2024-05-28,İzmir,Giyim,Ceket,127.56,1,127.56,Premium,Kapıda Ödeme,,Erkek,Tamamlandı,3.6,0.0
+2024-05-29,Konya,Kozmetik,Nemlendirici Krem,207.32,1,207.32,Bireysel,Banka Kartı,33.0,Kadın,Tamamlandı,3.1,0.0
+2024-05-30,Ankara,Gıda,Zeytinyağı,305.7,6,1834.2,Kurumsal,Banka Kartı,38.0,Erkek,Tamamlandı,3.3,0.0
+2024-05-30,Adana,Ev & Yaşam,Nevresim Takımı,1321.83,2,2643.66,Premium,Kredi Kartı,23.0,Kadın,Tamamlandı,4.5,0.0
+2024-05-30,Konya,Gıda,Kuruyemiş,465.31,1,465.31,Bireysel,Banka Kartı,38.0,Erkek,Tamamlandı,3.3,0.28
+2024-05-31,Antalya,Giyim,Tişört,1522.47,2,3044.94,Bireysel,Banka Kartı,43.0,Erkek,Tamamlandı,5.0,0.0
+2024-05-31,İzmir,Elektronik,Kulaklık,8853.57,7,61974.99,Bireysel,Kredi Kartı,23.0,Kadın,Tamamlandı,4.1,0.0
+2024-06-01,Samsun,Spor,Dambıl Seti,1971.55,3,5914.65,Kurumsal,Kredi Kartı,47.0,Kadın,Tamamlandı,3.8,0.15
+2024-06-01,Adana,Ev & Yaşam,Mum,1136.05,2,2272.1,Bireysel,Banka Kartı,50.0,Erkek,Tamamlandı,4.0,0.0
+2024-06-02,Antalya,Gıda,Kahve,155.07,5,775.35,Bireysel,Kredi Kartı,51.0,Erkek,Tamamlandı,5.0,0.0
+2024-06-02,Konya,Elektronik,Kulaklık,17299.96,2,34599.92,Kurumsal,Kapıda Ödeme,36.0,Kadın,Tamamlandı,4.0,0.0
+2024-06-02,Ankara,Ev & Yaşam,Nevresim Takımı,1150.36,1,1150.36,Bireysel,Banka Kartı,52.0,Erkek,İptal Edildi,4.8,0.3
+2024-06-03,Adana,Gıda,Kuruyemiş,126.76,8,1014.08,Bireysel,Kredi Kartı,24.0,Erkek,Tamamlandı,3.7,0.0
+2024-06-04,İstanbul,Ev & Yaşam,Mum,674.0,3,2022.0,Bireysel,Kredi Kartı,38.0,Erkek,İade Edildi,4.5,0.0
+2024-06-05,İstanbul,Kozmetik,Ruj,601.64,5,3008.2,Kurumsal,Banka Kartı,33.0,Erkek,Tamamlandı,4.4,0.0
+2024-06-05,Adana,Spor,Yoga Matı,1771.51,9,15943.59,Bireysel,Kapıda Ödeme,50.0,Erkek,Tamamlandı,3.2,0.0
+2024-06-05,İstanbul,Giyim,Elbise,661.39,1,661.39,Bireysel,Kredi Kartı,42.0,Erkek,Tamamlandı,3.3,0.29
+2024-06-05,İstanbul,Giyim,Ceket,1090.85,5,5454.25,Bireysel,Kredi Kartı,53.0,Kadın,Tamamlandı,4.0,0.0
+2024-06-06,Trabzon,Ev & Yaşam,Mum,1371.12,1,1371.12,Bireysel,Kredi Kartı,55.0,Erkek,Tamamlandı,3.2,0.0
+2024-06-06,Adana,Ev & Yaşam,Havlu Seti,398.22,3,1194.66,Kurumsal,Havale/EFT,24.0,Erkek,Tamamlandı,3.1,0.0
+2024-06-07,İzmir,Spor,Spor Çantası,1317.35,6,7904.1,Kurumsal,Kapıda Ödeme,24.0,Erkek,Tamamlandı,5.0,0.0
+2024-06-07,İstanbul,Gıda,Bal,245.36,1,245.36,Bireysel,Kredi Kartı,18.0,Kadın,İade Edildi,3.7,0.0
+2024-06-08,Ankara,Kozmetik,Parfüm,1133.86,7,7937.02,Kurumsal,Kapıda Ödeme,32.0,Kadın,Tamamlandı,3.1,0.0
+2024-06-08,İzmir,Elektronik,Kulaklık,17083.37,2,34166.74,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.2,0.0
+2024-06-08,Antalya,Elektronik,Akıllı Telefon,6800.23,3,20400.69,Kurumsal,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.7,0.0
+2024-06-09,Antalya,Gıda,Bal,53.03,1,53.03,Kurumsal,Banka Kartı,29.0,Kadın,Tamamlandı,3.8,0.0
+2024-06-09,İstanbul,Kitap & Kırtasiye,Kalem Seti,282.46,1,282.46,Kurumsal,Kredi Kartı,56.0,Erkek,Tamamlandı,3.8,0.0
+2024-06-09,Konya,Giyim,Tişört,1127.47,2,2254.94,Bireysel,Banka Kartı,42.0,Kadın,Tamamlandı,4.9,0.14
+2024-06-09,İzmir,Gıda,Bal,418.4,2,836.8,Premium,Havale/EFT,49.0,Kadın,Tamamlandı,4.3,0.05
+2024-06-09,Konya,Spor,Pilates Bandı,2908.32,3,8724.96,Premium,Kredi Kartı,27.0,Erkek,Tamamlandı,3.8,0.26
+2024-06-10,Ankara,Elektronik,Kulaklık,1133.05,2,2266.1,Bireysel,Havale/EFT,18.0,Kadın,Tamamlandı,3.3,0.0
+2024-06-10,Gaziantep,Gıda,Kahve,220.65,2,441.3,Bireysel,Banka Kartı,54.0,Kadın,İade Edildi,,0.0
+2024-06-11,Gaziantep,Gıda,Çay,141.26,3,423.78,Bireysel,Kapıda Ödeme,50.0,Kadın,İade Edildi,4.6,0.0
+2024-06-11,İzmir,Gıda,Kahve,236.39,4,945.56,Bireysel,Kapıda Ödeme,45.0,Kadın,Tamamlandı,4.5,0.0
+2024-06-13,Gaziantep,Gıda,Kahve,305.53,1,305.53,Kurumsal,Banka Kartı,58.0,Kadın,Beklemede,4.2,0.0
+2024-06-13,Konya,Ev & Yaşam,Havlu Seti,691.85,1,691.85,Bireysel,Havale/EFT,24.0,Kadın,İptal Edildi,3.4,0.0
+2024-06-13,Trabzon,Giyim,Pantolon,140.06,5,700.3,Premium,Kredi Kartı,21.0,Kadın,Tamamlandı,3.7,0.0
+2024-06-14,İstanbul,Giyim,Ayakkabı,1194.83,4,4779.32,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,4.1,0.0
+2024-06-15,İzmir,Ev & Yaşam,Havlu Seti,639.18,2,1278.36,Kurumsal,Havale/EFT,38.0,Erkek,Tamamlandı,3.6,0.17
+2024-06-15,Gaziantep,Kozmetik,Göz Farı,135.78,1,135.78,Bireysel,Banka Kartı,21.0,Kadın,İptal Edildi,4.2,0.1
+2024-06-16,Bursa,Kitap & Kırtasiye,Roman,274.23,2,548.46,Bireysel,Kredi Kartı,24.0,Erkek,Tamamlandı,4.0,0.0
+2024-06-16,Antalya,Gıda,Kahve,275.94,5,1379.7,Kurumsal,Havale/EFT,18.0,Erkek,Tamamlandı,3.0,0.28
+2024-06-16,İstanbul,Kozmetik,Göz Farı,597.01,3,1791.03,Kurumsal,Kapıda Ödeme,37.0,Erkek,Beklemede,4.2,0.0
+2024-06-16,İstanbul,Ev & Yaşam,Nevresim Takımı,145.16,1,145.16,Kurumsal,Banka Kartı,21.0,Kadın,Tamamlandı,5.0,0.25
+2024-06-18,Antalya,Spor,Dambıl Seti,2056.76,1,2056.76,Kurumsal,Banka Kartı,46.0,Kadın,Tamamlandı,4.6,0.0
+2024-06-18,Adana,Ev & Yaşam,Havlu Seti,754.53,2,1509.06,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,3.8,0.0
+2024-06-19,İzmir,Kozmetik,Güneş Kremi,830.29,3,2490.87,Bireysel,Havale/EFT,18.0,Erkek,İptal Edildi,4.2,0.0
+2024-06-19,Ankara,Spor,Yoga Matı,2433.35,2,4866.7,Bireysel,Banka Kartı,36.0,Kadın,Tamamlandı,3.5,0.0
+2024-06-20,İstanbul,Gıda,Zeytinyağı,194.5,2,389.0,Bireysel,Banka Kartı,46.0,Kadın,Beklemede,4.6,0.0
+2024-06-20,Samsun,Ev & Yaşam,Nevresim Takımı,531.4,1,531.4,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,,0.0
+2024-06-20,İstanbul,Kitap & Kırtasiye,Defter,69.86,3,209.58,Bireysel,Havale/EFT,18.0,Kadın,İptal Edildi,4.7,0.0
+2024-06-21,Ankara,Elektronik,Dizüstü Bilgisayar,15364.55,3,46093.65,Premium,Banka Kartı,34.0,Kadın,Tamamlandı,2.7,0.17
+2024-06-21,Gaziantep,Giyim,Ceket,647.07,1,647.07,Bireysel,Havale/EFT,28.0,Erkek,İade Edildi,3.8,0.0
+2024-06-21,İstanbul,Ev & Yaşam,Havlu Seti,1016.29,1,1016.29,Kurumsal,Kredi Kartı,43.0,Erkek,Tamamlandı,4.1,0.0
+2024-06-22,İstanbul,Ev & Yaşam,Mum,570.18,9,5131.62,Bireysel,Kredi Kartı,46.0,Erkek,Tamamlandı,3.8,0.0
+2024-06-23,İstanbul,Spor,Yoga Matı,1504.51,4,6018.04,Kurumsal,Kredi Kartı,36.0,Kadın,Tamamlandı,3.5,0.2
+2024-06-24,Gaziantep,Kozmetik,Güneş Kremi,1156.77,2,2313.54,Bireysel,Kapıda Ödeme,35.0,Erkek,Beklemede,4.1,0.11
+2024-06-25,Antalya,Kitap & Kırtasiye,Boyama Kitabı,187.23,3,561.69,Premium,Kredi Kartı,26.0,Kadın,Tamamlandı,2.3,0.0
+2024-06-25,İstanbul,Kozmetik,Güneş Kremi,601.69,4,2406.76,Kurumsal,Kapıda Ödeme,22.0,Erkek,Tamamlandı,3.7,0.0
+2024-06-25,Samsun,Gıda,Kahve,273.63,2,547.26,Bireysel,Banka Kartı,34.0,Kadın,Tamamlandı,3.9,0.0
+2024-06-26,Samsun,Gıda,Kuruyemiş,300.62,2,601.24,Bireysel,Kredi Kartı,40.0,Erkek,Tamamlandı,3.7,0.13
+2024-06-26,İstanbul,Gıda,Bal,252.99,1,252.99,Kurumsal,Banka Kartı,24.0,Erkek,İptal Edildi,3.0,0.0
+2024-06-27,İstanbul,Spor,Koşu Ayakkabısı,1555.6,6,9333.6,Kurumsal,Kredi Kartı,32.0,Erkek,Tamamlandı,5.0,0.09
+2024-06-27,Gaziantep,Gıda,Kahve,278.88,2,557.76,Kurumsal,Kredi Kartı,30.0,Kadın,Tamamlandı,2.1,0.18
+2024-06-28,İstanbul,Kitap & Kırtasiye,Defter,281.81,1,281.81,Kurumsal,Havale/EFT,53.0,Erkek,Tamamlandı,2.7,0.0
+2024-06-28,İstanbul,Kozmetik,Güneş Kremi,77.68,1,77.68,Bireysel,Kredi Kartı,40.0,Erkek,Tamamlandı,2.6,0.0
+2024-06-29,İstanbul,Kozmetik,Güneş Kremi,256.44,3,769.32,Bireysel,Banka Kartı,42.0,Erkek,Tamamlandı,4.3,0.0
+2024-06-30,Bursa,Spor,Spor Çantası,543.82,3,1631.46,Premium,Kredi Kartı,31.0,Kadın,Tamamlandı,3.3,0.29
+2024-06-30,Ankara,Giyim,Elbise,561.96,1,561.96,Bireysel,Kapıda Ödeme,25.0,Kadın,Tamamlandı,3.8,0.26
+2024-06-30,Adana,Giyim,Elbise,2101.29,1,2101.29,Bireysel,Banka Kartı,27.0,Erkek,Tamamlandı,3.6,0.0
+2024-06-30,Antalya,Giyim,Ayakkabı,730.64,2,1461.28,Bireysel,Banka Kartı,29.0,Erkek,İade Edildi,5.0,0.0
+2024-07-01,Samsun,Ev & Yaşam,Dekoratif Vazo,1125.89,10,11258.9,Premium,Havale/EFT,31.0,Erkek,İptal Edildi,4.8,0.0
+2024-07-01,Konya,Ev & Yaşam,Mum,716.47,1,716.47,Bireysel,Havale/EFT,36.0,Erkek,İptal Edildi,4.2,0.0
+2024-07-02,İstanbul,Kitap & Kırtasiye,Defter,88.56,1,88.56,Premium,Havale/EFT,27.0,Erkek,Tamamlandı,3.9,0.12
+2024-07-02,Bursa,Kozmetik,Nemlendirici Krem,477.72,1,477.72,Bireysel,Banka Kartı,19.0,Kadın,Tamamlandı,3.7,0.17
+2024-07-04,Antalya,Gıda,Bal,374.14,2,748.28,Bireysel,Havale/EFT,49.0,Kadın,İade Edildi,4.8,0.0
+2024-07-05,Adana,Kozmetik,Nemlendirici Krem,684.81,5,3424.05,Bireysel,Banka Kartı,29.0,Kadın,Tamamlandı,4.1,0.0
+2024-07-05,İzmir,Ev & Yaşam,Nevresim Takımı,1259.77,3,3779.31,Bireysel,Kredi Kartı,42.0,Kadın,İptal Edildi,4.6,0.0
+2024-07-06,İstanbul,Ev & Yaşam,Mum,607.55,2,1215.1,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,4.0,0.22
+2024-07-06,Adana,Gıda,Zeytinyağı,188.56,2,377.12,Kurumsal,Havale/EFT,40.0,Erkek,İade Edildi,4.3,0.24
+2024-07-07,Ankara,Giyim,Ayakkabı,936.84,2,1873.68,Kurumsal,Kredi Kartı,51.0,Erkek,İptal Edildi,2.7,0.0
+2024-07-08,Konya,Spor,Dambıl Seti,2749.61,4,10998.44,Bireysel,Kredi Kartı,47.0,Kadın,Tamamlandı,2.8,0.24
+2024-07-08,İstanbul,Elektronik,Dizüstü Bilgisayar,22365.49,3,67096.47,Premium,Havale/EFT,30.0,Kadın,İptal Edildi,3.2,0.0
+2024-07-08,Konya,Spor,Dambıl Seti,879.36,1,879.36,Premium,Banka Kartı,32.0,Erkek,Tamamlandı,2.8,0.0
+2024-07-08,Antalya,Elektronik,Akıllı Telefon,18430.88,4,73723.52,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,4.9,0.2
+2024-07-08,Antalya,Kozmetik,Ruj,316.95,2,633.9,Bireysel,Havale/EFT,54.0,Erkek,Tamamlandı,5.0,0.0
+2024-07-09,Bursa,Ev & Yaşam,Yastık,1268.5,3,3805.5,Bireysel,Banka Kartı,18.0,Kadın,İade Edildi,1.9,0.0
+2024-07-09,İstanbul,Spor,Dambıl Seti,1032.89,2,2065.78,Bireysel,Kredi Kartı,25.0,Kadın,Tamamlandı,4.3,0.0
+2024-07-10,Gaziantep,Ev & Yaşam,Mum,131.09,6,786.54,Bireysel,Havale/EFT,33.0,Kadın,Tamamlandı,5.0,0.0
+2024-07-10,Gaziantep,Giyim,Tişört,2109.99,6,12659.94,Premium,Kredi Kartı,25.0,Kadın,Beklemede,2.7,0.0
+2024-07-10,Ankara,Giyim,Pantolon,1923.77,1,1923.77,Kurumsal,Kredi Kartı,35.0,Erkek,Tamamlandı,4.2,0.0
+2024-07-10,Gaziantep,Ev & Yaşam,Nevresim Takımı,224.55,1,224.55,Kurumsal,Banka Kartı,25.0,Erkek,İade Edildi,2.3,0.23
+2024-07-12,Antalya,Giyim,Pantolon,2017.98,1,2017.98,Bireysel,Kapıda Ödeme,32.0,Erkek,Tamamlandı,3.9,0.0
+2024-07-12,Ankara,Gıda,Çay,476.74,4,1906.96,Bireysel,Kredi Kartı,40.0,Kadın,Tamamlandı,4.0,0.0
+2024-07-12,Antalya,Giyim,Ceket,2305.9,3,6917.7,Bireysel,Kredi Kartı,35.0,Erkek,Tamamlandı,4.4,0.2
+2024-07-13,İstanbul,Spor,Spor Çantası,2723.38,6,16340.28,Kurumsal,Kapıda Ödeme,20.0,Kadın,Tamamlandı,5.0,0.0
+2024-07-13,Antalya,Spor,Yoga Matı,998.52,3,2995.56,Bireysel,Havale/EFT,50.0,Erkek,Tamamlandı,3.5,0.2
+2024-07-13,Ankara,Elektronik,Akıllı Saat,16206.61,1,16206.61,Kurumsal,Kredi Kartı,30.0,Erkek,Tamamlandı,5.0,0.3
+2024-07-14,Konya,Elektronik,Dizüstü Bilgisayar,13196.04,3,39588.12,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,4.0,0.0
+2024-07-14,İstanbul,Elektronik,Akıllı Saat,20490.92,6,122945.52,Premium,Kapıda Ödeme,27.0,Kadın,Tamamlandı,4.7,0.0
+2024-07-14,Antalya,Elektronik,Akıllı Saat,7723.02,2,15446.04,Premium,Banka Kartı,,Kadın,Tamamlandı,4.9,0.0
+2024-07-16,İzmir,Spor,Pilates Bandı,214.97,1,214.97,Kurumsal,Banka Kartı,40.0,Kadın,İptal Edildi,3.5,0.22
+2024-07-16,Ankara,Gıda,Bal,79.92,2,159.84,Bireysel,Banka Kartı,29.0,Kadın,Tamamlandı,2.5,0.0
+2024-07-18,İstanbul,Giyim,Pantolon,256.02,2,512.04,Kurumsal,Banka Kartı,59.0,Erkek,Tamamlandı,2.5,0.0
+2024-07-19,Ankara,Ev & Yaşam,Mum,162.92,5,814.6,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,3.1,0.0
+2024-07-19,Bursa,Spor,Yoga Matı,2694.99,7,18864.93,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,4.4,0.0
+2024-07-19,Bursa,Ev & Yaşam,Nevresim Takımı,215.25,2,430.5,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,3.2,0.0
+2024-07-19,İstanbul,Gıda,Kuruyemiş,73.45,5,367.25,Kurumsal,Havale/EFT,29.0,Kadın,Tamamlandı,4.1,0.0
+2024-07-19,Gaziantep,Kozmetik,Ruj,56.26,3,168.78,Kurumsal,Havale/EFT,39.0,Erkek,Tamamlandı,4.6,0.0
+2024-07-20,Konya,Giyim,Elbise,220.94,1,220.94,Kurumsal,Kredi Kartı,26.0,Kadın,Beklemede,2.9,0.12
+2024-07-20,Adana,Giyim,Ceket,489.37,3,1468.11,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,5.0,0.0
+2024-07-21,İzmir,Ev & Yaşam,Yastık,545.28,4,2181.12,Premium,Havale/EFT,24.0,Kadın,Tamamlandı,4.4,0.0
+2024-07-21,Trabzon,Spor,Yoga Matı,1009.06,1,1009.06,Kurumsal,Banka Kartı,47.0,Erkek,Tamamlandı,,0.21
+2024-07-22,Bursa,Elektronik,Kulaklık,24647.22,1,24647.22,Bireysel,Kapıda Ödeme,30.0,Kadın,Tamamlandı,2.2,0.0
+2024-07-23,İstanbul,Elektronik,Dizüstü Bilgisayar,10763.86,1,10763.86,Bireysel,Havale/EFT,31.0,Kadın,İptal Edildi,2.5,0.0
+2024-07-24,Gaziantep,Kitap & Kırtasiye,Kalem Seti,41.03,1,41.03,Bireysel,Kredi Kartı,27.0,Kadın,Tamamlandı,4.6,0.0
+2024-07-25,Gaziantep,Spor,Pilates Bandı,2549.55,2,5099.1,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,2.9,0.24
+2024-07-25,Samsun,Giyim,Ceket,1014.82,1,1014.82,Bireysel,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.1,0.0
+2024-07-26,Bursa,Giyim,Tişört,1860.93,1,1860.93,Kurumsal,Havale/EFT,39.0,Kadın,Tamamlandı,5.0,0.0
+2024-07-27,İzmir,Ev & Yaşam,Nevresim Takımı,862.17,2,1724.34,Premium,Kredi Kartı,47.0,Kadın,Tamamlandı,4.9,0.0
+2024-07-28,Bursa,Elektronik,Tablet,13122.21,2,26244.42,Bireysel,Havale/EFT,56.0,Kadın,Tamamlandı,4.2,0.0
+2024-07-28,Antalya,Ev & Yaşam,Dekoratif Vazo,177.81,1,177.81,Premium,Kapıda Ödeme,53.0,Kadın,Tamamlandı,4.4,0.0
+2024-07-30,Ankara,Kitap & Kırtasiye,Defter,48.15,3,144.45,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,,0.0
+2024-07-31,Ankara,Ev & Yaşam,Mum,1450.13,2,2900.26,Bireysel,Kredi Kartı,39.0,Kadın,İade Edildi,4.1,0.25
+2024-08-01,Konya,Spor,Dambıl Seti,1165.36,2,2330.72,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,2.1,0.16
+2024-08-02,Gaziantep,Gıda,Kahve,469.0,2,938.0,Bireysel,Havale/EFT,30.0,Erkek,İptal Edildi,2.7,0.0
+2024-08-02,İzmir,Gıda,Çay,75.45,5,377.25,Bireysel,Banka Kartı,18.0,Erkek,İade Edildi,3.2,0.0
+2024-08-02,İstanbul,Kitap & Kırtasiye,Kalem Seti,193.99,1,193.99,Kurumsal,Banka Kartı,37.0,Erkek,Tamamlandı,3.9,0.28
+2024-08-03,İstanbul,Kozmetik,Göz Farı,112.97,5,564.85,Bireysel,Banka Kartı,38.0,Kadın,Tamamlandı,3.7,0.0
+2024-08-03,Konya,Elektronik,Kulaklık,17003.44,1,17003.44,Kurumsal,Banka Kartı,,Kadın,Tamamlandı,4.8,0.0
+2024-08-03,Gaziantep,Spor,Koşu Ayakkabısı,745.57,1,745.57,Bireysel,Kapıda Ödeme,28.0,Erkek,Tamamlandı,5.0,0.29
+2024-08-04,Ankara,Elektronik,Akıllı Saat,6654.2,4,26616.8,Premium,Kapıda Ödeme,33.0,Erkek,Beklemede,2.7,0.0
+2024-08-04,Adana,Ev & Yaşam,Dekoratif Vazo,297.17,8,2377.36,Bireysel,Kredi Kartı,44.0,Erkek,İptal Edildi,3.9,0.17
+2024-08-04,İstanbul,Kitap & Kırtasiye,Defter,51.87,3,155.61,Kurumsal,Kredi Kartı,18.0,Erkek,İptal Edildi,4.3,0.0
+2024-08-04,Samsun,Gıda,Bal,281.36,3,844.08,Bireysel,Kapıda Ödeme,32.0,Kadın,Tamamlandı,4.0,0.0
+2024-08-04,Ankara,Giyim,Elbise,692.74,7,4849.18,Kurumsal,Kredi Kartı,32.0,Kadın,Tamamlandı,4.8,0.0
+2024-08-05,Konya,Kozmetik,Ruj,357.23,9,3215.07,Premium,Kapıda Ödeme,38.0,Kadın,Tamamlandı,4.2,0.18
+2024-08-05,İstanbul,Elektronik,Akıllı Telefon,18694.58,2,37389.16,Bireysel,Kredi Kartı,,Kadın,Tamamlandı,3.8,0.0
+2024-08-05,Ankara,Gıda,Çay,352.74,5,1763.7,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,4.5,0.0
+2024-08-07,İzmir,Ev & Yaşam,Nevresim Takımı,899.42,4,3597.68,Kurumsal,Banka Kartı,18.0,Erkek,İptal Edildi,3.3,0.0
+2024-08-07,Antalya,Kitap & Kırtasiye,Defter,297.61,2,595.22,Bireysel,Kredi Kartı,38.0,Kadın,Tamamlandı,4.3,0.0
+2024-08-07,İstanbul,Kitap & Kırtasiye,Kalem Seti,176.96,1,176.96,Bireysel,Banka Kartı,43.0,Kadın,Tamamlandı,3.0,0.0
+2024-08-07,Bursa,Giyim,Elbise,326.55,6,1959.3,Premium,Kredi Kartı,25.0,Kadın,Tamamlandı,3.5,0.08
+2024-08-09,İstanbul,Kozmetik,Ruj,740.4,3,2221.2,Bireysel,Havale/EFT,65.0,Kadın,Beklemede,3.7,0.0
+2024-08-10,Trabzon,Giyim,Tişört,2047.8,1,2047.8,Kurumsal,Banka Kartı,35.0,Kadın,Tamamlandı,3.6,0.0
+2024-08-10,Trabzon,Giyim,Elbise,1969.25,7,13784.75,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,4.8,0.07
+2024-08-10,Antalya,Ev & Yaşam,Nevresim Takımı,1414.09,3,4242.27,Bireysel,Havale/EFT,32.0,Kadın,Tamamlandı,,0.19
+2024-08-10,Gaziantep,Elektronik,Akıllı Telefon,10670.13,2,21340.26,Bireysel,Kredi Kartı,26.0,Erkek,Beklemede,3.9,0.17
+2024-08-11,İstanbul,Giyim,Ceket,460.43,3,1381.29,Kurumsal,Havale/EFT,34.0,Kadın,Tamamlandı,3.8,0.0
+2024-08-12,Ankara,Elektronik,Tablet,19554.33,5,97771.65,Bireysel,Havale/EFT,19.0,Erkek,Tamamlandı,4.6,0.0
+2024-08-12,İstanbul,Kozmetik,Ruj,134.51,2,269.02,Bireysel,Havale/EFT,38.0,Erkek,Tamamlandı,4.2,0.29
+2024-08-12,İstanbul,Elektronik,Akıllı Saat,8768.19,1,8768.19,Bireysel,Banka Kartı,20.0,Kadın,Tamamlandı,3.9,0.29
+2024-08-12,İstanbul,Ev & Yaşam,Dekoratif Vazo,359.64,2,719.28,Kurumsal,Kredi Kartı,33.0,Erkek,Tamamlandı,4.1,0.0
+2024-08-12,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,150.21,7,1051.47,Bireysel,Kredi Kartı,42.0,Kadın,Tamamlandı,3.3,0.24
+2024-08-13,İstanbul,Elektronik,Akıllı Saat,21807.55,1,21807.55,Kurumsal,Kredi Kartı,41.0,Kadın,Tamamlandı,5.0,0.29
+2024-08-13,Antalya,Kitap & Kırtasiye,Kalem Seti,181.91,8,1455.28,Kurumsal,Havale/EFT,43.0,Erkek,Tamamlandı,3.5,0.29
+2024-08-14,Konya,Gıda,Çay,349.72,3,1049.16,Bireysel,Banka Kartı,22.0,Erkek,İptal Edildi,1.3,0.0
+2024-08-14,İzmir,Giyim,Elbise,1772.86,1,1772.86,Bireysel,Kapıda Ödeme,34.0,Kadın,Tamamlandı,5.0,0.0
+2024-08-14,İstanbul,Ev & Yaşam,Mum,144.65,2,289.3,Bireysel,Havale/EFT,29.0,Erkek,İptal Edildi,4.3,0.0
+2024-08-15,İstanbul,Ev & Yaşam,Dekoratif Vazo,982.07,6,5892.42,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,4.0,0.08
+2024-08-15,Adana,Spor,Koşu Ayakkabısı,2838.35,1,2838.35,Premium,Havale/EFT,23.0,Kadın,Beklemede,3.7,0.0
+2024-08-16,İzmir,Kitap & Kırtasiye,Boyama Kitabı,238.11,2,476.22,Bireysel,Havale/EFT,44.0,Kadın,İade Edildi,4.2,0.0
+2024-08-16,Samsun,Giyim,Pantolon,373.72,1,373.72,Bireysel,Kredi Kartı,24.0,Erkek,İade Edildi,3.4,0.0
+2024-08-16,Gaziantep,Gıda,Kuruyemiş,421.01,5,2105.05,Bireysel,Kapıda Ödeme,38.0,Kadın,Tamamlandı,4.6,0.0
+2024-08-16,İzmir,Elektronik,Akıllı Telefon,22390.99,2,44781.98,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,5.0,0.0
+2024-08-16,Konya,Gıda,Çay,189.1,3,567.3,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,2.6,0.0
+2024-08-16,Samsun,Elektronik,Dizüstü Bilgisayar,2539.81,1,2539.81,Kurumsal,Kredi Kartı,32.0,Erkek,İade Edildi,4.6,0.0
+2024-08-17,Konya,Elektronik,Kulaklık,5504.28,2,11008.56,Kurumsal,Havale/EFT,18.0,Erkek,İade Edildi,3.4,0.0
+2024-08-17,Ankara,Elektronik,Akıllı Saat,7069.51,1,7069.51,Bireysel,Kapıda Ödeme,34.0,Kadın,Tamamlandı,3.2,0.12
+2024-08-18,Samsun,Spor,Koşu Ayakkabısı,2951.02,2,5902.04,Bireysel,Banka Kartı,32.0,Kadın,Tamamlandı,3.5,0.0
+2024-08-18,Antalya,Elektronik,Dizüstü Bilgisayar,21765.5,7,152358.5,Premium,Havale/EFT,22.0,Erkek,Tamamlandı,4.4,0.0
+2024-08-18,İstanbul,Elektronik,Akıllı Saat,13411.69,3,40235.07,Bireysel,Havale/EFT,19.0,Kadın,Tamamlandı,2.2,0.0
+2024-08-18,Konya,Ev & Yaşam,Mum,470.11,4,1880.44,Kurumsal,Banka Kartı,33.0,Kadın,Tamamlandı,2.0,0.12
+2024-08-18,İstanbul,Kitap & Kırtasiye,Ajanda,200.53,1,200.53,Kurumsal,Kapıda Ödeme,45.0,Kadın,Tamamlandı,4.4,0.12
+2024-08-20,Antalya,Gıda,Bal,34.62,2,69.24,Premium,Banka Kartı,23.0,Kadın,Tamamlandı,3.4,0.29
+2024-08-20,Ankara,Giyim,Pantolon,1706.38,2,3412.76,Premium,Kredi Kartı,48.0,Erkek,İade Edildi,4.7,0.0
+2024-08-20,Samsun,Ev & Yaşam,Mum,1260.71,2,2521.42,Bireysel,Banka Kartı,32.0,Kadın,Beklemede,5.0,0.28
+2024-08-20,Konya,Ev & Yaşam,Dekoratif Vazo,480.96,2,961.92,Bireysel,Kredi Kartı,35.0,Kadın,İptal Edildi,4.3,0.08
+2024-08-20,İzmir,Kozmetik,Parfüm,148.53,3,445.59,Bireysel,Kredi Kartı,18.0,Kadın,İptal Edildi,3.4,0.0
+2024-08-20,Konya,Spor,Yoga Matı,191.89,6,1151.34,Bireysel,Havale/EFT,48.0,Erkek,Tamamlandı,3.6,0.18
+2024-08-21,Konya,Elektronik,Tablet,21528.91,2,43057.82,Bireysel,Kredi Kartı,20.0,Kadın,Tamamlandı,2.8,0.0
+2024-08-22,Antalya,Gıda,Kahve,462.42,3,1387.26,Kurumsal,Banka Kartı,53.0,Kadın,Beklemede,4.2,0.11
+2024-08-22,Trabzon,Elektronik,Akıllı Saat,20833.52,3,62500.56,Bireysel,Banka Kartı,22.0,Erkek,Beklemede,3.0,0.0
+2024-08-23,İstanbul,Giyim,Tişört,1033.94,2,2067.88,Bireysel,Banka Kartı,25.0,Erkek,İptal Edildi,4.3,0.0
+2024-08-23,Konya,Gıda,Kahve,297.34,2,594.68,Kurumsal,Kredi Kartı,38.0,Erkek,Tamamlandı,4.1,0.0
+2024-08-24,İstanbul,Giyim,Pantolon,2315.43,2,4630.86,Bireysel,Kredi Kartı,38.0,Erkek,Beklemede,5.0,0.0
+2024-08-24,İstanbul,Giyim,Tişört,94.19,2,188.38,Bireysel,Kapıda Ödeme,37.0,Erkek,Tamamlandı,3.2,0.0
+2024-08-26,İstanbul,Kozmetik,Parfüm,1156.31,7,8094.17,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,3.9,0.0
+2024-08-26,İstanbul,Ev & Yaşam,Yastık,1146.65,3,3439.95,Kurumsal,Havale/EFT,24.0,Kadın,Tamamlandı,3.3,0.0
+2024-08-26,Bursa,Kozmetik,Güneş Kremi,230.31,4,921.24,Premium,Banka Kartı,48.0,Kadın,Tamamlandı,5.0,0.0
+2024-08-26,Trabzon,Giyim,Pantolon,206.65,5,1033.25,Bireysel,Banka Kartı,32.0,Erkek,Tamamlandı,4.2,0.0
+2024-08-28,Ankara,Giyim,Ayakkabı,828.92,1,828.92,Bireysel,Kapıda Ödeme,21.0,Kadın,İptal Edildi,3.8,0.0
+2024-08-29,Adana,Spor,Pilates Bandı,2309.54,5,11547.7,Premium,Banka Kartı,63.0,Erkek,Tamamlandı,4.3,0.0
+2024-08-29,İstanbul,Elektronik,Akıllı Telefon,2630.69,2,5261.38,Kurumsal,Kredi Kartı,38.0,Erkek,Tamamlandı,5.0,0.27
+2024-08-30,Gaziantep,Gıda,Kahve,202.36,4,809.44,Bireysel,Kapıda Ödeme,27.0,Erkek,İptal Edildi,3.0,0.06
+2024-08-30,Samsun,Giyim,Elbise,1522.67,7,10658.69,Premium,Kredi Kartı,40.0,Erkek,İptal Edildi,3.3,0.0
+2024-08-31,İzmir,Gıda,Kuruyemiş,262.46,3,787.38,Bireysel,Kredi Kartı,58.0,Erkek,Tamamlandı,4.7,0.22
+2024-08-31,İstanbul,Kitap & Kırtasiye,Kalem Seti,91.46,4,365.84,Bireysel,Banka Kartı,40.0,Erkek,Tamamlandı,1.7,0.0
+2024-08-31,Bursa,Giyim,Elbise,763.77,2,1527.54,Bireysel,Banka Kartı,37.0,Kadın,Tamamlandı,3.6,0.0
+2024-09-01,Konya,Spor,Pilates Bandı,2997.67,3,8993.01,Bireysel,Kapıda Ödeme,56.0,Kadın,Beklemede,4.8,0.1
+2024-09-02,Antalya,Ev & Yaşam,Dekoratif Vazo,1294.97,2,2589.94,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,4.5,0.0
+2024-09-03,Adana,Elektronik,Tablet,4953.21,2,9906.42,Kurumsal,Kapıda Ödeme,28.0,Kadın,İade Edildi,1.9,0.0
+2024-09-03,Bursa,Ev & Yaşam,Mum,1039.87,2,2079.74,Premium,Banka Kartı,,Kadın,İade Edildi,3.8,0.0
+2024-09-05,İstanbul,Ev & Yaşam,Mum,485.1,2,970.2,Kurumsal,Banka Kartı,29.0,Kadın,Tamamlandı,4.1,0.0
+2024-09-05,İstanbul,Giyim,Tişört,488.64,1,488.64,Bireysel,Kredi Kartı,42.0,Kadın,Tamamlandı,4.0,0.0
+2024-09-06,İzmir,Spor,Pilates Bandı,371.04,4,1484.16,Bireysel,Kapıda Ödeme,22.0,Erkek,Tamamlandı,4.5,0.0
+2024-09-06,Samsun,Gıda,Zeytinyağı,245.89,3,737.67,Bireysel,Kapıda Ödeme,37.0,Erkek,İptal Edildi,3.4,0.12
+2024-09-07,Antalya,Ev & Yaşam,Dekoratif Vazo,641.45,4,2565.8,Premium,Kapıda Ödeme,33.0,Erkek,İptal Edildi,4.0,0.0
+2024-09-07,Bursa,Gıda,Kuruyemiş,258.09,1,258.09,Bireysel,Kredi Kartı,24.0,Kadın,Tamamlandı,4.4,0.0
+2024-09-08,İstanbul,Spor,Yoga Matı,1658.73,8,13269.84,Bireysel,Kapıda Ödeme,33.0,Kadın,Tamamlandı,5.0,0.0
+2024-09-08,Samsun,Ev & Yaşam,Havlu Seti,697.97,3,2093.91,Kurumsal,Kredi Kartı,25.0,Erkek,Tamamlandı,4.0,0.28
+2024-09-09,Gaziantep,Kozmetik,Göz Farı,1069.41,2,2138.82,Bireysel,Kapıda Ödeme,40.0,Kadın,İade Edildi,3.0,0.0
+2024-09-09,Ankara,Giyim,Elbise,342.33,2,684.66,Premium,Banka Kartı,,Kadın,İade Edildi,3.2,0.0
+2024-09-09,Konya,Elektronik,Akıllı Telefon,12453.55,1,12453.55,Bireysel,Havale/EFT,44.0,Erkek,İptal Edildi,1.8,0.0
+2024-09-09,Antalya,Gıda,Kahve,36.24,1,36.24,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,4.5,0.0
+2024-09-09,İzmir,Elektronik,Akıllı Telefon,22937.45,2,45874.9,Kurumsal,Havale/EFT,36.0,Erkek,Tamamlandı,4.2,0.0
+2024-09-09,İzmir,Elektronik,Dizüstü Bilgisayar,928.71,3,2786.13,Kurumsal,Banka Kartı,56.0,Erkek,Tamamlandı,4.9,0.0
+2024-09-10,İstanbul,Kozmetik,Nemlendirici Krem,1162.72,3,3488.16,Premium,Kredi Kartı,24.0,Erkek,Tamamlandı,4.6,0.14
+2024-09-10,Adana,Gıda,Çay,488.53,2,977.06,Bireysel,Kapıda Ödeme,54.0,Erkek,İptal Edildi,3.6,0.0
+2024-09-10,İzmir,Kozmetik,Göz Farı,48.54,2,97.08,Bireysel,Banka Kartı,29.0,Erkek,Tamamlandı,4.0,0.0
+2024-09-10,Gaziantep,Spor,Koşu Ayakkabısı,816.99,1,816.99,Bireysel,Havale/EFT,22.0,Erkek,Tamamlandı,5.0,0.0
+2024-09-10,Samsun,Giyim,Elbise,1606.14,1,1606.14,Bireysel,Banka Kartı,25.0,Kadın,Tamamlandı,3.7,0.25
+2024-09-12,Antalya,Ev & Yaşam,Nevresim Takımı,806.65,1,806.65,Premium,Kredi Kartı,37.0,Erkek,Tamamlandı,4.6,0.0
+2024-09-12,İstanbul,Kozmetik,Güneş Kremi,704.41,7,4930.87,Kurumsal,Kredi Kartı,52.0,Kadın,Tamamlandı,2.9,0.0
+2024-09-12,Antalya,Kozmetik,Göz Farı,618.8,3,1856.4,Bireysel,Kredi Kartı,,Kadın,Tamamlandı,3.7,0.14
+2024-09-13,Antalya,Gıda,Bal,406.86,1,406.86,Kurumsal,Kredi Kartı,18.0,Erkek,İptal Edildi,5.0,0.0
+2024-09-14,Konya,Ev & Yaşam,Dekoratif Vazo,968.11,2,1936.22,Bireysel,Kredi Kartı,43.0,Erkek,Tamamlandı,4.0,0.07
+2024-09-15,İstanbul,Giyim,Pantolon,2443.02,4,9772.08,Premium,Havale/EFT,33.0,Kadın,İptal Edildi,4.7,0.0
+2024-09-15,Antalya,Elektronik,Akıllı Telefon,21142.19,3,63426.57,Kurumsal,Havale/EFT,33.0,Kadın,İptal Edildi,3.9,0.0
+2024-09-15,Samsun,Ev & Yaşam,Yastık,639.37,6,3836.22,Bireysel,Kapıda Ödeme,50.0,Erkek,İptal Edildi,4.4,0.0
+2024-09-17,İzmir,Ev & Yaşam,Yastık,710.43,2,1420.86,Bireysel,Kredi Kartı,49.0,Erkek,Tamamlandı,5.0,0.0
+2024-09-17,Trabzon,Elektronik,Akıllı Saat,8685.56,1,8685.56,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,4.7,0.2
+2024-09-17,Konya,Elektronik,Tablet,7925.11,1,7925.11,Bireysel,Banka Kartı,54.0,Erkek,İptal Edildi,4.9,0.29
+2024-09-19,Antalya,Spor,Koşu Ayakkabısı,1969.69,2,3939.38,Kurumsal,Kredi Kartı,35.0,Kadın,İptal Edildi,4.5,0.0
+2024-09-20,İzmir,Kozmetik,Nemlendirici Krem,915.6,5,4578.0,Bireysel,Kredi Kartı,18.0,Erkek,İptal Edildi,3.9,0.0
+2024-09-20,Bursa,Ev & Yaşam,Yastık,1275.73,2,2551.46,Bireysel,Havale/EFT,20.0,Kadın,İade Edildi,5.0,0.0
+2024-09-20,Ankara,Gıda,Çay,132.32,2,264.64,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,3.3,0.0
+2024-09-21,Samsun,Gıda,Bal,440.56,2,881.12,Bireysel,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.1,0.0
+2024-09-22,İstanbul,Spor,Pilates Bandı,2390.95,5,11954.75,Premium,Havale/EFT,,Erkek,İade Edildi,3.2,0.24
+2024-09-24,Gaziantep,Gıda,Zeytinyağı,407.51,1,407.51,Kurumsal,Banka Kartı,31.0,Erkek,Tamamlandı,5.0,0.0
+2024-09-24,İzmir,Gıda,Kahve,411.46,1,411.46,Bireysel,Kredi Kartı,57.0,Erkek,Tamamlandı,4.3,0.0
+2024-09-24,Ankara,Kozmetik,Nemlendirici Krem,1142.32,2,2284.64,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,3.5,0.0
+2024-09-24,Ankara,Gıda,Bal,90.66,1,90.66,Kurumsal,Havale/EFT,48.0,Erkek,Tamamlandı,3.7,0.0
+2024-09-24,İstanbul,Kitap & Kırtasiye,Ajanda,184.87,1,184.87,Bireysel,Kapıda Ödeme,41.0,Kadın,Tamamlandı,3.6,0.11
+2024-09-25,İzmir,Giyim,Ceket,2295.0,7,16065.0,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,3.7,0.0
+2024-09-26,Gaziantep,Giyim,Elbise,2445.44,1,2445.44,Bireysel,Banka Kartı,27.0,Erkek,Tamamlandı,3.8,0.0
+2024-09-26,İstanbul,Ev & Yaşam,Dekoratif Vazo,1100.61,1,1100.61,Premium,Havale/EFT,43.0,Kadın,Tamamlandı,2.1,0.05
+2024-09-27,Samsun,Giyim,Tişört,2471.26,2,4942.52,Bireysel,Kredi Kartı,24.0,Erkek,Tamamlandı,3.5,0.28
+2024-09-27,Adana,Giyim,Tişört,2145.03,6,12870.18,Bireysel,Kredi Kartı,53.0,Erkek,İptal Edildi,5.0,0.0
+2024-09-28,İstanbul,Kozmetik,Parfüm,365.33,1,365.33,Premium,Kredi Kartı,18.0,Kadın,Tamamlandı,4.4,0.12
+2024-09-28,İzmir,Elektronik,Kulaklık,20626.05,1,20626.05,Bireysel,Banka Kartı,52.0,Erkek,Tamamlandı,4.0,0.0
+2024-09-29,Trabzon,Giyim,Pantolon,262.78,1,262.78,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,4.5,0.09
+2024-09-29,İstanbul,Kozmetik,Nemlendirici Krem,1195.62,1,1195.62,Bireysel,Havale/EFT,39.0,Erkek,İptal Edildi,3.9,0.21
+2024-09-29,Ankara,Spor,Dambıl Seti,1565.1,2,3130.2,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,5.0,0.0
+2024-09-30,Konya,Ev & Yaşam,Nevresim Takımı,758.98,1,758.98,Kurumsal,Kredi Kartı,49.0,Erkek,Tamamlandı,3.4,0.0
+2024-09-30,İzmir,Gıda,Çay,292.2,9,2629.8,Bireysel,Havale/EFT,46.0,Erkek,Beklemede,4.2,0.0
+2024-09-30,Samsun,Spor,Pilates Bandı,514.29,1,514.29,Premium,Banka Kartı,30.0,Erkek,Tamamlandı,3.2,0.0
+2024-10-01,İstanbul,Kozmetik,Nemlendirici Krem,976.93,5,4884.65,Kurumsal,Havale/EFT,23.0,Kadın,İade Edildi,3.5,0.0
+2024-10-03,İstanbul,Kozmetik,Göz Farı,1073.37,1,1073.37,Bireysel,Banka Kartı,18.0,Erkek,İptal Edildi,4.5,0.24
+2024-10-03,Adana,Ev & Yaşam,Havlu Seti,228.81,2,457.62,Premium,Kredi Kartı,51.0,Kadın,İade Edildi,4.0,0.0
+2024-10-03,İstanbul,Kozmetik,Nemlendirici Krem,992.18,2,1984.36,Kurumsal,Kapıda Ödeme,23.0,Kadın,İptal Edildi,4.1,0.0
+2024-10-03,İstanbul,Gıda,Bal,449.85,2,899.7,Bireysel,Havale/EFT,23.0,Kadın,Tamamlandı,5.0,0.0
+2024-10-03,Bursa,Elektronik,Kulaklık,1849.99,1,1849.99,Bireysel,Banka Kartı,49.0,Erkek,Tamamlandı,4.3,0.23
+2024-10-04,Adana,Elektronik,Akıllı Telefon,17816.69,1,17816.69,Bireysel,Banka Kartı,49.0,Erkek,Tamamlandı,3.1,0.0
+2024-10-05,Bursa,Elektronik,Tablet,9357.73,1,9357.73,Bireysel,Banka Kartı,47.0,Kadın,Tamamlandı,5.0,0.13
+2024-10-06,İstanbul,Kozmetik,Göz Farı,673.91,2,1347.82,Bireysel,Banka Kartı,68.0,Kadın,Tamamlandı,5.0,0.0
+2024-10-06,Adana,Kozmetik,Nemlendirici Krem,1046.53,1,1046.53,Kurumsal,Kapıda Ödeme,37.0,Kadın,Tamamlandı,3.7,0.16
+2024-10-06,Trabzon,Elektronik,Akıllı Telefon,1796.93,1,1796.93,Bireysel,Kapıda Ödeme,22.0,Erkek,Tamamlandı,3.4,0.0
+2024-10-07,Adana,Kitap & Kırtasiye,Defter,220.96,1,220.96,Kurumsal,Kredi Kartı,48.0,Kadın,Tamamlandı,3.9,0.0
+2024-10-07,İstanbul,Gıda,Çay,66.9,4,267.6,Bireysel,Kredi Kartı,40.0,Kadın,Tamamlandı,4.9,0.25
+2024-10-08,İstanbul,Spor,Pilates Bandı,1971.75,2,3943.5,Bireysel,Kapıda Ödeme,30.0,Kadın,Tamamlandı,3.4,0.0
+2024-10-08,Adana,Kitap & Kırtasiye,Roman,35.78,2,71.56,Kurumsal,Banka Kartı,52.0,Kadın,Tamamlandı,3.9,0.28
+2024-10-09,Antalya,Elektronik,Akıllı Telefon,5629.04,2,11258.08,Bireysel,Kapıda Ödeme,49.0,Erkek,İptal Edildi,3.5,0.05
+2024-10-09,Antalya,Gıda,Bal,48.7,1,48.7,Bireysel,Havale/EFT,49.0,Kadın,Tamamlandı,4.6,0.0
+2024-10-09,Antalya,Ev & Yaşam,Nevresim Takımı,365.31,2,730.62,Bireysel,Kredi Kartı,30.0,Kadın,Tamamlandı,5.0,0.22
+2024-10-10,Adana,Gıda,Kuruyemiş,245.87,2,491.74,Premium,Kredi Kartı,20.0,Erkek,İade Edildi,3.2,0.0
+2024-10-11,Bursa,Kozmetik,Nemlendirici Krem,113.78,7,796.46,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.1,0.0
+2024-10-11,Bursa,Giyim,Elbise,2498.43,7,17489.01,Bireysel,Banka Kartı,36.0,Kadın,Tamamlandı,3.7,0.24
+2024-10-11,İstanbul,Gıda,Zeytinyağı,421.22,1,421.22,Bireysel,Banka Kartı,27.0,Kadın,Tamamlandı,2.7,0.0
+2024-10-11,Antalya,Spor,Dambıl Seti,1412.23,2,2824.46,Bireysel,Kapıda Ödeme,22.0,Kadın,Tamamlandı,3.9,0.05
+2024-10-11,Ankara,Elektronik,Akıllı Telefon,17991.97,2,35983.94,Premium,Havale/EFT,24.0,Kadın,Tamamlandı,4.1,0.0
+2024-10-12,İzmir,Giyim,Elbise,1358.19,4,5432.76,Bireysel,Banka Kartı,34.0,Erkek,Tamamlandı,4.9,0.12
+2024-10-13,Ankara,Spor,Spor Çantası,1813.4,9,16320.6,Kurumsal,Kapıda Ödeme,20.0,Kadın,İptal Edildi,3.4,0.0
+2024-10-14,İstanbul,Ev & Yaşam,Havlu Seti,357.11,5,1785.55,Kurumsal,Kredi Kartı,24.0,Kadın,Tamamlandı,5.0,0.25
+2024-10-14,İzmir,Elektronik,Dizüstü Bilgisayar,7720.18,1,7720.18,Kurumsal,Kapıda Ödeme,47.0,Erkek,İade Edildi,4.0,0.28
+2024-10-14,İzmir,Kozmetik,Güneş Kremi,713.68,3,2141.04,Bireysel,Kredi Kartı,31.0,Kadın,Tamamlandı,3.4,0.0
+2024-10-15,Adana,Elektronik,Kulaklık,6562.84,3,19688.52,Kurumsal,Kapıda Ödeme,24.0,Kadın,Tamamlandı,3.9,0.0
+2024-10-15,Ankara,Gıda,Zeytinyağı,363.58,1,363.58,Premium,Kredi Kartı,18.0,Kadın,Tamamlandı,3.7,0.0
+2024-10-15,Trabzon,Kitap & Kırtasiye,Ajanda,129.64,2,259.28,Kurumsal,Havale/EFT,23.0,Erkek,Tamamlandı,4.6,0.26
+2024-10-15,Antalya,Giyim,Ceket,1006.46,3,3019.38,Premium,Kredi Kartı,39.0,Kadın,Tamamlandı,,0.0
+2024-10-15,Samsun,Ev & Yaşam,Havlu Seti,173.83,2,347.66,Bireysel,Havale/EFT,33.0,Kadın,İptal Edildi,3.8,0.0
+2024-10-15,Trabzon,Giyim,Elbise,2169.5,2,4339.0,Bireysel,Kredi Kartı,42.0,Erkek,Tamamlandı,4.7,0.0
+2024-10-17,Bursa,Ev & Yaşam,Yastık,501.69,1,501.69,Bireysel,Kredi Kartı,41.0,Kadın,İade Edildi,3.5,0.0
+2024-10-18,İstanbul,Elektronik,Tablet,22849.09,6,137094.54,Premium,Kredi Kartı,36.0,Kadın,Beklemede,5.0,0.0
+2024-10-18,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,221.76,2,443.52,Bireysel,Banka Kartı,35.0,Kadın,Tamamlandı,4.4,0.0
+2024-10-19,Trabzon,Ev & Yaşam,Mum,707.45,2,1414.9,Premium,Banka Kartı,25.0,Erkek,Tamamlandı,3.7,0.1
+2024-10-20,Gaziantep,Kitap & Kırtasiye,Boyama Kitabı,279.41,5,1397.05,Kurumsal,Havale/EFT,32.0,Erkek,Tamamlandı,2.8,0.0
+2024-10-21,Trabzon,Giyim,Pantolon,732.04,2,1464.08,Bireysel,Havale/EFT,56.0,Kadın,Tamamlandı,2.6,0.0
+2024-10-22,İstanbul,Ev & Yaşam,Dekoratif Vazo,308.58,7,2160.06,Bireysel,Banka Kartı,37.0,Kadın,Tamamlandı,3.5,0.0
+2024-10-22,Gaziantep,Spor,Dambıl Seti,2031.94,1,2031.94,Kurumsal,Kredi Kartı,59.0,Kadın,Tamamlandı,3.9,0.14
+2024-10-22,İzmir,Giyim,Tişört,2230.41,10,22304.1,Bireysel,Banka Kartı,29.0,Kadın,İade Edildi,4.0,0.0
+2024-10-22,Antalya,Kozmetik,Nemlendirici Krem,410.88,3,1232.64,Kurumsal,Kredi Kartı,47.0,Kadın,Tamamlandı,3.6,0.13
+2024-10-22,Gaziantep,Giyim,Elbise,1326.7,2,2653.4,Bireysel,Havale/EFT,34.0,Erkek,İade Edildi,3.2,0.15
+2024-10-22,İstanbul,Giyim,Pantolon,1388.8,3,4166.4,Kurumsal,Banka Kartı,25.0,Kadın,Tamamlandı,3.6,0.0
+2024-10-23,Samsun,Ev & Yaşam,Dekoratif Vazo,527.16,1,527.16,Bireysel,Banka Kartı,31.0,Erkek,İptal Edildi,,0.0
+2024-10-24,Samsun,Giyim,Tişört,1210.77,3,3632.31,Premium,Kredi Kartı,39.0,Erkek,Tamamlandı,3.7,0.12
+2024-10-26,Gaziantep,Giyim,Ceket,483.63,1,483.63,Bireysel,Kapıda Ödeme,57.0,Erkek,Tamamlandı,,0.12
+2024-10-27,İstanbul,Spor,Pilates Bandı,1164.91,2,2329.82,Kurumsal,Kredi Kartı,27.0,Kadın,Tamamlandı,4.1,0.0
+2024-10-28,Adana,Kozmetik,Güneş Kremi,573.15,1,573.15,Bireysel,Banka Kartı,44.0,Kadın,Tamamlandı,4.9,0.11
+2024-10-28,Samsun,Spor,Yoga Matı,1772.36,2,3544.72,Bireysel,Kredi Kartı,52.0,Erkek,Tamamlandı,4.1,0.16
+2024-10-28,Adana,Gıda,Bal,483.76,1,483.76,Bireysel,Kredi Kartı,38.0,Erkek,Tamamlandı,3.4,0.0
+2024-10-29,Konya,Gıda,Kahve,260.45,2,520.9,Bireysel,Kapıda Ödeme,,Erkek,Tamamlandı,4.5,0.0
+2024-10-29,İstanbul,Kitap & Kırtasiye,Defter,62.91,3,188.73,Bireysel,Kredi Kartı,54.0,Erkek,Tamamlandı,4.0,0.0
+2024-10-30,İzmir,Kozmetik,Güneş Kremi,97.2,1,97.2,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,4.8,0.0
+2024-10-31,Bursa,Elektronik,Akıllı Saat,23154.14,1,23154.14,Kurumsal,Banka Kartı,28.0,Erkek,Tamamlandı,4.0,0.0
+2024-10-31,Bursa,Kozmetik,Nemlendirici Krem,210.07,2,420.14,Bireysel,Kredi Kartı,29.0,Kadın,İade Edildi,3.7,0.0
+2024-10-31,İstanbul,Ev & Yaşam,Yastık,952.69,10,9526.9,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,4.3,0.0
+2024-11-01,Konya,Kozmetik,Parfüm,604.32,6,3625.92,Bireysel,Kapıda Ödeme,36.0,Kadın,Tamamlandı,2.4,0.0
+2024-11-01,Trabzon,Gıda,Bal,271.35,7,1899.45,Kurumsal,Banka Kartı,30.0,Erkek,İade Edildi,3.2,0.0
+2024-11-03,Trabzon,Ev & Yaşam,Yastık,492.39,2,984.78,Kurumsal,Havale/EFT,40.0,Kadın,Tamamlandı,4.4,0.0
+2024-11-04,Antalya,Kozmetik,Göz Farı,742.84,2,1485.68,Kurumsal,Banka Kartı,31.0,Erkek,Tamamlandı,5.0,0.0
+2024-11-04,Adana,Kitap & Kırtasiye,Kalem Seti,296.69,3,890.07,Premium,Havale/EFT,18.0,Erkek,İade Edildi,3.2,0.0
+2024-11-05,Ankara,Kitap & Kırtasiye,Defter,132.43,4,529.72,Bireysel,Havale/EFT,35.0,Erkek,İade Edildi,3.2,0.0
+2024-11-06,Konya,Ev & Yaşam,Yastık,1492.12,3,4476.36,Kurumsal,Havale/EFT,41.0,Erkek,Tamamlandı,3.8,0.0
+2024-11-07,Adana,Giyim,Ceket,2103.31,3,6309.93,Bireysel,Banka Kartı,27.0,Erkek,Tamamlandı,2.1,0.0
+2024-11-07,Konya,Elektronik,Akıllı Saat,14890.56,8,119124.48,Bireysel,Kapıda Ödeme,33.0,Erkek,İptal Edildi,3.4,0.3
+2024-11-08,Gaziantep,Gıda,Kuruyemiş,234.95,7,1644.65,Premium,Havale/EFT,21.0,Kadın,Tamamlandı,5.0,0.0
+2024-11-08,Konya,Giyim,Pantolon,1946.97,4,7787.88,Bireysel,Banka Kartı,20.0,Erkek,Tamamlandı,3.4,0.0
+2024-11-09,İzmir,Kitap & Kırtasiye,Roman,231.31,7,1619.17,Kurumsal,Banka Kartı,18.0,Kadın,Tamamlandı,4.5,0.0
+2024-11-09,İstanbul,Ev & Yaşam,Dekoratif Vazo,741.63,4,2966.52,Bireysel,Havale/EFT,23.0,Erkek,Tamamlandı,5.0,0.23
+2024-11-10,Ankara,Giyim,Pantolon,705.71,3,2117.13,Bireysel,Banka Kartı,47.0,Erkek,İptal Edildi,3.1,0.0
+2024-11-11,Gaziantep,Kozmetik,Göz Farı,663.59,6,3981.54,Kurumsal,Banka Kartı,18.0,Erkek,İade Edildi,4.3,0.26
+2024-11-11,Antalya,Giyim,Ayakkabı,706.28,7,4943.96,Kurumsal,Banka Kartı,40.0,Kadın,Tamamlandı,3.3,0.0
+2024-11-13,İstanbul,Ev & Yaşam,Havlu Seti,879.86,9,7918.74,Premium,Kredi Kartı,30.0,Erkek,Beklemede,4.3,0.26
+2024-11-13,İstanbul,Kozmetik,Göz Farı,349.48,1,349.48,Premium,Banka Kartı,49.0,Kadın,İptal Edildi,5.0,0.23
+2024-11-13,Samsun,Kozmetik,Nemlendirici Krem,280.71,7,1964.97,Kurumsal,Havale/EFT,42.0,Kadın,Tamamlandı,3.6,0.08
+2024-11-13,Adana,Kozmetik,Güneş Kremi,651.99,1,651.99,Bireysel,Kredi Kartı,43.0,Erkek,Beklemede,4.1,0.0
+2024-11-13,Antalya,Giyim,Ayakkabı,2073.83,3,6221.49,Kurumsal,Kapıda Ödeme,37.0,Erkek,Tamamlandı,4.2,0.0
+2024-11-14,Adana,Giyim,Pantolon,698.71,2,1397.42,Bireysel,Kredi Kartı,42.0,Erkek,Tamamlandı,3.7,0.19
+2024-11-15,Konya,Elektronik,Akıllı Telefon,21768.4,4,87073.6,Premium,Kredi Kartı,35.0,Kadın,Tamamlandı,3.3,0.0
+2024-11-15,Gaziantep,Elektronik,Dizüstü Bilgisayar,3451.8,3,10355.4,Bireysel,Kredi Kartı,50.0,Kadın,Tamamlandı,5.0,0.16
+2024-11-15,İstanbul,Elektronik,Kulaklık,2715.26,1,2715.26,Premium,Kredi Kartı,60.0,Erkek,Tamamlandı,5.0,0.1
+2024-11-16,Ankara,Spor,Spor Çantası,1979.02,1,1979.02,Bireysel,Kredi Kartı,19.0,Kadın,Tamamlandı,3.6,0.28
+2024-11-16,Antalya,Kitap & Kırtasiye,Boyama Kitabı,228.04,1,228.04,Kurumsal,Banka Kartı,22.0,Kadın,Tamamlandı,5.0,0.26
+2024-11-17,İzmir,Elektronik,Tablet,14674.82,2,29349.64,Bireysel,Kredi Kartı,42.0,Erkek,İptal Edildi,4.1,0.0
+2024-11-18,İstanbul,Elektronik,Akıllı Saat,20577.64,1,20577.64,Bireysel,Banka Kartı,50.0,Erkek,Tamamlandı,4.8,0.0
+2024-11-18,Samsun,Giyim,Pantolon,144.39,4,577.56,Bireysel,Havale/EFT,29.0,Erkek,Tamamlandı,3.6,0.0
+2024-11-19,Antalya,Gıda,Bal,107.21,2,214.42,Kurumsal,Havale/EFT,26.0,Erkek,Tamamlandı,4.4,0.0
+2024-11-19,Ankara,Spor,Spor Çantası,1524.68,4,6098.72,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,4.9,0.0
+2024-11-19,Trabzon,Spor,Pilates Bandı,904.54,4,3618.16,Bireysel,Kredi Kartı,47.0,Kadın,Tamamlandı,4.7,0.0
+2024-11-20,Ankara,Giyim,Elbise,691.87,1,691.87,Kurumsal,Banka Kartı,42.0,Erkek,İptal Edildi,3.6,0.0
+2024-11-21,Antalya,Kozmetik,Nemlendirici Krem,709.73,5,3548.65,Bireysel,Kredi Kartı,37.0,Erkek,İptal Edildi,3.9,0.0
+2024-11-21,Bursa,Elektronik,Akıllı Telefon,18142.73,2,36285.46,Bireysel,Banka Kartı,21.0,Erkek,Tamamlandı,4.5,0.0
+2024-11-22,Konya,Elektronik,Kulaklık,13683.96,1,13683.96,Premium,Kredi Kartı,43.0,Kadın,Tamamlandı,3.1,0.0
+2024-11-22,İstanbul,Gıda,Kuruyemiş,285.18,3,855.54,Premium,Kredi Kartı,49.0,Erkek,Tamamlandı,3.5,0.0
+2024-11-23,Bursa,Kozmetik,Nemlendirici Krem,1031.24,3,3093.72,Bireysel,Havale/EFT,47.0,Kadın,Tamamlandı,4.2,0.0
+2024-11-24,İstanbul,Spor,Yoga Matı,2540.42,6,15242.52,Bireysel,Havale/EFT,47.0,Kadın,Tamamlandı,3.4,0.0
+2024-11-25,Konya,Giyim,Elbise,1422.18,2,2844.36,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,3.3,0.0
+2024-11-25,Ankara,Elektronik,Dizüstü Bilgisayar,6464.94,2,12929.88,Bireysel,Banka Kartı,40.0,Kadın,Beklemede,3.9,0.16
+2024-11-25,Bursa,Gıda,Bal,433.61,1,433.61,Kurumsal,Banka Kartı,19.0,Erkek,Tamamlandı,5.0,0.12
+2024-11-25,İzmir,Giyim,Pantolon,2276.78,5,11383.9,Kurumsal,Banka Kartı,23.0,Erkek,Tamamlandı,3.4,0.0
+2024-11-26,İstanbul,Elektronik,Tablet,5377.79,4,21511.16,Kurumsal,Kredi Kartı,53.0,Kadın,Tamamlandı,4.0,0.0
+2024-11-26,Gaziantep,Gıda,Bal,368.61,3,1105.83,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,4.8,0.0
+2024-11-29,İstanbul,Gıda,Kuruyemiş,437.83,2,875.66,Kurumsal,Kredi Kartı,50.0,Erkek,Tamamlandı,3.9,0.0
+2024-11-30,Adana,Ev & Yaşam,Dekoratif Vazo,100.98,1,100.98,Kurumsal,Kapıda Ödeme,25.0,Erkek,Tamamlandı,3.4,0.0
+2024-11-30,Konya,Ev & Yaşam,Nevresim Takımı,1398.39,1,1398.39,Bireysel,Havale/EFT,25.0,Kadın,Tamamlandı,2.7,0.28
+2024-11-30,İstanbul,Ev & Yaşam,Dekoratif Vazo,204.89,5,1024.45,Bireysel,Kapıda Ödeme,49.0,Erkek,Tamamlandı,2.6,0.0
+2024-12-01,Ankara,Ev & Yaşam,Havlu Seti,1372.7,2,2745.4,Bireysel,Banka Kartı,42.0,Kadın,Tamamlandı,4.1,0.0
+2024-12-02,Bursa,Kitap & Kırtasiye,Boyama Kitabı,280.96,3,842.88,Bireysel,Havale/EFT,35.0,Erkek,Tamamlandı,5.0,0.0
+2024-12-03,Antalya,Gıda,Çay,106.78,2,213.56,Bireysel,Havale/EFT,46.0,Erkek,Tamamlandı,4.1,0.0
+2024-12-03,İstanbul,Kitap & Kırtasiye,Ajanda,295.01,3,885.03,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,5.0,0.0
+2024-12-03,İstanbul,Spor,Pilates Bandı,1150.66,1,1150.66,Kurumsal,Kredi Kartı,54.0,Kadın,Tamamlandı,2.6,0.27
+2024-12-04,İstanbul,Giyim,Pantolon,2171.86,1,2171.86,Bireysel,Havale/EFT,28.0,Kadın,Tamamlandı,3.0,0.22
+2024-12-04,İzmir,Giyim,Pantolon,545.4,2,1090.8,Bireysel,Banka Kartı,61.0,Kadın,Tamamlandı,5.0,0.0
+2024-12-05,Samsun,Kitap & Kırtasiye,Ajanda,35.71,3,107.13,Bireysel,Kredi Kartı,59.0,Kadın,Tamamlandı,4.5,0.28
+2024-12-05,Konya,Giyim,Elbise,2439.71,3,7319.13,Kurumsal,Havale/EFT,29.0,Erkek,Tamamlandı,5.0,0.0
+2024-12-05,Ankara,Gıda,Bal,474.01,1,474.01,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,4.3,0.2
+2024-12-06,Konya,Gıda,Zeytinyağı,80.3,1,80.3,Bireysel,Kredi Kartı,19.0,Erkek,Tamamlandı,2.2,0.09
+2024-12-07,İstanbul,Kitap & Kırtasiye,Defter,241.97,2,483.94,Premium,Kredi Kartı,41.0,Kadın,Tamamlandı,5.0,0.0
+2024-12-07,İstanbul,Gıda,Kuruyemiş,303.35,3,910.05,Bireysel,Kapıda Ödeme,25.0,Kadın,Tamamlandı,3.0,0.0
+2024-12-07,Gaziantep,Giyim,Tişört,721.85,6,4331.1,Kurumsal,Kredi Kartı,29.0,Erkek,Tamamlandı,5.0,0.0
+2024-12-07,İstanbul,Giyim,Elbise,2286.52,2,4573.04,Bireysel,Kapıda Ödeme,23.0,Erkek,Tamamlandı,4.9,0.0
+2024-12-07,Bursa,Spor,Yoga Matı,1046.1,6,6276.6,Kurumsal,Banka Kartı,40.0,Kadın,Tamamlandı,4.1,0.0
+2024-12-09,Antalya,Ev & Yaşam,Nevresim Takımı,671.11,1,671.11,Bireysel,Banka Kartı,22.0,Kadın,Tamamlandı,4.4,0.0
+2024-12-09,Antalya,Kozmetik,Güneş Kremi,979.58,4,3918.32,Kurumsal,Havale/EFT,38.0,Kadın,Tamamlandı,4.5,0.0
+2024-12-11,Ankara,Kitap & Kırtasiye,Ajanda,197.1,1,197.1,Bireysel,Kapıda Ödeme,38.0,Erkek,Tamamlandı,3.3,0.0
+2024-12-11,Adana,Ev & Yaşam,Nevresim Takımı,214.79,3,644.37,Bireysel,Kredi Kartı,36.0,Kadın,Tamamlandı,2.6,0.0
+2024-12-11,Antalya,Ev & Yaşam,Dekoratif Vazo,1031.39,1,1031.39,Premium,Kapıda Ödeme,35.0,Kadın,Tamamlandı,3.7,0.0
+2024-12-11,Antalya,Elektronik,Kulaklık,20790.55,1,20790.55,Kurumsal,Banka Kartı,21.0,Kadın,Tamamlandı,3.7,0.0
+2024-12-11,Antalya,Giyim,Elbise,676.91,6,4061.46,Bireysel,Banka Kartı,29.0,Erkek,Tamamlandı,4.4,0.17
+2024-12-11,İzmir,Ev & Yaşam,Havlu Seti,489.67,6,2938.02,Bireysel,Kapıda Ödeme,32.0,Erkek,Beklemede,3.5,0.15
+2024-12-11,Trabzon,Spor,Koşu Ayakkabısı,1095.56,2,2191.12,Kurumsal,Havale/EFT,32.0,Kadın,Tamamlandı,3.1,0.0
+2024-12-12,Adana,Elektronik,Tablet,14041.25,2,28082.5,Kurumsal,Kapıda Ödeme,31.0,Kadın,Tamamlandı,5.0,0.19
+2024-12-13,Ankara,Elektronik,Akıllı Telefon,15555.24,3,46665.72,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,2.2,0.17
+2024-12-13,Konya,Elektronik,Dizüstü Bilgisayar,13847.63,6,83085.78,Bireysel,Banka Kartı,22.0,Kadın,Tamamlandı,4.4,0.0
+2024-12-13,Antalya,Kozmetik,Göz Farı,187.45,1,187.45,Bireysel,Banka Kartı,39.0,Kadın,Tamamlandı,4.7,0.05
+2024-12-13,İzmir,Ev & Yaşam,Yastık,1282.69,2,2565.38,Bireysel,Kredi Kartı,30.0,Erkek,İade Edildi,4.3,0.0
+2024-12-14,İstanbul,Elektronik,Akıllı Telefon,2738.15,7,19167.05,Kurumsal,Havale/EFT,31.0,Erkek,Tamamlandı,4.0,0.0
+2024-12-14,Konya,Kitap & Kırtasiye,Kalem Seti,114.8,7,803.6,Premium,Banka Kartı,24.0,Kadın,Tamamlandı,3.1,0.23
+2024-12-14,Antalya,Ev & Yaşam,Yastık,1418.47,4,5673.88,Kurumsal,Banka Kartı,22.0,Kadın,Tamamlandı,3.3,0.0
+2024-12-14,Adana,Elektronik,Dizüstü Bilgisayar,11729.91,4,46919.64,Bireysel,Kredi Kartı,41.0,Kadın,İptal Edildi,2.9,0.0
+2024-12-14,İstanbul,Elektronik,Akıllı Saat,2576.77,3,7730.31,Bireysel,Kredi Kartı,22.0,Erkek,İade Edildi,4.5,0.23
+2024-12-15,İzmir,Ev & Yaşam,Yastık,162.35,9,1461.15,Bireysel,Kredi Kartı,38.0,Kadın,İptal Edildi,4.4,0.0
+2024-12-15,Antalya,Spor,Koşu Ayakkabısı,1102.37,1,1102.37,Kurumsal,Kredi Kartı,31.0,Kadın,İade Edildi,4.2,0.0
+2024-12-15,İstanbul,Kozmetik,Parfüm,215.64,9,1940.76,Bireysel,Kredi Kartı,43.0,Kadın,Tamamlandı,4.3,0.0
+2024-12-15,İstanbul,Elektronik,Akıllı Telefon,9480.5,7,66363.5,Premium,Kredi Kartı,38.0,Kadın,Tamamlandı,4.9,0.07
+2024-12-19,Bursa,Gıda,Bal,302.5,10,3025.0,Bireysel,Havale/EFT,44.0,Erkek,Tamamlandı,3.2,0.18
+2024-12-21,İzmir,Giyim,Ayakkabı,1993.04,6,11958.24,Kurumsal,Banka Kartı,41.0,Kadın,Tamamlandı,4.5,0.0
+2024-12-21,Antalya,Elektronik,Akıllı Telefon,7308.33,5,36541.65,Bireysel,Kredi Kartı,52.0,Kadın,Tamamlandı,5.0,0.0
+2024-12-22,Antalya,Gıda,Kahve,232.17,1,232.17,Bireysel,Banka Kartı,55.0,Kadın,Tamamlandı,3.6,0.08
+2024-12-23,Gaziantep,Gıda,Bal,71.09,3,213.27,Kurumsal,Kredi Kartı,34.0,Kadın,İptal Edildi,3.9,0.25
+2024-12-24,İstanbul,Giyim,Ceket,2390.29,8,19122.32,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,3.2,0.16
+2024-12-24,Bursa,Ev & Yaşam,Nevresim Takımı,1327.82,3,3983.46,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,3.3,0.0
+2024-12-24,Bursa,Kitap & Kırtasiye,Ajanda,273.14,1,273.14,Bireysel,Kapıda Ödeme,24.0,Kadın,İade Edildi,4.6,0.11
+2024-12-25,Ankara,Gıda,Zeytinyağı,411.39,3,1234.17,Kurumsal,Kapıda Ödeme,33.0,Erkek,Tamamlandı,5.0,0.0
+2024-12-25,İstanbul,Giyim,Ceket,2196.04,1,2196.04,Bireysel,Banka Kartı,39.0,Kadın,Tamamlandı,4.3,0.16
+2024-12-26,İstanbul,Spor,Dambıl Seti,1869.36,3,5608.08,Bireysel,Banka Kartı,23.0,Erkek,Tamamlandı,3.3,0.0
+2024-12-26,Ankara,Kozmetik,Göz Farı,872.37,2,1744.74,Kurumsal,Havale/EFT,59.0,Erkek,Tamamlandı,4.6,0.0
+2024-12-28,Antalya,Elektronik,Tablet,5391.91,4,21567.64,Kurumsal,Kapıda Ödeme,19.0,Kadın,İade Edildi,3.6,0.0
+2024-12-28,İzmir,Ev & Yaşam,Yastık,589.85,2,1179.7,Bireysel,Banka Kartı,23.0,Erkek,İptal Edildi,5.0,0.0
+2024-12-28,Bursa,Gıda,Bal,325.4,5,1627.0,Premium,Havale/EFT,35.0,Erkek,Tamamlandı,3.7,0.09
+2024-12-29,Antalya,Gıda,Kahve,202.15,2,404.3,Bireysel,Banka Kartı,19.0,Kadın,Beklemede,4.3,0.27
+2024-12-29,Ankara,Spor,Koşu Ayakkabısı,717.39,2,1434.78,Kurumsal,Banka Kartı,26.0,Erkek,Tamamlandı,4.9,0.19
+2024-12-30,İstanbul,Giyim,Ayakkabı,2293.92,1,2293.92,Bireysel,Banka Kartı,20.0,Kadın,Tamamlandı,2.7,0.3
+2024-12-30,İzmir,Elektronik,Akıllı Saat,1295.53,4,5182.12,Bireysel,Kapıda Ödeme,37.0,Kadın,Tamamlandı,3.1,0.0
+2024-12-30,Konya,Spor,Yoga Matı,988.07,1,988.07,Kurumsal,Banka Kartı,42.0,Erkek,Tamamlandı,5.0,0.0
+2024-12-30,İstanbul,Gıda,Kahve,222.98,1,222.98,Kurumsal,Havale/EFT,41.0,Kadın,Tamamlandı,3.2,0.0
+2025-01-01,İstanbul,Giyim,Tişört,473.28,2,946.56,Premium,Banka Kartı,42.0,Kadın,Tamamlandı,3.4,0.0
+2025-01-01,İzmir,Kozmetik,Göz Farı,702.19,3,2106.57,Bireysel,Kredi Kartı,38.0,Kadın,Tamamlandı,4.5,0.07
+2025-01-03,Konya,Elektronik,Dizüstü Bilgisayar,6464.34,2,12928.68,Kurumsal,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.2,0.0
+2025-01-03,Samsun,Giyim,Pantolon,2470.99,1,2470.99,Kurumsal,Banka Kartı,51.0,Kadın,Tamamlandı,3.9,0.0
+2025-01-03,Adana,Giyim,Ayakkabı,954.14,1,954.14,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,2.8,0.1
+2025-01-04,Gaziantep,Spor,Spor Çantası,841.12,1,841.12,Bireysel,Kredi Kartı,32.0,Kadın,Tamamlandı,2.4,0.0
+2025-01-05,Bursa,Kitap & Kırtasiye,Roman,47.27,1,47.27,Bireysel,Havale/EFT,28.0,Erkek,Tamamlandı,4.8,0.0
+2025-01-05,Konya,Kozmetik,Göz Farı,1101.88,1,1101.88,Bireysel,Banka Kartı,37.0,Kadın,Tamamlandı,1.9,0.0
+2025-01-05,Antalya,Ev & Yaşam,Mum,332.52,2,665.04,Premium,Kredi Kartı,31.0,Kadın,Tamamlandı,4.3,0.26
+2025-01-06,İstanbul,Elektronik,Dizüstü Bilgisayar,2688.83,3,8066.49,Bireysel,Banka Kartı,45.0,Kadın,İade Edildi,5.0,0.0
+2025-01-07,Samsun,Giyim,Ceket,1048.86,2,2097.72,Bireysel,Banka Kartı,45.0,Erkek,İptal Edildi,3.8,0.0
+2025-01-07,Antalya,Elektronik,Dizüstü Bilgisayar,1464.37,2,2928.74,Bireysel,Kredi Kartı,21.0,Kadın,Tamamlandı,5.0,0.14
+2025-01-07,İzmir,Gıda,Zeytinyağı,52.92,2,105.84,Bireysel,Kredi Kartı,37.0,Kadın,Tamamlandı,4.8,0.0
+2025-01-07,İstanbul,Kozmetik,Parfüm,957.92,5,4789.6,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,4.6,0.2
+2025-01-08,İstanbul,Elektronik,Kulaklık,4723.47,5,23617.35,Bireysel,Kredi Kartı,33.0,Erkek,Tamamlandı,3.5,0.0
+2025-01-08,Gaziantep,Kozmetik,Nemlendirici Krem,447.98,7,3135.86,Bireysel,Havale/EFT,18.0,Kadın,Tamamlandı,3.1,0.0
+2025-01-08,İstanbul,Elektronik,Akıllı Saat,17337.24,1,17337.24,Bireysel,Kredi Kartı,30.0,Erkek,Tamamlandı,4.8,0.27
+2025-01-08,İzmir,Spor,Pilates Bandı,2566.48,1,2566.48,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,4.5,0.15
+2025-01-09,Ankara,Giyim,Ceket,939.79,5,4698.95,Bireysel,Banka Kartı,29.0,Erkek,Beklemede,3.7,0.0
+2025-01-10,Ankara,Gıda,Çay,225.6,1,225.6,Bireysel,Kredi Kartı,33.0,Erkek,Tamamlandı,4.7,0.0
+2025-01-10,Ankara,Kitap & Kırtasiye,Roman,61.95,3,185.85,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,3.7,0.0
+2025-01-10,İstanbul,Spor,Pilates Bandı,1330.42,7,9312.94,Kurumsal,Kredi Kartı,28.0,Erkek,Tamamlandı,3.5,0.0
+2025-01-11,Ankara,Elektronik,Tablet,7487.07,1,7487.07,Premium,Banka Kartı,30.0,Erkek,Tamamlandı,3.9,0.0
+2025-01-11,Trabzon,Kozmetik,Parfüm,856.68,5,4283.4,Premium,Kredi Kartı,51.0,Erkek,Tamamlandı,3.3,0.0
+2025-01-11,Ankara,Kozmetik,Parfüm,431.17,4,1724.68,Kurumsal,Banka Kartı,49.0,Kadın,Tamamlandı,4.0,0.0
+2025-01-12,İzmir,Elektronik,Akıllı Telefon,22119.81,1,22119.81,Bireysel,Banka Kartı,46.0,Kadın,Beklemede,3.7,0.0
+2025-01-12,Antalya,Gıda,Bal,157.99,6,947.94,Bireysel,Kredi Kartı,46.0,Erkek,Tamamlandı,3.7,0.18
+2025-01-13,İstanbul,Giyim,Ceket,417.47,2,834.94,Kurumsal,Havale/EFT,37.0,Erkek,Tamamlandı,4.7,0.0
+2025-01-13,Antalya,Ev & Yaşam,Nevresim Takımı,1177.97,2,2355.94,Bireysel,Kapıda Ödeme,26.0,Erkek,Tamamlandı,4.6,0.22
+2025-01-14,Konya,Giyim,Ceket,919.64,1,919.64,Bireysel,Banka Kartı,47.0,Kadın,Tamamlandı,2.5,0.0
+2025-01-14,İstanbul,Ev & Yaşam,Havlu Seti,371.58,6,2229.48,Premium,Kredi Kartı,36.0,Erkek,İptal Edildi,4.1,0.2
+2025-01-14,İstanbul,Ev & Yaşam,Mum,261.84,1,261.84,Bireysel,Havale/EFT,,Kadın,Tamamlandı,4.9,0.0
+2025-01-15,Ankara,Gıda,Bal,344.58,1,344.58,Kurumsal,Banka Kartı,53.0,Kadın,Tamamlandı,2.3,0.0
+2025-01-18,Gaziantep,Kitap & Kırtasiye,Defter,224.77,2,449.54,Kurumsal,Kapıda Ödeme,54.0,Erkek,Tamamlandı,4.8,0.0
+2025-01-19,İstanbul,Elektronik,Tablet,10573.04,1,10573.04,Bireysel,Kredi Kartı,38.0,Kadın,Tamamlandı,4.3,0.0
+2025-01-19,İstanbul,Kitap & Kırtasiye,Ajanda,110.13,3,330.39,Premium,Kapıda Ödeme,35.0,Kadın,Tamamlandı,4.6,0.0
+2025-01-19,Antalya,Kozmetik,Ruj,193.67,1,193.67,Bireysel,Banka Kartı,41.0,Kadın,Tamamlandı,4.8,0.0
+2025-01-20,Ankara,Ev & Yaşam,Mum,321.65,4,1286.6,Bireysel,Kredi Kartı,18.0,Erkek,İade Edildi,2.6,0.07
+2025-01-20,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,156.03,2,312.06,Bireysel,Kredi Kartı,27.0,Erkek,Tamamlandı,4.9,0.0
+2025-01-20,Trabzon,Giyim,Elbise,385.19,1,385.19,Bireysel,Havale/EFT,37.0,Kadın,Beklemede,3.9,0.0
+2025-01-20,Ankara,Elektronik,Akıllı Saat,11435.0,7,80045.0,Premium,Kredi Kartı,47.0,Kadın,Tamamlandı,3.7,0.1
+2025-01-20,İstanbul,Kozmetik,Nemlendirici Krem,52.2,1,52.2,Bireysel,Kredi Kartı,37.0,Erkek,İade Edildi,4.8,0.0
+2025-01-20,Ankara,Elektronik,Akıllı Saat,22100.07,3,66300.21,Kurumsal,Kredi Kartı,45.0,Kadın,Tamamlandı,4.5,0.0
+2025-01-21,Samsun,Elektronik,Dizüstü Bilgisayar,18311.95,5,91559.75,Premium,Kapıda Ödeme,31.0,Kadın,Tamamlandı,4.4,0.18
+2025-01-21,İstanbul,Elektronik,Akıllı Saat,16998.78,2,33997.56,Bireysel,Havale/EFT,43.0,Kadın,Tamamlandı,4.8,0.0
+2025-01-22,Bursa,Kozmetik,Güneş Kremi,663.55,1,663.55,Kurumsal,Banka Kartı,24.0,Kadın,İade Edildi,5.0,0.0
+2025-01-22,Gaziantep,Gıda,Çay,236.59,3,709.77,Premium,Havale/EFT,46.0,Erkek,Tamamlandı,3.9,0.19
+2025-01-23,Adana,Giyim,Elbise,642.14,2,1284.28,Kurumsal,Kredi Kartı,52.0,Kadın,Tamamlandı,3.4,0.0
+2025-01-23,Gaziantep,Giyim,Ayakkabı,2132.65,3,6397.95,Kurumsal,Havale/EFT,25.0,Kadın,Tamamlandı,3.3,0.0
+2025-01-24,Ankara,Elektronik,Kulaklık,6811.98,2,13623.96,Bireysel,Kredi Kartı,34.0,Erkek,Tamamlandı,2.9,0.0
+2025-01-24,Gaziantep,Elektronik,Dizüstü Bilgisayar,13779.37,2,27558.74,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,4.0,0.0
+2025-01-25,Antalya,Elektronik,Akıllı Saat,13683.32,1,13683.32,Bireysel,Kredi Kartı,43.0,Kadın,Tamamlandı,4.4,0.0
+2025-01-25,İstanbul,Elektronik,Akıllı Saat,744.25,7,5209.75,Premium,Kredi Kartı,31.0,Kadın,İptal Edildi,3.1,0.0
+2025-01-25,İzmir,Elektronik,Akıllı Saat,20540.11,1,20540.11,Bireysel,Kapıda Ödeme,34.0,Kadın,Tamamlandı,5.0,0.0
+2025-01-26,İstanbul,Giyim,Pantolon,1396.78,4,5587.12,Kurumsal,Kredi Kartı,31.0,Erkek,Tamamlandı,4.2,0.13
+2025-01-26,Samsun,Giyim,Pantolon,1158.15,1,1158.15,Premium,Kapıda Ödeme,18.0,Erkek,Beklemede,2.7,0.0
+2025-01-26,İzmir,Spor,Pilates Bandı,1438.93,3,4316.79,Kurumsal,Banka Kartı,38.0,Kadın,Tamamlandı,3.6,0.0
+2025-01-27,İzmir,Spor,Koşu Ayakkabısı,2048.02,2,4096.04,Bireysel,Kredi Kartı,40.0,Erkek,Tamamlandı,3.6,0.0
+2025-01-27,Samsun,Giyim,Pantolon,305.1,7,2135.7,Premium,Banka Kartı,42.0,Erkek,İptal Edildi,5.0,0.0
+2025-01-27,Ankara,Elektronik,Kulaklık,1707.72,1,1707.72,Bireysel,Banka Kartı,31.0,Kadın,Tamamlandı,5.0,0.26
+2025-01-27,Ankara,Elektronik,Akıllı Saat,14363.37,1,14363.37,Kurumsal,Kredi Kartı,57.0,Erkek,Tamamlandı,3.8,0.2
+2025-01-28,Ankara,Ev & Yaşam,Yastık,151.6,1,151.6,Kurumsal,Havale/EFT,52.0,Kadın,Tamamlandı,3.4,0.0
+2025-01-28,Gaziantep,Gıda,Kahve,407.27,4,1629.08,Kurumsal,Kredi Kartı,37.0,Erkek,Beklemede,3.8,0.0
+2025-01-30,Ankara,Kozmetik,Ruj,686.41,1,686.41,Premium,Kredi Kartı,22.0,Kadın,Tamamlandı,3.9,0.0
+2025-01-30,İstanbul,Gıda,Bal,97.89,6,587.34,Bireysel,Banka Kartı,53.0,Erkek,Tamamlandı,5.0,0.0
+2025-01-30,Konya,Kozmetik,Nemlendirici Krem,511.86,1,511.86,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,3.2,0.0
+2025-01-30,Trabzon,Giyim,Elbise,1090.07,7,7630.49,Kurumsal,Kredi Kartı,39.0,Kadın,İptal Edildi,4.0,0.0
+2025-01-31,İzmir,Spor,Yoga Matı,1810.52,1,1810.52,Bireysel,Havale/EFT,20.0,Kadın,Tamamlandı,4.1,0.0
+2025-01-31,Konya,Giyim,Ayakkabı,89.27,4,357.08,Bireysel,Kapıda Ödeme,41.0,Erkek,Tamamlandı,5.0,0.15
+2025-01-31,İzmir,Ev & Yaşam,Nevresim Takımı,356.58,5,1782.9,Kurumsal,Kredi Kartı,32.0,Kadın,Tamamlandı,3.9,0.0
+2025-02-01,Bursa,Elektronik,Akıllı Telefon,6208.96,3,18626.88,Kurumsal,Kredi Kartı,43.0,Kadın,Tamamlandı,3.8,0.0
+2025-02-01,İzmir,Giyim,Ceket,205.01,1,205.01,Bireysel,Banka Kartı,18.0,Erkek,İptal Edildi,4.0,0.0
+2025-02-01,Ankara,Ev & Yaşam,Havlu Seti,716.05,3,2148.15,Bireysel,Kredi Kartı,27.0,Kadın,Tamamlandı,4.4,0.29
+2025-02-03,İstanbul,Kozmetik,Nemlendirici Krem,371.92,6,2231.52,Bireysel,Kredi Kartı,45.0,Kadın,Tamamlandı,4.9,0.18
+2025-02-04,Antalya,Elektronik,Dizüstü Bilgisayar,8135.5,1,8135.5,Kurumsal,Kredi Kartı,38.0,Erkek,Tamamlandı,5.0,0.24
+2025-02-04,Ankara,Giyim,Pantolon,826.21,4,3304.84,Kurumsal,Havale/EFT,45.0,Kadın,Tamamlandı,4.5,0.0
+2025-02-04,Antalya,Giyim,Elbise,1273.02,2,2546.04,Premium,Banka Kartı,46.0,Erkek,İptal Edildi,5.0,0.0
+2025-02-04,Bursa,Giyim,Elbise,997.07,7,6979.49,Kurumsal,Banka Kartı,57.0,Erkek,Tamamlandı,5.0,0.08
+2025-02-04,Adana,Gıda,Kahve,92.64,1,92.64,Bireysel,Kapıda Ödeme,34.0,Kadın,Beklemede,4.9,0.0
+2025-02-04,Bursa,Elektronik,Akıllı Telefon,6826.56,1,6826.56,Kurumsal,Banka Kartı,31.0,Erkek,İade Edildi,3.0,0.0
+2025-02-05,Gaziantep,Gıda,Kuruyemiş,235.76,2,471.52,Bireysel,Havale/EFT,51.0,Erkek,Tamamlandı,3.6,0.0
+2025-02-05,Ankara,Elektronik,Dizüstü Bilgisayar,13344.24,1,13344.24,Bireysel,Havale/EFT,56.0,Kadın,Tamamlandı,1.7,0.0
+2025-02-05,İstanbul,Gıda,Çay,401.34,1,401.34,Bireysel,Havale/EFT,18.0,Erkek,Tamamlandı,5.0,0.11
+2025-02-05,Konya,Kitap & Kırtasiye,Defter,96.94,6,581.64,Premium,Kredi Kartı,33.0,Erkek,Tamamlandı,2.9,0.0
+2025-02-06,Adana,Kozmetik,Parfüm,1172.73,2,2345.46,Premium,Banka Kartı,,Erkek,İptal Edildi,4.8,0.0
+2025-02-06,İstanbul,Giyim,Pantolon,163.19,2,326.38,Bireysel,Kredi Kartı,29.0,Erkek,Tamamlandı,5.0,0.0
+2025-02-06,İzmir,Kozmetik,Göz Farı,712.0,3,2136.0,Premium,Kapıda Ödeme,41.0,Kadın,Tamamlandı,4.8,0.27
+2025-02-07,Adana,Spor,Spor Çantası,1938.98,6,11633.88,Kurumsal,Kredi Kartı,54.0,Kadın,Tamamlandı,4.0,0.0
+2025-02-08,Ankara,Gıda,Kahve,339.68,2,679.36,Kurumsal,Kapıda Ödeme,33.0,Erkek,İade Edildi,4.5,0.14
+2025-02-08,Konya,Ev & Yaşam,Dekoratif Vazo,843.03,1,843.03,Kurumsal,Banka Kartı,34.0,Erkek,Tamamlandı,4.7,0.0
+2025-02-08,Adana,Kitap & Kırtasiye,Defter,28.62,6,171.72,Bireysel,Kredi Kartı,36.0,Kadın,Tamamlandı,3.7,0.0
+2025-02-09,Gaziantep,Elektronik,Akıllı Saat,8780.97,1,8780.97,Bireysel,Kredi Kartı,,Kadın,Tamamlandı,3.3,0.08
+2025-02-10,Ankara,Elektronik,Tablet,14625.35,1,14625.35,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,5.0,0.0
+2025-02-10,İstanbul,Kitap & Kırtasiye,Kalem Seti,84.54,1,84.54,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,4.1,0.0
+2025-02-10,İzmir,Giyim,Elbise,1319.25,2,2638.5,Bireysel,Havale/EFT,42.0,Erkek,Tamamlandı,5.0,0.0
+2025-02-11,İstanbul,Gıda,Çay,470.15,3,1410.45,Kurumsal,Havale/EFT,41.0,Kadın,Beklemede,3.3,0.0
+2025-02-11,Antalya,Spor,Spor Çantası,1761.54,3,5284.62,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,4.4,0.0
+2025-02-12,Konya,Elektronik,Tablet,10040.05,1,10040.05,Kurumsal,Kapıda Ödeme,40.0,Kadın,Tamamlandı,3.1,0.0
+2025-02-13,İstanbul,Giyim,Ceket,288.45,3,865.35,Bireysel,Kredi Kartı,55.0,Kadın,İptal Edildi,4.9,0.0
+2025-02-13,İzmir,Ev & Yaşam,Havlu Seti,692.53,1,692.53,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,4.3,0.0
+2025-02-14,İzmir,Ev & Yaşam,Dekoratif Vazo,1012.82,5,5064.1,Kurumsal,Kredi Kartı,26.0,Kadın,Tamamlandı,4.2,0.1
+2025-02-14,Adana,Gıda,Kuruyemiş,310.24,1,310.24,Kurumsal,Kapıda Ödeme,22.0,Erkek,Tamamlandı,4.4,0.2
+2025-02-14,İstanbul,Gıda,Zeytinyağı,61.98,8,495.84,Bireysel,Banka Kartı,21.0,Erkek,Tamamlandı,4.5,0.18
+2025-02-16,Ankara,Spor,Pilates Bandı,1911.27,4,7645.08,Bireysel,Kapıda Ödeme,44.0,Erkek,Tamamlandı,4.3,0.11
+2025-02-17,Ankara,Elektronik,Tablet,19695.79,1,19695.79,Kurumsal,Havale/EFT,30.0,Kadın,Beklemede,3.0,0.24
+2025-02-17,Gaziantep,Gıda,Zeytinyağı,496.63,6,2979.78,Bireysel,Kredi Kartı,32.0,Kadın,Tamamlandı,4.1,0.0
+2025-02-18,Ankara,Elektronik,Kulaklık,13440.64,2,26881.28,Bireysel,Banka Kartı,38.0,Kadın,Tamamlandı,4.4,0.0
+2025-02-18,İzmir,Gıda,Çay,395.65,9,3560.85,Kurumsal,Banka Kartı,47.0,Kadın,İade Edildi,3.9,0.0
+2025-02-18,İstanbul,Ev & Yaşam,Dekoratif Vazo,1166.11,1,1166.11,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,4.6,0.0
+2025-02-19,Antalya,Kitap & Kırtasiye,Kalem Seti,103.42,2,206.84,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,5.0,0.13
+2025-02-19,İstanbul,Giyim,Elbise,816.42,1,816.42,Bireysel,Kapıda Ödeme,23.0,Erkek,Tamamlandı,3.6,0.0
+2025-02-20,Antalya,Elektronik,Akıllı Saat,914.36,1,914.36,Kurumsal,Kredi Kartı,20.0,Erkek,Tamamlandı,5.0,0.0
+2025-02-21,Adana,Elektronik,Dizüstü Bilgisayar,7835.87,1,7835.87,Kurumsal,Kapıda Ödeme,45.0,Erkek,İade Edildi,3.2,0.25
+2025-02-21,Gaziantep,Gıda,Kuruyemiş,371.77,3,1115.31,Kurumsal,Kapıda Ödeme,33.0,Erkek,Tamamlandı,3.4,0.0
+2025-02-21,Ankara,Ev & Yaşam,Mum,865.11,1,865.11,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,5.0,0.0
+2025-02-22,Gaziantep,Spor,Dambıl Seti,2490.99,2,4981.98,Bireysel,Kapıda Ödeme,37.0,Kadın,İade Edildi,3.1,0.0
+2025-02-22,Antalya,Elektronik,Akıllı Saat,14494.38,1,14494.38,Kurumsal,Kredi Kartı,32.0,Erkek,Tamamlandı,2.4,0.0
+2025-02-23,Adana,Elektronik,Akıllı Saat,20700.67,2,41401.34,Kurumsal,Kredi Kartı,42.0,Kadın,Tamamlandı,3.9,0.29
+2025-02-23,İstanbul,Giyim,Tişört,1835.29,2,3670.58,Premium,Havale/EFT,51.0,Kadın,Tamamlandı,4.0,0.0
+2025-02-23,Gaziantep,Giyim,Pantolon,1038.45,1,1038.45,Bireysel,Kapıda Ödeme,36.0,Kadın,Tamamlandı,3.6,0.0
+2025-02-23,İstanbul,Giyim,Tişört,483.02,8,3864.16,Bireysel,Kapıda Ödeme,18.0,Erkek,Tamamlandı,3.1,0.0
+2025-02-25,Gaziantep,Spor,Koşu Ayakkabısı,760.71,2,1521.42,Bireysel,Kredi Kartı,32.0,Kadın,Tamamlandı,3.4,0.0
+2025-02-25,Antalya,Kitap & Kırtasiye,Ajanda,253.37,1,253.37,Bireysel,Banka Kartı,18.0,Erkek,İptal Edildi,3.9,0.0
+2025-02-25,İstanbul,Giyim,Tişört,1647.48,6,9884.88,Kurumsal,Kredi Kartı,32.0,Erkek,Tamamlandı,3.4,0.17
+2025-02-25,Trabzon,Giyim,Elbise,1271.53,5,6357.65,Premium,Banka Kartı,46.0,Kadın,İade Edildi,4.7,0.0
+2025-02-27,Samsun,Ev & Yaşam,Nevresim Takımı,909.12,1,909.12,Bireysel,Havale/EFT,26.0,Erkek,Tamamlandı,2.9,0.18
+2025-02-28,İstanbul,Spor,Spor Çantası,273.22,1,273.22,Kurumsal,Kredi Kartı,27.0,Kadın,Tamamlandı,4.9,0.0
+2025-03-01,Adana,Kitap & Kırtasiye,Defter,177.5,1,177.5,Premium,Kredi Kartı,38.0,Kadın,Tamamlandı,4.1,0.0
+2025-03-02,İstanbul,Ev & Yaşam,Havlu Seti,995.81,3,2987.43,Bireysel,Banka Kartı,34.0,Erkek,İptal Edildi,3.8,0.0
+2025-03-03,Ankara,Elektronik,Akıllı Saat,651.5,8,5212.0,Kurumsal,Havale/EFT,52.0,Kadın,İptal Edildi,2.6,0.0
+2025-03-04,Ankara,Elektronik,Akıllı Saat,21815.61,1,21815.61,Bireysel,Kredi Kartı,34.0,Erkek,İade Edildi,3.9,0.24
+2025-03-04,İstanbul,Gıda,Kuruyemiş,273.05,7,1911.35,Premium,Kapıda Ödeme,,Kadın,İade Edildi,4.1,0.0
+2025-03-06,Samsun,Ev & Yaşam,Havlu Seti,782.42,2,1564.84,Bireysel,Kredi Kartı,40.0,Erkek,Tamamlandı,3.4,0.3
+2025-03-07,İzmir,Kozmetik,Ruj,966.32,6,5797.92,Bireysel,Kredi Kartı,22.0,Kadın,Tamamlandı,4.3,0.0
+2025-03-10,Bursa,Giyim,Ayakkabı,658.01,1,658.01,Bireysel,Banka Kartı,18.0,Kadın,İptal Edildi,3.3,0.0
+2025-03-10,Gaziantep,Gıda,Kuruyemiş,379.89,3,1139.67,Bireysel,Kredi Kartı,53.0,Kadın,Beklemede,3.5,0.0
+2025-03-10,Adana,Ev & Yaşam,Nevresim Takımı,763.3,1,763.3,Kurumsal,Kredi Kartı,65.0,Kadın,Beklemede,4.3,0.24
+2025-03-10,Ankara,Ev & Yaşam,Yastık,1147.54,2,2295.08,Bireysel,Banka Kartı,38.0,Kadın,Tamamlandı,5.0,0.0
+2025-03-10,İzmir,Giyim,Pantolon,1934.57,6,11607.42,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,4.8,0.0
+2025-03-10,Ankara,Elektronik,Akıllı Saat,11661.39,2,23322.78,Kurumsal,Kredi Kartı,39.0,Erkek,Tamamlandı,2.8,0.0
+2025-03-11,İstanbul,Gıda,Bal,191.22,1,191.22,Bireysel,Banka Kartı,43.0,Erkek,Tamamlandı,4.2,0.0
+2025-03-11,Ankara,Elektronik,Kulaklık,6925.72,1,6925.72,Bireysel,Kredi Kartı,21.0,Kadın,İade Edildi,4.9,0.22
+2025-03-12,Ankara,Gıda,Zeytinyağı,432.39,3,1297.17,Bireysel,Kapıda Ödeme,37.0,Kadın,Tamamlandı,3.6,0.0
+2025-03-12,Ankara,Elektronik,Akıllı Saat,1755.0,5,8775.0,Kurumsal,Kredi Kartı,20.0,Erkek,Tamamlandı,4.5,0.0
+2025-03-13,İzmir,Ev & Yaşam,Yastık,1231.21,5,6156.05,Premium,Kredi Kartı,38.0,Erkek,İptal Edildi,3.4,0.0
+2025-03-13,Ankara,Giyim,Ayakkabı,1666.33,3,4998.99,Bireysel,Kredi Kartı,33.0,Kadın,Tamamlandı,3.9,0.0
+2025-03-14,İstanbul,Kozmetik,Göz Farı,624.79,2,1249.58,Bireysel,Kredi Kartı,32.0,Erkek,İade Edildi,5.0,0.0
+2025-03-15,Samsun,Elektronik,Akıllı Saat,4413.86,1,4413.86,Bireysel,Kredi Kartı,49.0,Erkek,Tamamlandı,4.3,0.0
+2025-03-16,Samsun,Giyim,Ceket,2243.41,1,2243.41,Kurumsal,Kredi Kartı,31.0,Erkek,Tamamlandı,4.0,0.21
+2025-03-16,İzmir,Elektronik,Tablet,4411.83,2,8823.66,Kurumsal,Kapıda Ödeme,18.0,Kadın,Tamamlandı,3.8,0.16
+2025-03-16,Konya,Giyim,Tişört,742.27,5,3711.35,Kurumsal,Banka Kartı,55.0,Kadın,Tamamlandı,2.6,0.17
+2025-03-17,Antalya,Elektronik,Dizüstü Bilgisayar,22101.87,2,44203.74,Bireysel,Kapıda Ödeme,31.0,Erkek,Tamamlandı,3.4,0.0
+2025-03-17,Gaziantep,Elektronik,Akıllı Saat,21931.22,5,109656.1,Bireysel,Havale/EFT,37.0,Erkek,Tamamlandı,3.1,0.27
+2025-03-17,Konya,Kozmetik,Güneş Kremi,928.84,4,3715.36,Kurumsal,Kapıda Ödeme,53.0,Kadın,Tamamlandı,4.0,0.0
+2025-03-18,İzmir,Ev & Yaşam,Mum,384.57,1,384.57,Bireysel,Banka Kartı,44.0,Erkek,Tamamlandı,3.2,0.0
+2025-03-18,Ankara,Kozmetik,Ruj,1139.51,1,1139.51,Bireysel,Banka Kartı,47.0,Kadın,İptal Edildi,3.4,0.14
+2025-03-18,Bursa,Kitap & Kırtasiye,Kalem Seti,275.81,1,275.81,Kurumsal,Kapıda Ödeme,,Kadın,Tamamlandı,4.4,0.0
+2025-03-19,İzmir,Elektronik,Dizüstü Bilgisayar,17244.02,2,34488.04,Bireysel,Kredi Kartı,,Kadın,Tamamlandı,4.3,0.0
+2025-03-20,Ankara,Ev & Yaşam,Mum,259.25,2,518.5,Premium,Banka Kartı,53.0,Erkek,Tamamlandı,4.1,0.0
+2025-03-20,Ankara,Elektronik,Akıllı Saat,5901.53,1,5901.53,Kurumsal,Banka Kartı,19.0,Erkek,Tamamlandı,4.0,0.0
+2025-03-21,Trabzon,Kitap & Kırtasiye,Defter,121.41,2,242.82,Kurumsal,Kredi Kartı,25.0,Erkek,Tamamlandı,2.8,0.0
+2025-03-21,Antalya,Kozmetik,Nemlendirici Krem,1053.47,2,2106.94,Kurumsal,Kredi Kartı,30.0,Erkek,Tamamlandı,4.8,0.0
+2025-03-22,Samsun,Kitap & Kırtasiye,Ajanda,285.55,2,571.1,Premium,Banka Kartı,32.0,Kadın,İade Edildi,4.2,0.0
+2025-03-22,Ankara,Ev & Yaşam,Yastık,829.05,2,1658.1,Bireysel,Banka Kartı,36.0,Erkek,Tamamlandı,4.9,0.0
+2025-03-23,İzmir,Ev & Yaşam,Dekoratif Vazo,1129.89,2,2259.78,Bireysel,Kapıda Ödeme,41.0,Erkek,İptal Edildi,4.7,0.0
+2025-03-24,Bursa,Elektronik,Akıllı Saat,3606.64,2,7213.28,Kurumsal,Banka Kartı,23.0,Erkek,Tamamlandı,2.8,0.12
+2025-03-25,Adana,Ev & Yaşam,Nevresim Takımı,741.81,2,1483.62,Bireysel,Kredi Kartı,36.0,Erkek,Tamamlandı,2.7,0.08
+2025-03-25,Konya,Giyim,Ceket,131.18,1,131.18,Kurumsal,Kredi Kartı,27.0,Erkek,İptal Edildi,4.0,0.3
+2025-03-25,Gaziantep,Gıda,Çay,433.72,1,433.72,Bireysel,Kapıda Ödeme,49.0,Kadın,Tamamlandı,3.1,0.13
+2025-03-25,Bursa,Giyim,Ceket,1736.33,1,1736.33,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,4.2,0.0
+2025-03-26,İstanbul,Elektronik,Kulaklık,24622.11,2,49244.22,Bireysel,Havale/EFT,43.0,Erkek,Tamamlandı,3.3,0.0
+2025-03-27,İzmir,Spor,Yoga Matı,255.98,1,255.98,Bireysel,Banka Kartı,35.0,Kadın,Tamamlandı,3.1,0.22
+2025-03-28,İstanbul,Kitap & Kırtasiye,Kalem Seti,294.29,5,1471.45,Bireysel,Havale/EFT,49.0,Erkek,Tamamlandı,4.7,0.13
+2025-03-28,Adana,Ev & Yaşam,Mum,427.07,6,2562.42,Premium,Havale/EFT,33.0,Erkek,Tamamlandı,4.3,0.17
+2025-03-28,İzmir,Elektronik,Akıllı Telefon,16933.74,6,101602.44,Premium,Kredi Kartı,34.0,Kadın,Tamamlandı,4.1,0.0
+2025-03-30,İstanbul,Giyim,Ayakkabı,1379.2,2,2758.4,Bireysel,Banka Kartı,32.0,Kadın,Tamamlandı,3.5,0.21
+2025-03-30,Trabzon,Elektronik,Akıllı Saat,6293.64,1,6293.64,Kurumsal,Banka Kartı,35.0,Erkek,İptal Edildi,5.0,0.14
+2025-03-30,İstanbul,Elektronik,Kulaklık,22785.09,1,22785.09,Bireysel,Havale/EFT,41.0,Kadın,Tamamlandı,4.1,0.06
+2025-03-31,Samsun,Kozmetik,Göz Farı,324.73,2,649.46,Bireysel,Havale/EFT,29.0,Kadın,Tamamlandı,4.2,0.25
+2025-03-31,İzmir,Giyim,Elbise,664.81,2,1329.62,Premium,Banka Kartı,30.0,Erkek,Beklemede,4.3,0.0
+2025-03-31,Antalya,Elektronik,Akıllı Saat,12709.16,3,38127.48,Bireysel,Kredi Kartı,29.0,Kadın,Tamamlandı,3.3,0.0
+2025-04-01,İstanbul,Kozmetik,Güneş Kremi,955.14,1,955.14,Bireysel,Kapıda Ödeme,30.0,Erkek,Tamamlandı,3.7,0.0
+2025-04-01,Bursa,Ev & Yaşam,Nevresim Takımı,132.11,9,1188.99,Kurumsal,Banka Kartı,18.0,Kadın,Tamamlandı,4.6,0.17
+2025-04-02,Antalya,Giyim,Elbise,979.85,1,979.85,Bireysel,Kapıda Ödeme,40.0,Erkek,İptal Edildi,4.5,0.0
+2025-04-02,İstanbul,Elektronik,Akıllı Telefon,3658.11,2,7316.22,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,2.8,0.0
+2025-04-03,Trabzon,Ev & Yaşam,Yastık,458.65,5,2293.25,Premium,Kredi Kartı,55.0,Erkek,Tamamlandı,1.8,0.0
+2025-04-03,İzmir,Giyim,Tişört,2419.15,1,2419.15,Bireysel,Havale/EFT,32.0,Erkek,Tamamlandı,3.8,0.0
+2025-04-04,Samsun,Kozmetik,Güneş Kremi,457.67,2,915.34,Kurumsal,Havale/EFT,18.0,Erkek,Tamamlandı,3.3,0.21
+2025-04-04,Ankara,Elektronik,Akıllı Telefon,13620.79,4,54483.16,Bireysel,Havale/EFT,34.0,Erkek,Tamamlandı,3.5,0.0
+2025-04-04,Konya,Elektronik,Akıllı Saat,24770.75,2,49541.5,Bireysel,Banka Kartı,44.0,Kadın,Tamamlandı,4.2,0.21
+2025-04-05,Trabzon,Elektronik,Kulaklık,23340.54,8,186724.32,Premium,Kapıda Ödeme,20.0,Erkek,Tamamlandı,4.3,0.27
+2025-04-05,İstanbul,Giyim,Elbise,1268.27,3,3804.81,Kurumsal,Kredi Kartı,32.0,Kadın,Tamamlandı,3.9,0.06
+2025-04-05,Konya,Giyim,Tişört,2059.13,10,20591.3,Bireysel,Banka Kartı,39.0,Kadın,Tamamlandı,3.4,0.0
+2025-04-06,Bursa,Kitap & Kırtasiye,Boyama Kitabı,32.03,1,32.03,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,3.8,0.0
+2025-04-06,Antalya,Kozmetik,Güneş Kremi,739.76,1,739.76,Kurumsal,Havale/EFT,54.0,Erkek,Tamamlandı,2.9,0.0
+2025-04-06,İstanbul,Elektronik,Akıllı Saat,8364.43,5,41822.15,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,4.0,0.2
+2025-04-08,Bursa,Gıda,Bal,333.81,8,2670.48,Bireysel,Kapıda Ödeme,46.0,Erkek,Tamamlandı,4.8,0.24
+2025-04-10,Samsun,Spor,Pilates Bandı,2774.46,6,16646.76,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,3.0,0.0
+2025-04-10,Samsun,Kitap & Kırtasiye,Boyama Kitabı,77.07,2,154.14,Bireysel,Kredi Kartı,42.0,Erkek,İptal Edildi,3.3,0.13
+2025-04-11,İzmir,Gıda,Kahve,403.24,4,1612.96,Bireysel,Kapıda Ödeme,30.0,Erkek,Beklemede,2.5,0.0
+2025-04-11,İstanbul,Spor,Dambıl Seti,207.52,5,1037.6,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,4.3,0.0
+2025-04-12,Ankara,Elektronik,Dizüstü Bilgisayar,22827.87,1,22827.87,Bireysel,Kapıda Ödeme,40.0,Kadın,İptal Edildi,2.6,0.0
+2025-04-13,Antalya,Kozmetik,Nemlendirici Krem,463.83,2,927.66,Premium,Havale/EFT,41.0,Kadın,Tamamlandı,4.9,0.0
+2025-04-13,Gaziantep,Gıda,Bal,180.54,1,180.54,Bireysel,Kredi Kartı,53.0,Erkek,Tamamlandı,3.1,0.0
+2025-04-13,İstanbul,Ev & Yaşam,Dekoratif Vazo,258.62,9,2327.58,Bireysel,Havale/EFT,33.0,Erkek,Tamamlandı,4.1,0.0
+2025-04-14,İzmir,Spor,Spor Çantası,1464.93,3,4394.79,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,3.5,0.0
+2025-04-14,İzmir,Elektronik,Kulaklık,23468.29,3,70404.87,Kurumsal,Kredi Kartı,29.0,Kadın,Tamamlandı,4.4,0.27
+2025-04-15,İzmir,Ev & Yaşam,Havlu Seti,505.53,4,2022.12,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,3.8,0.0
+2025-04-15,Adana,Gıda,Kahve,292.79,4,1171.16,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,3.3,0.0
+2025-04-15,İstanbul,Gıda,Kahve,257.42,2,514.84,Kurumsal,Kredi Kartı,36.0,Erkek,İade Edildi,3.1,0.0
+2025-04-16,İzmir,Giyim,Elbise,1777.79,2,3555.58,Bireysel,Kredi Kartı,51.0,Kadın,İade Edildi,4.9,0.0
+2025-04-16,Bursa,Giyim,Ceket,1300.9,1,1300.9,Bireysel,Banka Kartı,19.0,Erkek,Tamamlandı,3.0,0.0
+2025-04-17,İstanbul,Giyim,Elbise,1646.57,2,3293.14,Premium,Kapıda Ödeme,21.0,Erkek,Beklemede,4.4,0.0
+2025-04-17,Gaziantep,Elektronik,Kulaklık,3578.27,1,3578.27,Kurumsal,Banka Kartı,18.0,Erkek,Tamamlandı,4.4,0.0
+2025-04-17,Bursa,Gıda,Çay,98.39,1,98.39,Bireysel,Kapıda Ödeme,19.0,Erkek,İptal Edildi,4.0,0.0
+2025-04-18,Gaziantep,Kozmetik,Göz Farı,238.14,8,1905.12,Kurumsal,Banka Kartı,46.0,Erkek,Tamamlandı,3.4,0.29
+2025-04-18,Konya,Elektronik,Dizüstü Bilgisayar,7888.88,3,23666.64,Kurumsal,Havale/EFT,33.0,Kadın,Beklemede,3.7,0.0
+2025-04-18,Konya,Kitap & Kırtasiye,Roman,180.23,1,180.23,Bireysel,Kapıda Ödeme,29.0,Erkek,Tamamlandı,4.9,0.28
+2025-04-18,Samsun,Kozmetik,Göz Farı,322.59,5,1612.95,Kurumsal,Havale/EFT,34.0,Kadın,Tamamlandı,4.3,0.18
+2025-04-19,Ankara,Elektronik,Akıllı Saat,19478.99,1,19478.99,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,3.8,0.0
+2025-04-19,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,220.03,1,220.03,Bireysel,Kredi Kartı,32.0,Erkek,Tamamlandı,3.9,0.0
+2025-04-19,Samsun,Elektronik,Dizüstü Bilgisayar,8727.5,4,34910.0,Bireysel,Kredi Kartı,51.0,Kadın,Tamamlandı,1.9,0.0
+2025-04-20,İstanbul,Ev & Yaşam,Havlu Seti,166.09,3,498.27,Kurumsal,Kredi Kartı,22.0,Erkek,Tamamlandı,2.9,0.0
+2025-04-20,İstanbul,Elektronik,Kulaklık,2692.09,1,2692.09,Kurumsal,Havale/EFT,37.0,Kadın,Tamamlandı,3.9,0.0
+2025-04-20,Bursa,Elektronik,Dizüstü Bilgisayar,17309.23,2,34618.46,Bireysel,Banka Kartı,21.0,Erkek,Tamamlandı,4.4,0.0
+2025-04-20,Adana,Kozmetik,Göz Farı,630.39,2,1260.78,Bireysel,Kapıda Ödeme,23.0,Kadın,Beklemede,3.5,0.0
+2025-04-20,Adana,Elektronik,Akıllı Telefon,16376.74,2,32753.48,Kurumsal,Kredi Kartı,32.0,Erkek,Tamamlandı,4.0,0.08
+2025-04-20,Antalya,Spor,Spor Çantası,2616.45,2,5232.9,Kurumsal,Banka Kartı,55.0,Kadın,Tamamlandı,4.1,0.0
+2025-04-21,İzmir,Spor,Dambıl Seti,404.17,4,1616.68,Premium,Havale/EFT,33.0,Erkek,Tamamlandı,4.0,0.0
+2025-04-21,İstanbul,Kozmetik,Parfüm,991.79,2,1983.58,Bireysel,Kapıda Ödeme,29.0,Erkek,İade Edildi,5.0,0.0
+2025-04-21,Ankara,Elektronik,Akıllı Saat,18462.43,1,18462.43,Kurumsal,Banka Kartı,31.0,Kadın,Tamamlandı,4.1,0.0
+2025-04-21,İstanbul,Kitap & Kırtasiye,Defter,67.47,4,269.88,Bireysel,Banka Kartı,26.0,Kadın,Tamamlandı,3.5,0.0
+2025-04-21,İzmir,Gıda,Bal,417.16,3,1251.48,Bireysel,Kredi Kartı,23.0,Kadın,Tamamlandı,4.2,0.19
+2025-04-21,Ankara,Kitap & Kırtasiye,Kalem Seti,253.51,1,253.51,Bireysel,Kredi Kartı,20.0,Kadın,İade Edildi,4.4,0.0
+2025-04-22,Antalya,Elektronik,Akıllı Telefon,4223.51,2,8447.02,Kurumsal,Banka Kartı,48.0,Erkek,İptal Edildi,5.0,0.25
+2025-04-22,Gaziantep,Gıda,Zeytinyağı,333.26,2,666.52,Bireysel,Banka Kartı,43.0,Erkek,Tamamlandı,2.7,0.0
+2025-04-25,Antalya,Gıda,Kuruyemiş,66.18,4,264.72,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,,0.0
+2025-04-25,İstanbul,Elektronik,Akıllı Saat,8023.65,1,8023.65,Bireysel,Kapıda Ödeme,41.0,Kadın,Tamamlandı,2.5,0.0
+2025-04-26,Bursa,Kozmetik,Parfüm,1082.37,2,2164.74,Kurumsal,Banka Kartı,36.0,Kadın,Tamamlandı,4.0,0.0
+2025-04-28,Ankara,Giyim,Pantolon,100.86,7,706.02,Bireysel,Kredi Kartı,49.0,Erkek,İptal Edildi,4.1,0.06
+2025-04-29,Ankara,Spor,Spor Çantası,1155.61,1,1155.61,Bireysel,Kredi Kartı,49.0,Kadın,Tamamlandı,2.5,0.26
+2025-04-29,Bursa,Elektronik,Dizüstü Bilgisayar,1794.23,4,7176.92,Bireysel,Kapıda Ödeme,,Erkek,Tamamlandı,4.0,0.0
+2025-04-29,Gaziantep,Giyim,Tişört,2497.08,8,19976.64,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,3.6,0.0
+2025-04-29,Antalya,Spor,Spor Çantası,1367.46,3,4102.38,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,5.0,0.0
+2025-05-02,Ankara,Ev & Yaşam,Havlu Seti,291.93,7,2043.51,Bireysel,Kredi Kartı,30.0,Erkek,Tamamlandı,4.2,0.0
+2025-05-02,Adana,Elektronik,Dizüstü Bilgisayar,21731.59,2,43463.18,Bireysel,Banka Kartı,38.0,Erkek,Tamamlandı,4.2,0.29
+2025-05-03,Ankara,Spor,Spor Çantası,452.24,1,452.24,Bireysel,Kapıda Ödeme,33.0,Erkek,Tamamlandı,3.6,0.0
+2025-05-03,Ankara,Elektronik,Akıllı Telefon,16715.58,3,50146.74,Bireysel,Havale/EFT,36.0,Erkek,Tamamlandı,4.0,0.29
+2025-05-04,Gaziantep,Gıda,Bal,195.67,6,1174.02,Kurumsal,Kredi Kartı,43.0,Erkek,Beklemede,4.7,0.0
+2025-05-04,Bursa,Elektronik,Tablet,7634.31,4,30537.24,Kurumsal,Banka Kartı,32.0,Kadın,Tamamlandı,3.8,0.06
+2025-05-04,Trabzon,Elektronik,Dizüstü Bilgisayar,14445.56,6,86673.36,Bireysel,Kredi Kartı,54.0,Erkek,İptal Edildi,4.7,0.0
+2025-05-05,İzmir,Spor,Yoga Matı,609.51,2,1219.02,Kurumsal,Banka Kartı,18.0,Kadın,İade Edildi,5.0,0.0
+2025-05-05,Ankara,Elektronik,Akıllı Saat,22421.32,2,44842.64,Bireysel,Havale/EFT,46.0,Kadın,Tamamlandı,4.4,0.0
+2025-05-06,Gaziantep,Elektronik,Dizüstü Bilgisayar,11478.09,3,34434.27,Bireysel,Havale/EFT,30.0,Erkek,Tamamlandı,3.5,0.0
+2025-05-06,Bursa,Gıda,Kuruyemiş,42.74,2,85.48,Kurumsal,Kapıda Ödeme,36.0,Kadın,Tamamlandı,2.3,0.0
+2025-05-07,Gaziantep,Kitap & Kırtasiye,Kalem Seti,47.27,3,141.81,Bireysel,Kapıda Ödeme,32.0,Erkek,Tamamlandı,4.3,0.0
+2025-05-07,Gaziantep,Elektronik,Dizüstü Bilgisayar,11079.27,3,33237.81,Bireysel,Kredi Kartı,40.0,Kadın,Tamamlandı,5.0,0.0
+2025-05-07,İstanbul,Elektronik,Kulaklık,8884.53,5,44422.65,Bireysel,Kapıda Ödeme,36.0,Kadın,Beklemede,5.0,0.22
+2025-05-08,Gaziantep,Elektronik,Tablet,7131.75,3,21395.25,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,4.3,0.2
+2025-05-10,Konya,Kozmetik,Parfüm,325.15,1,325.15,Bireysel,Havale/EFT,25.0,Kadın,Tamamlandı,4.3,0.0
+2025-05-11,İstanbul,Kozmetik,Göz Farı,226.74,1,226.74,Kurumsal,Kredi Kartı,23.0,Kadın,Beklemede,4.7,0.0
+2025-05-11,İzmir,Giyim,Ayakkabı,1824.95,8,14599.6,Bireysel,Banka Kartı,30.0,Erkek,Tamamlandı,4.5,0.0
+2025-05-11,Samsun,Giyim,Tişört,1911.08,1,1911.08,Kurumsal,Kapıda Ödeme,18.0,Erkek,Tamamlandı,2.4,0.07
+2025-05-11,Samsun,Gıda,Zeytinyağı,149.0,4,596.0,Bireysel,Kapıda Ödeme,39.0,Erkek,Tamamlandı,3.9,0.0
+2025-05-11,Gaziantep,Giyim,Ceket,1757.97,5,8789.85,Kurumsal,Havale/EFT,40.0,Erkek,İptal Edildi,3.3,0.09
+2025-05-12,Antalya,Gıda,Kahve,380.83,2,761.66,Bireysel,Havale/EFT,32.0,Kadın,Tamamlandı,4.0,0.09
+2025-05-12,İstanbul,Giyim,Ayakkabı,641.63,4,2566.52,Premium,Havale/EFT,18.0,Kadın,Tamamlandı,3.8,0.07
+2025-05-13,İzmir,Ev & Yaşam,Dekoratif Vazo,779.17,1,779.17,Bireysel,Banka Kartı,45.0,Kadın,İade Edildi,4.2,0.0
+2025-05-13,Konya,Elektronik,Akıllı Saat,16383.29,7,114683.03,Bireysel,Kredi Kartı,32.0,Erkek,Beklemede,3.8,0.27
+2025-05-14,İzmir,Gıda,Kuruyemiş,499.32,2,998.64,Bireysel,Banka Kartı,47.0,Kadın,Tamamlandı,3.3,0.0
+2025-05-14,Bursa,Kozmetik,Ruj,922.77,5,4613.85,Kurumsal,Kapıda Ödeme,27.0,Erkek,İade Edildi,4.9,0.2
+2025-05-14,İzmir,Kitap & Kırtasiye,Defter,286.4,3,859.2,Bireysel,Banka Kartı,37.0,Erkek,Tamamlandı,4.0,0.0
+2025-05-14,İstanbul,Kozmetik,Parfüm,235.15,3,705.45,Kurumsal,Banka Kartı,29.0,Kadın,Tamamlandı,5.0,0.0
+2025-05-15,İzmir,Elektronik,Akıllı Telefon,2674.95,2,5349.9,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,2.2,0.0
+2025-05-15,İstanbul,Elektronik,Akıllı Saat,9768.73,1,9768.73,Kurumsal,Kredi Kartı,53.0,Kadın,İade Edildi,4.4,0.25
+2025-05-15,Ankara,Ev & Yaşam,Nevresim Takımı,831.83,1,831.83,Bireysel,Havale/EFT,31.0,Erkek,Beklemede,3.6,0.17
+2025-05-16,İzmir,Gıda,Bal,50.96,2,101.92,Kurumsal,Kredi Kartı,18.0,Kadın,Tamamlandı,2.5,0.29
+2025-05-16,Ankara,Giyim,Tişört,1008.33,2,2016.66,Bireysel,Kredi Kartı,40.0,Erkek,Tamamlandı,3.5,0.0
+2025-05-17,Gaziantep,Elektronik,Kulaklık,5236.81,5,26184.05,Premium,Banka Kartı,43.0,Erkek,Tamamlandı,3.6,0.0
+2025-05-17,İstanbul,Spor,Spor Çantası,2332.15,1,2332.15,Bireysel,Kapıda Ödeme,29.0,Kadın,Tamamlandı,3.3,0.0
+2025-05-17,Antalya,Gıda,Kuruyemiş,437.52,2,875.04,Premium,Kredi Kartı,26.0,Kadın,Tamamlandı,4.2,0.2
+2025-05-17,Antalya,Elektronik,Dizüstü Bilgisayar,18543.59,1,18543.59,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.7,0.16
+2025-05-18,İstanbul,Giyim,Ceket,1113.09,3,3339.27,Premium,Havale/EFT,49.0,Kadın,Tamamlandı,4.0,0.23
+2025-05-18,Bursa,Kozmetik,Güneş Kremi,794.84,1,794.84,Bireysel,Banka Kartı,36.0,Kadın,Tamamlandı,4.5,0.0
+2025-05-19,Adana,Elektronik,Akıllı Saat,2426.35,1,2426.35,Bireysel,Kredi Kartı,,Erkek,Tamamlandı,3.8,0.27
+2025-05-19,Bursa,Elektronik,Tablet,7335.7,2,14671.4,Kurumsal,Havale/EFT,20.0,Erkek,İade Edildi,4.1,0.0
+2025-05-20,İstanbul,Giyim,Tişört,1065.93,3,3197.79,Premium,Kredi Kartı,34.0,Erkek,Tamamlandı,4.4,0.0
+2025-05-20,İstanbul,Elektronik,Akıllı Telefon,17968.85,2,35937.7,Kurumsal,Kredi Kartı,69.0,Erkek,Tamamlandı,3.4,0.3
+2025-05-20,Antalya,Kozmetik,Ruj,946.5,1,946.5,Kurumsal,Kredi Kartı,23.0,Kadın,Tamamlandı,5.0,0.0
+2025-05-20,Konya,Giyim,Elbise,1580.97,1,1580.97,Premium,Kredi Kartı,21.0,Kadın,Tamamlandı,2.5,0.0
+2025-05-20,Antalya,Gıda,Kuruyemiş,267.84,7,1874.88,Bireysel,Banka Kartı,47.0,Erkek,Tamamlandı,3.7,0.0
+2025-05-21,Bursa,Elektronik,Kulaklık,7057.88,8,56463.04,Bireysel,Kredi Kartı,25.0,Erkek,Tamamlandı,5.0,0.19
+2025-05-22,Antalya,Ev & Yaşam,Nevresim Takımı,419.26,2,838.52,Premium,Banka Kartı,27.0,Kadın,Beklemede,5.0,0.09
+2025-05-22,Bursa,Ev & Yaşam,Mum,713.76,3,2141.28,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,3.1,0.0
+2025-05-22,Bursa,Giyim,Elbise,680.86,1,680.86,Bireysel,Banka Kartı,41.0,Erkek,Tamamlandı,3.2,0.25
+2025-05-23,Antalya,Kozmetik,Göz Farı,980.39,6,5882.34,Kurumsal,Kapıda Ödeme,30.0,Kadın,Tamamlandı,4.6,0.24
+2025-05-24,İstanbul,Gıda,Zeytinyağı,168.14,2,336.28,Bireysel,Banka Kartı,41.0,Erkek,Tamamlandı,4.2,0.15
+2025-05-24,Trabzon,Kozmetik,Göz Farı,789.72,1,789.72,Bireysel,Kredi Kartı,31.0,Kadın,İade Edildi,5.0,0.0
+2025-05-25,Ankara,Giyim,Ayakkabı,1608.34,1,1608.34,Bireysel,Kredi Kartı,44.0,Kadın,Tamamlandı,4.5,0.15
+2025-05-25,İstanbul,Giyim,Tişört,277.1,9,2493.9,Kurumsal,Kapıda Ödeme,41.0,Erkek,Tamamlandı,3.0,0.07
+2025-05-25,İstanbul,Gıda,Kahve,384.13,5,1920.65,Bireysel,Banka Kartı,31.0,Erkek,Beklemede,4.4,0.0
+2025-05-25,Konya,Kozmetik,Ruj,940.02,5,4700.1,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,2.9,0.2
+2025-05-25,İzmir,Gıda,Kuruyemiş,488.14,4,1952.56,Kurumsal,Kredi Kartı,32.0,Kadın,Tamamlandı,4.1,0.0
+2025-05-25,İzmir,Elektronik,Dizüstü Bilgisayar,23209.24,1,23209.24,Bireysel,Kredi Kartı,33.0,Kadın,Beklemede,5.0,0.0
+2025-05-26,Samsun,Spor,Koşu Ayakkabısı,2561.51,2,5123.02,Premium,Banka Kartı,40.0,Erkek,İptal Edildi,2.5,0.0
+2025-05-26,İstanbul,Elektronik,Tablet,6457.91,1,6457.91,Bireysel,Banka Kartı,23.0,Kadın,İade Edildi,2.3,0.0
+2025-05-26,İzmir,Kozmetik,Ruj,239.15,1,239.15,Bireysel,Havale/EFT,18.0,Erkek,İade Edildi,3.7,0.0
+2025-05-27,Gaziantep,Elektronik,Tablet,24733.57,4,98934.28,Premium,Kapıda Ödeme,21.0,Kadın,Tamamlandı,4.4,0.0
+2025-05-27,Ankara,Elektronik,Kulaklık,20367.91,1,20367.91,Premium,Banka Kartı,44.0,Kadın,Tamamlandı,3.1,0.0
+2025-05-27,Antalya,Kozmetik,Nemlendirici Krem,962.87,1,962.87,Bireysel,Kapıda Ödeme,22.0,Erkek,Tamamlandı,4.9,0.0
+2025-05-27,İstanbul,Gıda,Kahve,477.3,2,954.6,Bireysel,Havale/EFT,18.0,Erkek,Tamamlandı,5.0,0.22
+2025-05-28,İzmir,Giyim,Pantolon,2028.02,1,2028.02,Bireysel,Havale/EFT,45.0,Kadın,Tamamlandı,5.0,0.0
+2025-05-30,Ankara,Elektronik,Tablet,2148.47,2,4296.94,Bireysel,Kredi Kartı,29.0,Erkek,Tamamlandı,3.6,0.0
+2025-05-30,Samsun,Giyim,Pantolon,1442.86,2,2885.72,Kurumsal,Banka Kartı,42.0,Erkek,Tamamlandı,4.1,0.0
+2025-05-30,Konya,Giyim,Ayakkabı,672.07,1,672.07,Bireysel,Banka Kartı,21.0,Kadın,Tamamlandı,2.4,0.24
+2025-05-30,İstanbul,Giyim,Ayakkabı,451.26,1,451.26,Bireysel,Kredi Kartı,38.0,Kadın,Beklemede,4.4,0.0
+2025-05-31,İzmir,Ev & Yaşam,Mum,1385.12,2,2770.24,Bireysel,Kredi Kartı,20.0,Erkek,Tamamlandı,4.2,0.0
+2025-05-31,Konya,Giyim,Pantolon,1171.73,2,2343.46,Bireysel,Kapıda Ödeme,30.0,Kadın,Tamamlandı,,0.0
+2025-06-01,Trabzon,Giyim,Pantolon,2121.82,2,4243.64,Kurumsal,Havale/EFT,29.0,Erkek,Tamamlandı,3.9,0.13
+2025-06-01,Antalya,Giyim,Elbise,1054.11,4,4216.44,Bireysel,Banka Kartı,25.0,Kadın,Tamamlandı,4.8,0.0
+2025-06-01,Ankara,Kozmetik,Ruj,673.65,4,2694.6,Bireysel,Havale/EFT,38.0,Erkek,Tamamlandı,4.5,0.0
+2025-06-02,Bursa,Kozmetik,Parfüm,807.3,2,1614.6,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,4.0,0.0
+2025-06-02,Ankara,Elektronik,Dizüstü Bilgisayar,15856.66,1,15856.66,Bireysel,Havale/EFT,22.0,Erkek,Tamamlandı,3.7,0.0
+2025-06-03,Konya,Spor,Dambıl Seti,642.7,10,6427.0,Premium,Kredi Kartı,29.0,Kadın,Tamamlandı,3.1,0.0
+2025-06-04,İzmir,Giyim,Tişört,1097.0,3,3291.0,Kurumsal,Banka Kartı,38.0,Kadın,Tamamlandı,3.5,0.0
+2025-06-04,Samsun,Gıda,Kuruyemiş,190.77,1,190.77,Bireysel,Kredi Kartı,46.0,Kadın,Tamamlandı,,0.0
+2025-06-05,Ankara,Gıda,Zeytinyağı,297.54,1,297.54,Bireysel,Havale/EFT,37.0,Kadın,Tamamlandı,3.9,0.0
+2025-06-05,Gaziantep,Giyim,Ayakkabı,831.1,2,1662.2,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,3.7,0.15
+2025-06-06,Ankara,Elektronik,Kulaklık,7080.67,4,28322.68,Bireysel,Havale/EFT,39.0,Erkek,Tamamlandı,4.2,0.0
+2025-06-07,İzmir,Kozmetik,Nemlendirici Krem,100.35,5,501.75,Premium,Kredi Kartı,29.0,Kadın,Tamamlandı,3.7,0.06
+2025-06-07,Antalya,Elektronik,Akıllı Saat,8967.86,5,44839.3,Bireysel,Havale/EFT,57.0,Erkek,Tamamlandı,5.0,0.23
+2025-06-08,Trabzon,Kozmetik,Nemlendirici Krem,283.74,2,567.48,Bireysel,Kapıda Ödeme,26.0,Erkek,İptal Edildi,5.0,0.0
+2025-06-08,Antalya,Giyim,Ayakkabı,294.36,1,294.36,Kurumsal,Kredi Kartı,35.0,Kadın,Beklemede,3.3,0.16
+2025-06-08,İstanbul,Giyim,Tişört,251.09,4,1004.36,Bireysel,Kredi Kartı,35.0,Erkek,Beklemede,4.2,0.0
+2025-06-08,İstanbul,Giyim,Elbise,1576.25,4,6305.0,Kurumsal,Kapıda Ödeme,58.0,Kadın,Tamamlandı,3.3,0.0
+2025-06-09,Bursa,Gıda,Kuruyemiş,175.19,3,525.57,Kurumsal,Kredi Kartı,39.0,Erkek,Tamamlandı,5.0,0.0
+2025-06-09,Ankara,Ev & Yaşam,Dekoratif Vazo,1098.83,3,3296.49,Kurumsal,Banka Kartı,55.0,Erkek,Tamamlandı,3.4,0.0
+2025-06-09,Ankara,Giyim,Elbise,1015.24,2,2030.48,Bireysel,Banka Kartı,50.0,Kadın,Tamamlandı,5.0,0.0
+2025-06-09,Samsun,Kitap & Kırtasiye,Boyama Kitabı,281.02,2,562.04,Bireysel,Banka Kartı,18.0,Erkek,İptal Edildi,3.3,0.0
+2025-06-09,Adana,Kitap & Kırtasiye,Roman,284.66,3,853.98,Bireysel,Havale/EFT,39.0,Erkek,Tamamlandı,2.5,0.19
+2025-06-09,İstanbul,Spor,Yoga Matı,2493.09,1,2493.09,Kurumsal,Havale/EFT,33.0,Erkek,Beklemede,3.9,0.0
+2025-06-10,Samsun,Elektronik,Dizüstü Bilgisayar,8942.62,3,26827.86,Kurumsal,Banka Kartı,20.0,Erkek,İade Edildi,4.4,0.0
+2025-06-12,İstanbul,Kitap & Kırtasiye,Ajanda,47.7,3,143.1,Bireysel,Kredi Kartı,40.0,Kadın,İade Edildi,,0.0
+2025-06-14,İstanbul,Kozmetik,Nemlendirici Krem,525.95,5,2629.75,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,3.2,0.11
+2025-06-15,Ankara,Gıda,Zeytinyağı,237.77,1,237.77,Premium,Kredi Kartı,48.0,Kadın,Tamamlandı,3.5,0.18
+2025-06-15,İzmir,Kozmetik,Nemlendirici Krem,210.07,2,420.14,Bireysel,Havale/EFT,52.0,Erkek,İade Edildi,4.8,0.21
+2025-06-15,Adana,Gıda,Çay,38.5,2,77.0,Bireysel,Havale/EFT,40.0,Kadın,Tamamlandı,2.9,0.0
+2025-06-17,İstanbul,Elektronik,Dizüstü Bilgisayar,17708.77,2,35417.54,Bireysel,Banka Kartı,42.0,Erkek,Tamamlandı,5.0,0.06
+2025-06-20,Bursa,Ev & Yaşam,Havlu Seti,512.29,1,512.29,Bireysel,Kredi Kartı,32.0,Erkek,Tamamlandı,5.0,0.0
+2025-06-20,İzmir,Kozmetik,Göz Farı,956.55,6,5739.3,Premium,Banka Kartı,38.0,Erkek,Tamamlandı,2.8,0.0
+2025-06-20,Ankara,Elektronik,Tablet,14974.71,1,14974.71,Kurumsal,Kapıda Ödeme,18.0,Kadın,Tamamlandı,2.6,0.28
+2025-06-21,Antalya,Kozmetik,Parfüm,982.91,3,2948.73,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,4.8,0.0
+2025-06-21,İstanbul,Giyim,Ceket,940.38,1,940.38,Kurumsal,Kredi Kartı,40.0,Erkek,Beklemede,4.4,0.0
+2025-06-23,Konya,Spor,Koşu Ayakkabısı,1956.74,2,3913.48,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,4.1,0.0
+2025-06-24,Trabzon,Gıda,Kuruyemiş,366.51,3,1099.53,Bireysel,Kapıda Ödeme,48.0,Kadın,İptal Edildi,3.8,0.0
+2025-06-25,Konya,Giyim,Ceket,862.01,3,2586.03,Kurumsal,Kapıda Ödeme,53.0,Kadın,Tamamlandı,3.1,0.0
+2025-06-26,İstanbul,Elektronik,Kulaklık,3092.22,6,18553.32,Premium,Havale/EFT,28.0,Kadın,Tamamlandı,4.6,0.0
+2025-06-28,Adana,Giyim,Ceket,2071.67,4,8286.68,Kurumsal,Kredi Kartı,30.0,Erkek,Tamamlandı,3.5,0.0
+2025-06-29,Konya,Giyim,Elbise,259.26,3,777.78,Bireysel,Kredi Kartı,44.0,Erkek,Tamamlandı,4.2,0.0
+2025-06-29,Bursa,Ev & Yaşam,Nevresim Takımı,1499.22,3,4497.66,Premium,Kapıda Ödeme,39.0,Kadın,Tamamlandı,3.2,0.0
+2025-06-29,Gaziantep,Gıda,Bal,126.81,4,507.24,Premium,Kapıda Ödeme,22.0,Erkek,Beklemede,3.7,0.0
+2025-06-30,İzmir,Giyim,Tişört,1022.43,1,1022.43,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,4.2,0.19
+2025-06-30,Bursa,Giyim,Pantolon,1099.55,2,2199.1,Bireysel,Kredi Kartı,31.0,Erkek,Tamamlandı,4.0,0.0
+2025-06-30,Adana,Gıda,Zeytinyağı,484.31,1,484.31,Bireysel,Havale/EFT,35.0,Erkek,Tamamlandı,3.4,0.0
+2025-06-30,Antalya,Spor,Yoga Matı,2478.61,5,12393.05,Kurumsal,Kredi Kartı,27.0,Kadın,Tamamlandı,3.4,0.28
+2025-07-01,İstanbul,Kozmetik,Parfüm,1070.4,5,5352.0,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,5.0,0.0
+2025-07-01,Bursa,Gıda,Zeytinyağı,493.39,2,986.78,Premium,Banka Kartı,30.0,Kadın,Tamamlandı,2.1,0.17
+2025-07-01,Ankara,Giyim,Tişört,1168.53,1,1168.53,Bireysel,Kapıda Ödeme,41.0,Kadın,İptal Edildi,2.7,0.0
+2025-07-01,Ankara,Elektronik,Dizüstü Bilgisayar,12670.21,7,88691.47,Bireysel,Kredi Kartı,43.0,Kadın,Tamamlandı,2.5,0.0
+2025-07-03,Gaziantep,Giyim,Pantolon,256.87,3,770.61,Premium,Kapıda Ödeme,28.0,Erkek,Tamamlandı,4.6,0.0
+2025-07-03,Gaziantep,Kitap & Kırtasiye,Kalem Seti,70.56,2,141.12,Bireysel,Kredi Kartı,,Kadın,Tamamlandı,2.4,0.0
+2025-07-03,Gaziantep,Elektronik,Akıllı Saat,22300.99,1,22300.99,Bireysel,Kapıda Ödeme,44.0,Erkek,Tamamlandı,4.0,0.1
+2025-07-03,Antalya,Ev & Yaşam,Yastık,1284.73,1,1284.73,Bireysel,Banka Kartı,45.0,Erkek,Tamamlandı,4.7,0.0
+2025-07-04,Trabzon,Ev & Yaşam,Nevresim Takımı,1065.5,1,1065.5,Bireysel,Kapıda Ödeme,42.0,Kadın,Tamamlandı,5.0,0.08
+2025-07-04,Bursa,Giyim,Ceket,1969.29,6,11815.74,Bireysel,Banka Kartı,22.0,Erkek,İptal Edildi,3.3,0.06
+2025-07-04,Konya,Elektronik,Dizüstü Bilgisayar,19977.78,3,59933.34,Kurumsal,Kapıda Ödeme,47.0,Kadın,Tamamlandı,4.4,0.0
+2025-07-05,Bursa,Elektronik,Akıllı Saat,14271.72,2,28543.44,Bireysel,Kredi Kartı,38.0,Kadın,Beklemede,5.0,0.29
+2025-07-07,Gaziantep,Kozmetik,Parfüm,322.02,1,322.02,Bireysel,Banka Kartı,54.0,Kadın,Tamamlandı,3.8,0.0
+2025-07-07,Antalya,Spor,Koşu Ayakkabısı,675.36,2,1350.72,Kurumsal,Havale/EFT,41.0,Kadın,İade Edildi,4.9,0.0
+2025-07-07,İzmir,Gıda,Kuruyemiş,178.35,6,1070.1,Kurumsal,Kredi Kartı,34.0,Erkek,Tamamlandı,2.7,0.0
+2025-07-09,İzmir,Spor,Pilates Bandı,2469.85,1,2469.85,Kurumsal,Kredi Kartı,39.0,Erkek,Tamamlandı,2.9,0.0
+2025-07-09,İzmir,Gıda,Kuruyemiş,478.05,1,478.05,Bireysel,Havale/EFT,,Kadın,İptal Edildi,3.6,0.26
+2025-07-09,Bursa,Giyim,Ceket,658.37,1,658.37,Bireysel,Banka Kartı,60.0,Kadın,Tamamlandı,3.1,0.0
+2025-07-09,Gaziantep,Gıda,Çay,280.66,1,280.66,Bireysel,Kapıda Ödeme,32.0,Kadın,İade Edildi,4.0,0.0
+2025-07-10,İstanbul,Elektronik,Tablet,1243.67,2,2487.34,Kurumsal,Kapıda Ödeme,52.0,Kadın,Tamamlandı,5.0,0.17
+2025-07-11,İstanbul,Giyim,Ayakkabı,167.94,3,503.82,Bireysel,Banka Kartı,41.0,Kadın,İade Edildi,3.7,0.0
+2025-07-11,İzmir,Spor,Koşu Ayakkabısı,2017.88,3,6053.64,Kurumsal,Banka Kartı,47.0,Erkek,Beklemede,3.8,0.0
+2025-07-12,İzmir,Kozmetik,Parfüm,758.72,1,758.72,Bireysel,Kredi Kartı,33.0,Erkek,Tamamlandı,3.7,0.0
+2025-07-13,İstanbul,Giyim,Pantolon,557.18,5,2785.9,Bireysel,Havale/EFT,42.0,Erkek,Tamamlandı,,0.0
+2025-07-14,İzmir,Spor,Spor Çantası,222.76,1,222.76,Premium,Kredi Kartı,54.0,Erkek,Tamamlandı,5.0,0.0
+2025-07-14,Trabzon,Giyim,Pantolon,2243.32,2,4486.64,Bireysel,Banka Kartı,33.0,Kadın,İade Edildi,3.5,0.0
+2025-07-15,İzmir,Kitap & Kırtasiye,Roman,288.81,6,1732.86,Premium,Kredi Kartı,44.0,Erkek,Tamamlandı,4.0,0.0
+2025-07-16,Bursa,Giyim,Ayakkabı,1415.14,6,8490.84,Kurumsal,Kredi Kartı,18.0,Erkek,Tamamlandı,4.4,0.12
+2025-07-16,Ankara,Giyim,Ceket,425.61,5,2128.05,Premium,Kredi Kartı,38.0,Erkek,Tamamlandı,3.6,0.09
+2025-07-16,İzmir,Gıda,Kuruyemiş,88.87,8,710.96,Premium,Kapıda Ödeme,35.0,Kadın,Tamamlandı,3.7,0.0
+2025-07-17,İstanbul,Gıda,Kahve,172.92,1,172.92,Premium,Banka Kartı,40.0,Kadın,Tamamlandı,3.3,0.0
+2025-07-17,Bursa,Ev & Yaşam,Yastık,514.02,4,2056.08,Bireysel,Banka Kartı,36.0,Erkek,Tamamlandı,3.7,0.0
+2025-07-17,İstanbul,Ev & Yaşam,Dekoratif Vazo,1463.61,1,1463.61,Bireysel,Banka Kartı,34.0,Kadın,Tamamlandı,4.1,0.0
+2025-07-18,İzmir,Gıda,Bal,484.28,6,2905.68,Kurumsal,Kredi Kartı,43.0,Erkek,Tamamlandı,4.3,0.0
+2025-07-18,Ankara,Kozmetik,Parfüm,63.17,1,63.17,Kurumsal,Kredi Kartı,29.0,Erkek,Tamamlandı,3.8,0.0
+2025-07-18,Antalya,Kozmetik,Göz Farı,145.24,2,290.48,Bireysel,Banka Kartı,40.0,Kadın,İade Edildi,2.8,0.0
+2025-07-19,Konya,Elektronik,Akıllı Telefon,23705.25,2,47410.5,Bireysel,Banka Kartı,31.0,Kadın,Tamamlandı,2.9,0.0
+2025-07-19,Antalya,Kozmetik,Parfüm,561.93,3,1685.79,Bireysel,Banka Kartı,42.0,Erkek,İade Edildi,3.4,0.0
+2025-07-19,Ankara,Elektronik,Dizüstü Bilgisayar,7229.31,1,7229.31,Premium,Havale/EFT,35.0,Erkek,Tamamlandı,3.7,0.0
+2025-07-19,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,184.96,7,1294.72,Bireysel,Banka Kartı,27.0,Kadın,Tamamlandı,4.4,0.0
+2025-07-20,Bursa,Kozmetik,Göz Farı,712.6,4,2850.4,Bireysel,Kredi Kartı,41.0,Erkek,Tamamlandı,3.6,0.0
+2025-07-20,Adana,Elektronik,Akıllı Telefon,9946.04,3,29838.12,Kurumsal,Kredi Kartı,40.0,Kadın,Tamamlandı,2.5,0.0
+2025-07-22,Trabzon,Ev & Yaşam,Havlu Seti,801.12,2,1602.24,Kurumsal,Kapıda Ödeme,34.0,Erkek,Tamamlandı,3.5,0.0
+2025-07-22,Ankara,Kitap & Kırtasiye,Defter,195.63,1,195.63,Premium,Banka Kartı,35.0,Erkek,Tamamlandı,3.0,0.0
+2025-07-23,Antalya,Elektronik,Tablet,7218.22,4,28872.88,Bireysel,Havale/EFT,18.0,Kadın,Tamamlandı,4.2,0.0
+2025-07-23,Konya,Gıda,Bal,265.29,3,795.87,Bireysel,Havale/EFT,31.0,Kadın,Tamamlandı,4.1,0.18
+2025-07-24,İzmir,Spor,Pilates Bandı,2238.2,2,4476.4,Kurumsal,Kredi Kartı,19.0,Erkek,Tamamlandı,3.6,0.0
+2025-07-25,İzmir,Elektronik,Dizüstü Bilgisayar,22090.64,1,22090.64,Premium,Kredi Kartı,28.0,Erkek,Beklemede,4.1,0.13
+2025-07-25,İstanbul,Giyim,Pantolon,262.17,2,524.34,Bireysel,Banka Kartı,30.0,Kadın,İptal Edildi,5.0,0.25
+2025-07-25,Ankara,Elektronik,Akıllı Saat,11475.31,1,11475.31,Premium,Havale/EFT,25.0,Kadın,İade Edildi,3.5,0.0
+2025-07-26,Bursa,Ev & Yaşam,Mum,645.22,2,1290.44,Kurumsal,Banka Kartı,46.0,Erkek,Tamamlandı,3.4,0.0
+2025-07-27,İstanbul,Kitap & Kırtasiye,Defter,255.49,2,510.98,Bireysel,Havale/EFT,43.0,Erkek,İade Edildi,4.3,0.0
+2025-07-27,İzmir,Giyim,Pantolon,2177.71,3,6533.13,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,4.5,0.0
+2025-07-27,Gaziantep,Gıda,Kuruyemiş,484.37,1,484.37,Premium,Kredi Kartı,32.0,Kadın,Tamamlandı,3.3,0.0
+2025-07-27,Trabzon,Elektronik,Akıllı Saat,9716.67,4,38866.68,Bireysel,Kredi Kartı,38.0,Kadın,İptal Edildi,3.4,0.0
+2025-07-28,Adana,Elektronik,Kulaklık,5210.32,7,36472.24,Kurumsal,Kredi Kartı,40.0,Erkek,Tamamlandı,4.2,0.0
+2025-07-28,Antalya,Elektronik,Dizüstü Bilgisayar,12612.08,2,25224.16,Kurumsal,Banka Kartı,23.0,Kadın,Tamamlandı,5.0,0.3
+2025-07-28,Antalya,Giyim,Tişört,1575.81,2,3151.62,Bireysel,Banka Kartı,45.0,Erkek,Tamamlandı,5.0,0.0
+2025-07-28,Bursa,Spor,Koşu Ayakkabısı,2314.54,5,11572.7,Kurumsal,Banka Kartı,18.0,Erkek,Tamamlandı,3.6,0.13
+2025-07-29,Samsun,Ev & Yaşam,Havlu Seti,197.68,2,395.36,Premium,Banka Kartı,54.0,Erkek,Tamamlandı,4.5,0.0
+2025-07-30,Antalya,Elektronik,Dizüstü Bilgisayar,3132.54,3,9397.62,Kurumsal,Havale/EFT,30.0,Kadın,Tamamlandı,4.1,0.0
+2025-07-30,İstanbul,Kozmetik,Göz Farı,1062.31,3,3186.93,Premium,Kapıda Ödeme,31.0,Erkek,Tamamlandı,4.7,0.3
+2025-07-31,Trabzon,Elektronik,Akıllı Saat,10386.24,4,41544.96,Premium,Kredi Kartı,40.0,Erkek,Tamamlandı,5.0,0.0
+2025-07-31,Gaziantep,Kozmetik,Güneş Kremi,284.73,2,569.46,Bireysel,Banka Kartı,24.0,Erkek,Tamamlandı,4.2,0.13
+2025-08-01,İstanbul,Gıda,Çay,427.39,3,1282.17,Bireysel,Kapıda Ödeme,27.0,Erkek,Tamamlandı,3.8,0.0
+2025-08-01,Antalya,Giyim,Elbise,1815.58,2,3631.16,Kurumsal,Kredi Kartı,25.0,Erkek,Tamamlandı,4.3,0.23
+2025-08-02,Gaziantep,Gıda,Kuruyemiş,40.33,1,40.33,Kurumsal,Banka Kartı,33.0,Erkek,Tamamlandı,5.0,0.0
+2025-08-02,Bursa,Giyim,Pantolon,1777.63,2,3555.26,Bireysel,Banka Kartı,41.0,Erkek,Tamamlandı,4.3,0.0
+2025-08-03,İzmir,Gıda,Bal,365.4,1,365.4,Bireysel,Havale/EFT,44.0,Erkek,Tamamlandı,2.5,0.22
+2025-08-03,Konya,Ev & Yaşam,Mum,1031.83,2,2063.66,Bireysel,Havale/EFT,48.0,Kadın,Tamamlandı,4.3,0.23
+2025-08-04,Konya,Gıda,Zeytinyağı,194.83,2,389.66,Bireysel,Havale/EFT,19.0,Kadın,Tamamlandı,2.4,0.24
+2025-08-09,Bursa,Elektronik,Kulaklık,1103.79,3,3311.37,Bireysel,Havale/EFT,18.0,Kadın,Tamamlandı,5.0,0.0
+2025-08-10,Bursa,Gıda,Zeytinyağı,97.11,2,194.22,Bireysel,Havale/EFT,22.0,Kadın,Tamamlandı,3.4,0.2
+2025-08-10,İzmir,Kozmetik,Parfüm,176.3,1,176.3,Bireysel,Havale/EFT,27.0,Kadın,Tamamlandı,3.6,0.21
+2025-08-10,Konya,Gıda,Çay,151.4,1,151.4,Bireysel,Banka Kartı,46.0,Kadın,İptal Edildi,2.9,0.0
+2025-08-12,Bursa,Ev & Yaşam,Mum,64.57,1,64.57,Kurumsal,Kredi Kartı,36.0,Kadın,Tamamlandı,4.5,0.28
+2025-08-14,Bursa,Giyim,Ceket,1666.16,1,1666.16,Bireysel,Havale/EFT,36.0,Erkek,Tamamlandı,3.5,0.0
+2025-08-15,Bursa,Gıda,Zeytinyağı,270.21,7,1891.47,Bireysel,Havale/EFT,23.0,Kadın,İptal Edildi,4.0,0.0
+2025-08-15,Antalya,Ev & Yaşam,Havlu Seti,1144.65,2,2289.3,Kurumsal,Kredi Kartı,37.0,Kadın,Tamamlandı,3.9,0.0
+2025-08-16,Gaziantep,Ev & Yaşam,Yastık,1292.69,2,2585.38,Bireysel,Havale/EFT,42.0,Erkek,Tamamlandı,2.7,0.0
+2025-08-16,Antalya,Gıda,Kahve,245.99,2,491.98,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,5.0,0.0
+2025-08-17,İstanbul,Ev & Yaşam,Yastık,1271.18,3,3813.54,Premium,Banka Kartı,27.0,Erkek,Tamamlandı,5.0,0.08
+2025-08-18,İstanbul,Ev & Yaşam,Havlu Seti,1233.28,7,8632.96,Kurumsal,Kredi Kartı,33.0,Erkek,İptal Edildi,3.4,0.0
+2025-08-18,İstanbul,Kozmetik,Parfüm,725.4,2,1450.8,Kurumsal,Kredi Kartı,46.0,Kadın,Tamamlandı,,0.0
+2025-08-20,İzmir,Gıda,Çay,47.64,4,190.56,Premium,Banka Kartı,41.0,Erkek,Tamamlandı,5.0,0.0
+2025-08-21,İstanbul,Gıda,Çay,148.44,1,148.44,Bireysel,Havale/EFT,36.0,Kadın,Beklemede,3.6,0.0
+2025-08-23,Trabzon,Gıda,Bal,75.88,1,75.88,Bireysel,Havale/EFT,43.0,Erkek,Tamamlandı,4.4,0.0
+2025-08-23,İstanbul,Elektronik,Akıllı Saat,13385.69,1,13385.69,Bireysel,Havale/EFT,19.0,Erkek,İade Edildi,3.7,0.13
+2025-08-23,Konya,Spor,Spor Çantası,1560.75,2,3121.5,Bireysel,Havale/EFT,31.0,Erkek,Tamamlandı,4.0,0.23
+2025-08-24,İstanbul,Giyim,Ayakkabı,1825.91,5,9129.55,Kurumsal,Kapıda Ödeme,36.0,Kadın,Tamamlandı,4.6,0.0
+2025-08-24,İstanbul,Spor,Pilates Bandı,541.36,3,1624.08,Bireysel,Havale/EFT,59.0,Kadın,Tamamlandı,,0.0
+2025-08-26,Ankara,Elektronik,Akıllı Telefon,6206.1,4,24824.4,Bireysel,Kapıda Ödeme,48.0,Erkek,Tamamlandı,4.4,0.0
+2025-08-26,Bursa,Spor,Spor Çantası,1391.48,1,1391.48,Kurumsal,Kredi Kartı,51.0,Erkek,İade Edildi,4.0,0.16
+2025-08-26,İstanbul,Giyim,Elbise,1735.79,3,5207.37,Kurumsal,Banka Kartı,44.0,Kadın,Tamamlandı,3.5,0.26
+2025-08-26,Ankara,Kitap & Kırtasiye,Ajanda,170.28,2,340.56,Bireysel,Kredi Kartı,37.0,Kadın,Tamamlandı,3.8,0.0
+2025-08-27,İstanbul,Gıda,Kahve,483.25,2,966.5,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,4.9,0.17
+2025-08-28,İstanbul,Giyim,Tişört,1639.0,6,9834.0,Bireysel,Havale/EFT,38.0,Kadın,İptal Edildi,3.4,0.0
+2025-08-28,Gaziantep,Giyim,Tişört,1441.63,1,1441.63,Premium,Banka Kartı,46.0,Erkek,Tamamlandı,3.9,0.0
+2025-08-29,İstanbul,Ev & Yaşam,Mum,1011.15,1,1011.15,Bireysel,Kredi Kartı,38.0,Kadın,İptal Edildi,4.0,0.0
+2025-08-29,Bursa,Spor,Pilates Bandı,2407.45,3,7222.35,Bireysel,Havale/EFT,27.0,Kadın,Tamamlandı,3.0,0.0
+2025-08-29,Samsun,Kitap & Kırtasiye,Defter,68.65,1,68.65,Bireysel,Banka Kartı,25.0,Kadın,Tamamlandı,2.9,0.0
+2025-08-30,İzmir,Ev & Yaşam,Nevresim Takımı,175.36,3,526.08,Kurumsal,Kapıda Ödeme,36.0,Kadın,Tamamlandı,4.0,0.2
+2025-08-30,İzmir,Gıda,Zeytinyağı,58.63,1,58.63,Bireysel,Kapıda Ödeme,43.0,Erkek,Beklemede,5.0,0.27
+2025-08-30,Trabzon,Kitap & Kırtasiye,Kalem Seti,225.17,1,225.17,Kurumsal,Kredi Kartı,43.0,Erkek,Tamamlandı,3.7,0.0
+2025-08-31,Gaziantep,Ev & Yaşam,Dekoratif Vazo,1163.26,1,1163.26,Premium,Kredi Kartı,29.0,Erkek,Tamamlandı,3.1,0.0
+2025-08-31,İstanbul,Elektronik,Akıllı Telefon,11501.43,6,69008.58,Kurumsal,Kredi Kartı,24.0,Erkek,Tamamlandı,5.0,0.0
+2025-08-31,İstanbul,Elektronik,Akıllı Telefon,12957.74,3,38873.22,Kurumsal,Kapıda Ödeme,37.0,Erkek,Tamamlandı,5.0,0.0
+2025-09-01,Konya,Elektronik,Tablet,17836.7,1,17836.7,Kurumsal,Kredi Kartı,30.0,Kadın,Tamamlandı,4.0,0.0
+2025-09-01,Antalya,Spor,Spor Çantası,403.24,3,1209.72,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,3.9,0.0
+2025-09-01,Konya,Spor,Pilates Bandı,314.66,1,314.66,Bireysel,Banka Kartı,33.0,Kadın,İade Edildi,3.4,0.0
+2025-09-01,Antalya,Giyim,Ceket,2449.05,1,2449.05,Bireysel,Kredi Kartı,38.0,Erkek,İade Edildi,4.5,0.27
+2025-09-02,Samsun,Gıda,Çay,80.15,4,320.6,Kurumsal,Kapıda Ödeme,21.0,Kadın,İade Edildi,3.2,0.0
+2025-09-03,Konya,Gıda,Zeytinyağı,326.11,2,652.22,Bireysel,Kapıda Ödeme,33.0,Erkek,İade Edildi,4.6,0.0
+2025-09-03,İstanbul,Gıda,Çay,457.79,2,915.58,Premium,Kapıda Ödeme,26.0,Kadın,Tamamlandı,3.1,0.0
+2025-09-04,İstanbul,Spor,Spor Çantası,2825.63,2,5651.26,Bireysel,Kredi Kartı,58.0,Erkek,Tamamlandı,3.0,0.0
+2025-09-04,İzmir,Giyim,Tişört,2469.43,2,4938.86,Kurumsal,Banka Kartı,45.0,Erkek,Tamamlandı,4.3,0.13
+2025-09-04,Bursa,Gıda,Kahve,201.35,5,1006.75,Bireysel,Havale/EFT,62.0,Erkek,Tamamlandı,3.0,0.17
+2025-09-04,İzmir,Giyim,Tişört,676.16,2,1352.32,Bireysel,Kapıda Ödeme,57.0,Erkek,Tamamlandı,4.9,0.0
+2025-09-04,İstanbul,Spor,Koşu Ayakkabısı,1251.28,1,1251.28,Premium,Kredi Kartı,24.0,Kadın,İade Edildi,4.0,0.0
+2025-09-04,Adana,Ev & Yaşam,Havlu Seti,1069.76,10,10697.6,Premium,Kredi Kartı,22.0,Kadın,Tamamlandı,3.2,0.0
+2025-09-04,Adana,Gıda,Çay,309.03,1,309.03,Bireysel,Kapıda Ödeme,18.0,Kadın,Tamamlandı,2.8,0.12
+2025-09-04,İstanbul,Kitap & Kırtasiye,Ajanda,141.38,5,706.9,Bireysel,Kredi Kartı,51.0,Kadın,Tamamlandı,4.8,0.12
+2025-09-06,Antalya,Ev & Yaşam,Nevresim Takımı,1169.79,6,7018.74,Kurumsal,Kredi Kartı,36.0,Kadın,Tamamlandı,3.5,0.0
+2025-09-06,Trabzon,Ev & Yaşam,Yastık,1079.02,6,6474.12,Kurumsal,Havale/EFT,40.0,Erkek,Tamamlandı,4.6,0.0
+2025-09-07,Gaziantep,Kitap & Kırtasiye,Kalem Seti,228.8,5,1144.0,Bireysel,Havale/EFT,51.0,Kadın,İade Edildi,2.9,0.27
+2025-09-07,Ankara,Kitap & Kırtasiye,Kalem Seti,94.09,1,94.09,Kurumsal,Havale/EFT,32.0,Kadın,İptal Edildi,5.0,0.0
+2025-09-07,Bursa,Kitap & Kırtasiye,Kalem Seti,53.47,2,106.94,Kurumsal,Havale/EFT,27.0,Kadın,İade Edildi,,0.21
+2025-09-07,Konya,Ev & Yaşam,Mum,1428.58,7,10000.06,Kurumsal,Kredi Kartı,39.0,Erkek,İade Edildi,3.4,0.0
+2025-09-07,Ankara,Giyim,Tişört,1447.19,2,2894.38,Bireysel,Kredi Kartı,56.0,Erkek,Tamamlandı,3.8,0.13
+2025-09-08,Ankara,Kitap & Kırtasiye,Ajanda,92.44,1,92.44,Bireysel,Kredi Kartı,31.0,Kadın,Tamamlandı,5.0,0.0
+2025-09-11,Adana,Giyim,Ceket,296.96,3,890.88,Premium,Banka Kartı,65.0,Erkek,Tamamlandı,3.6,0.0
+2025-09-11,Gaziantep,Kitap & Kırtasiye,Ajanda,53.13,3,159.39,Kurumsal,Kredi Kartı,18.0,Erkek,Tamamlandı,3.2,0.0
+2025-09-11,İzmir,Kozmetik,Ruj,510.35,4,2041.4,Kurumsal,Havale/EFT,47.0,Kadın,Tamamlandı,5.0,0.0
+2025-09-13,Ankara,Kozmetik,Göz Farı,1033.62,2,2067.24,Kurumsal,Kredi Kartı,31.0,Kadın,Tamamlandı,3.8,0.0
+2025-09-14,Bursa,Gıda,Bal,246.53,2,493.06,Bireysel,Havale/EFT,35.0,Erkek,İade Edildi,4.8,0.0
+2025-09-14,Adana,Gıda,Kuruyemiş,103.25,3,309.75,Bireysel,Havale/EFT,18.0,Erkek,Tamamlandı,4.4,0.0
+2025-09-14,Trabzon,Ev & Yaşam,Nevresim Takımı,649.82,2,1299.64,Premium,Kredi Kartı,42.0,Kadın,İptal Edildi,3.6,0.0
+2025-09-14,Antalya,Gıda,Bal,147.02,4,588.08,Kurumsal,Kapıda Ödeme,37.0,Kadın,İptal Edildi,4.5,0.0
+2025-09-14,Samsun,Ev & Yaşam,Havlu Seti,810.77,2,1621.54,Kurumsal,Havale/EFT,33.0,Erkek,İptal Edildi,3.5,0.21
+2025-09-15,İzmir,Elektronik,Dizüstü Bilgisayar,20177.68,8,161421.44,Bireysel,Kredi Kartı,32.0,Kadın,Tamamlandı,3.5,0.11
+2025-09-15,İstanbul,Kozmetik,Nemlendirici Krem,766.22,7,5363.54,Bireysel,Havale/EFT,48.0,Erkek,Tamamlandı,4.1,0.0
+2025-09-15,İstanbul,Giyim,Elbise,685.87,1,685.87,Bireysel,Kapıda Ödeme,41.0,Kadın,Tamamlandı,4.8,0.0
+2025-09-15,Ankara,Giyim,Ayakkabı,1222.0,1,1222.0,Premium,Kredi Kartı,18.0,Erkek,Tamamlandı,4.1,0.0
+2025-09-16,Konya,Gıda,Kuruyemiş,199.98,2,399.96,Bireysel,Kapıda Ödeme,38.0,Erkek,İade Edildi,2.2,0.0
+2025-09-16,Trabzon,Spor,Pilates Bandı,2108.27,1,2108.27,Premium,Havale/EFT,53.0,Erkek,Beklemede,3.3,0.0
+2025-09-16,Antalya,Elektronik,Kulaklık,6016.45,2,12032.9,Bireysel,Kredi Kartı,54.0,Kadın,Tamamlandı,5.0,0.0
+2025-09-17,Antalya,Giyim,Pantolon,1594.07,2,3188.14,Kurumsal,Kapıda Ödeme,29.0,Kadın,Tamamlandı,3.9,0.0
+2025-09-17,Gaziantep,Gıda,Zeytinyağı,71.55,6,429.3,Kurumsal,Havale/EFT,18.0,Erkek,Beklemede,4.4,0.15
+2025-09-18,Antalya,Spor,Yoga Matı,2810.44,7,19673.08,Bireysel,Banka Kartı,27.0,Erkek,Tamamlandı,5.0,0.07
+2025-09-19,İzmir,Ev & Yaşam,Mum,616.83,3,1850.49,Bireysel,Havale/EFT,58.0,Erkek,Tamamlandı,4.8,0.0
+2025-09-19,Ankara,Elektronik,Tablet,23301.47,1,23301.47,Bireysel,Kredi Kartı,22.0,Erkek,Tamamlandı,4.0,0.0
+2025-09-20,Konya,Kozmetik,Göz Farı,672.3,1,672.3,Bireysel,Kredi Kartı,54.0,Erkek,Tamamlandı,3.4,0.25
+2025-09-20,İzmir,Ev & Yaşam,Nevresim Takımı,1385.1,2,2770.2,Bireysel,Havale/EFT,28.0,Kadın,Tamamlandı,5.0,0.07
+2025-09-21,Konya,Ev & Yaşam,Nevresim Takımı,553.57,1,553.57,Bireysel,Kapıda Ödeme,53.0,Erkek,İade Edildi,4.2,0.0
+2025-09-22,İzmir,Ev & Yaşam,Mum,256.16,2,512.32,Bireysel,Kredi Kartı,20.0,Kadın,Tamamlandı,5.0,0.0
+2025-09-23,İstanbul,Elektronik,Akıllı Telefon,8426.35,1,8426.35,Bireysel,Kredi Kartı,31.0,Erkek,İptal Edildi,3.2,0.0
+2025-09-24,Konya,Gıda,Kuruyemiş,202.34,2,404.68,Kurumsal,Havale/EFT,59.0,Kadın,Tamamlandı,2.7,0.17
+2025-09-25,İstanbul,Giyim,Ayakkabı,1103.52,1,1103.52,Kurumsal,Havale/EFT,40.0,Kadın,Tamamlandı,5.0,0.0
+2025-09-25,Konya,Kitap & Kırtasiye,Ajanda,70.85,2,141.7,Bireysel,Havale/EFT,46.0,Erkek,Tamamlandı,3.7,0.0
+2025-09-25,İzmir,Gıda,Çay,306.56,6,1839.36,Bireysel,Banka Kartı,54.0,Kadın,Tamamlandı,3.5,0.0
+2025-09-25,Ankara,Gıda,Zeytinyağı,146.47,9,1318.23,Premium,Kredi Kartı,29.0,Erkek,Tamamlandı,2.1,0.0
+2025-09-25,Samsun,Giyim,Elbise,2298.55,9,20686.95,Kurumsal,Kapıda Ödeme,49.0,Kadın,Tamamlandı,4.0,0.0
+2025-09-26,Konya,Kitap & Kırtasiye,Defter,291.0,2,582.0,Kurumsal,Banka Kartı,30.0,Kadın,Tamamlandı,3.6,0.29
+2025-09-27,Bursa,Ev & Yaşam,Yastık,1348.93,1,1348.93,Kurumsal,Havale/EFT,51.0,Erkek,Tamamlandı,3.1,0.0
+2025-09-28,İstanbul,Elektronik,Akıllı Telefon,14641.07,7,102487.49,Bireysel,Havale/EFT,27.0,Erkek,Tamamlandı,4.0,0.0
+2025-09-29,Ankara,Elektronik,Akıllı Telefon,3692.85,6,22157.1,Premium,Kredi Kartı,18.0,Erkek,Tamamlandı,3.9,0.16
+2025-09-29,İstanbul,Kitap & Kırtasiye,Defter,268.37,6,1610.22,Kurumsal,Kapıda Ödeme,25.0,Kadın,Tamamlandı,2.5,0.0
+2025-09-29,İstanbul,Giyim,Ceket,344.95,1,344.95,Bireysel,Kredi Kartı,39.0,Erkek,Tamamlandı,5.0,0.0
+2025-09-30,İstanbul,Elektronik,Tablet,17043.16,1,17043.16,Bireysel,Kredi Kartı,36.0,Kadın,Tamamlandı,3.9,0.0
+2025-09-30,İstanbul,Giyim,Elbise,1319.67,2,2639.34,Bireysel,Kapıda Ödeme,39.0,Erkek,İptal Edildi,2.2,0.0
+2025-10-01,İstanbul,Kozmetik,Nemlendirici Krem,842.31,3,2526.93,Kurumsal,Kapıda Ödeme,43.0,Erkek,Tamamlandı,3.9,0.0
+2025-10-01,Gaziantep,Giyim,Ayakkabı,921.73,1,921.73,Kurumsal,Kredi Kartı,30.0,Kadın,Tamamlandı,4.7,0.0
+2025-10-01,Trabzon,Gıda,Kahve,89.28,2,178.56,Bireysel,Kredi Kartı,37.0,Kadın,Tamamlandı,2.4,0.0
+2025-10-01,Ankara,Kitap & Kırtasiye,Ajanda,164.72,7,1153.04,Bireysel,Kredi Kartı,32.0,Erkek,Tamamlandı,4.2,0.23
+2025-10-02,İstanbul,Giyim,Ayakkabı,428.16,6,2568.96,Bireysel,Kredi Kartı,31.0,Erkek,Tamamlandı,4.0,0.0
+2025-10-02,İzmir,Elektronik,Akıllı Saat,3055.67,5,15278.35,Bireysel,Kredi Kartı,,Erkek,Tamamlandı,5.0,0.17
+2025-10-02,Ankara,Giyim,Elbise,1091.48,1,1091.48,Kurumsal,Kredi Kartı,38.0,Erkek,Tamamlandı,3.8,0.0
+2025-10-03,Ankara,Ev & Yaşam,Nevresim Takımı,846.65,2,1693.3,Bireysel,Kredi Kartı,34.0,Erkek,İade Edildi,4.1,0.0
+2025-10-03,Bursa,Giyim,Ceket,1899.35,1,1899.35,Bireysel,Kredi Kartı,18.0,Erkek,Tamamlandı,3.2,0.0
+2025-10-04,Ankara,Elektronik,Kulaklık,13389.3,2,26778.6,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,3.7,0.28
+2025-10-04,İstanbul,Kitap & Kırtasiye,Boyama Kitabı,52.23,1,52.23,Bireysel,Kredi Kartı,33.0,Erkek,İptal Edildi,3.9,0.0
+2025-10-05,Samsun,Ev & Yaşam,Havlu Seti,645.68,1,645.68,Bireysel,Havale/EFT,43.0,Erkek,Tamamlandı,4.8,0.28
+2025-10-06,Samsun,Elektronik,Akıllı Saat,6993.66,9,62942.94,Premium,Kredi Kartı,26.0,Erkek,Tamamlandı,4.3,0.0
+2025-10-06,Bursa,Kozmetik,Parfüm,965.01,4,3860.04,Bireysel,Kapıda Ödeme,18.0,Kadın,Tamamlandı,4.6,0.0
+2025-10-06,Samsun,Ev & Yaşam,Havlu Seti,1287.26,2,2574.52,Premium,Havale/EFT,43.0,Erkek,Tamamlandı,5.0,0.0
+2025-10-07,Ankara,Kitap & Kırtasiye,Ajanda,122.93,1,122.93,Kurumsal,Kredi Kartı,36.0,Erkek,Tamamlandı,3.4,0.1
+2025-10-07,Samsun,Giyim,Ceket,170.91,1,170.91,Kurumsal,Kredi Kartı,22.0,Kadın,Tamamlandı,4.1,0.0
+2025-10-07,İstanbul,Elektronik,Akıllı Telefon,9467.69,2,18935.38,Bireysel,Havale/EFT,24.0,Erkek,Beklemede,4.0,0.0
+2025-10-07,Antalya,Kitap & Kırtasiye,Kalem Seti,146.19,5,730.95,Bireysel,Kapıda Ödeme,46.0,Kadın,Tamamlandı,3.0,0.0
+2025-10-08,Ankara,Spor,Dambıl Seti,221.6,1,221.6,Bireysel,Banka Kartı,31.0,Kadın,İade Edildi,3.9,0.23
+2025-10-09,Antalya,Spor,Spor Çantası,719.69,4,2878.76,Bireysel,Banka Kartı,39.0,Erkek,Tamamlandı,4.6,0.18
+2025-10-09,Antalya,Spor,Pilates Bandı,1423.97,1,1423.97,Bireysel,Kredi Kartı,23.0,Erkek,Beklemede,4.6,0.0
+2025-10-09,İzmir,Giyim,Ceket,200.66,3,601.98,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,4.3,0.26
+2025-10-09,Ankara,Gıda,Kahve,250.81,3,752.43,Bireysel,Banka Kartı,18.0,Erkek,Beklemede,3.6,0.14
+2025-10-10,İzmir,Spor,Dambıl Seti,991.7,3,2975.1,Kurumsal,Banka Kartı,50.0,Erkek,Tamamlandı,2.9,0.22
+2025-10-11,İzmir,Gıda,Çay,329.97,4,1319.88,Bireysel,Banka Kartı,46.0,Kadın,İptal Edildi,2.9,0.0
+2025-10-13,Adana,Kitap & Kırtasiye,Boyama Kitabı,53.66,2,107.32,Bireysel,Kapıda Ödeme,29.0,Erkek,İptal Edildi,3.2,0.18
+2025-10-14,Konya,Elektronik,Akıllı Saat,7492.4,1,7492.4,Bireysel,Banka Kartı,27.0,Kadın,Tamamlandı,2.4,0.0
+2025-10-14,İzmir,Spor,Yoga Matı,2987.2,3,8961.6,Bireysel,Kapıda Ödeme,32.0,Erkek,Tamamlandı,3.6,0.0
+2025-10-15,Samsun,Kozmetik,Göz Farı,782.92,2,1565.84,Bireysel,Banka Kartı,41.0,Kadın,Tamamlandı,3.6,0.12
+2025-10-15,Trabzon,Gıda,Çay,131.27,1,131.27,Bireysel,Havale/EFT,21.0,Erkek,İptal Edildi,4.6,0.1
+2025-10-16,Bursa,Giyim,Ayakkabı,1439.74,2,2879.48,Bireysel,Kredi Kartı,37.0,Kadın,Tamamlandı,3.8,0.0
+2025-10-16,İstanbul,Kozmetik,Ruj,320.26,3,960.78,Premium,Kapıda Ödeme,33.0,Erkek,Tamamlandı,4.3,0.0
+2025-10-17,İzmir,Giyim,Ayakkabı,1947.84,2,3895.68,Bireysel,Kapıda Ödeme,48.0,Erkek,Tamamlandı,4.2,0.27
+2025-10-17,Adana,Kozmetik,Parfüm,85.25,3,255.75,Bireysel,Havale/EFT,46.0,Erkek,Tamamlandı,3.8,0.0
+2025-10-17,İzmir,Giyim,Pantolon,690.62,1,690.62,Bireysel,Kredi Kartı,45.0,Kadın,Tamamlandı,3.5,0.11
+2025-10-18,İstanbul,Giyim,Tişört,1369.99,1,1369.99,Premium,Banka Kartı,33.0,Kadın,İptal Edildi,5.0,0.0
+2025-10-18,İzmir,Ev & Yaşam,Yastık,294.69,2,589.38,Kurumsal,Kapıda Ödeme,23.0,Erkek,Tamamlandı,4.7,0.0
+2025-10-19,İstanbul,Kozmetik,Nemlendirici Krem,522.13,1,522.13,Premium,Kapıda Ödeme,57.0,Kadın,Tamamlandı,3.3,0.17
+2025-10-20,Ankara,Ev & Yaşam,Mum,1365.13,4,5460.52,Kurumsal,Banka Kartı,35.0,Kadın,Tamamlandı,4.3,0.0
+2025-10-20,Gaziantep,Kitap & Kırtasiye,Kalem Seti,249.06,2,498.12,Premium,Havale/EFT,34.0,Erkek,Tamamlandı,4.0,0.0
+2025-10-20,Gaziantep,Ev & Yaşam,Mum,213.13,5,1065.65,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,2.7,0.0
+2025-10-20,İzmir,Elektronik,Tablet,4782.14,1,4782.14,Premium,Kapıda Ödeme,34.0,Kadın,Tamamlandı,4.2,0.0
+2025-10-20,İstanbul,Ev & Yaşam,Mum,1246.89,1,1246.89,Kurumsal,Kapıda Ödeme,30.0,Erkek,Tamamlandı,4.7,0.0
+2025-10-21,Antalya,Giyim,Tişört,1873.97,3,5621.91,Kurumsal,Banka Kartı,47.0,Kadın,Tamamlandı,4.7,0.0
+2025-10-21,İstanbul,Elektronik,Dizüstü Bilgisayar,4782.23,2,9564.46,Kurumsal,Banka Kartı,41.0,Kadın,Tamamlandı,3.4,0.0
+2025-10-21,İstanbul,Elektronik,Dizüstü Bilgisayar,13453.33,3,40359.99,Bireysel,Havale/EFT,31.0,Kadın,Tamamlandı,3.0,0.27
+2025-10-22,Konya,Gıda,Çay,175.4,10,1754.0,Kurumsal,Banka Kartı,44.0,Erkek,İade Edildi,4.8,0.29
+2025-10-22,İstanbul,Kozmetik,Güneş Kremi,923.84,1,923.84,Bireysel,Banka Kartı,,Kadın,İptal Edildi,3.9,0.0
+2025-10-23,Ankara,Spor,Yoga Matı,1519.76,1,1519.76,Premium,Banka Kartı,21.0,Erkek,Tamamlandı,3.0,0.0
+2025-10-23,Trabzon,Spor,Yoga Matı,1435.1,8,11480.8,Kurumsal,Kapıda Ödeme,18.0,Kadın,Tamamlandı,3.7,0.0
+2025-10-23,Gaziantep,Elektronik,Akıllı Telefon,21106.86,8,168854.88,Bireysel,Kredi Kartı,57.0,Erkek,İptal Edildi,4.8,0.06
+2025-10-24,Gaziantep,Kozmetik,Ruj,900.35,4,3601.4,Bireysel,Kapıda Ödeme,48.0,Kadın,Tamamlandı,4.3,0.07
+2025-10-24,Adana,Elektronik,Dizüstü Bilgisayar,5521.99,1,5521.99,Bireysel,Kapıda Ödeme,25.0,Erkek,Tamamlandı,1.3,0.05
+2025-10-24,Samsun,Kozmetik,Ruj,861.96,2,1723.92,Bireysel,Kapıda Ödeme,27.0,Kadın,Tamamlandı,3.2,0.16
+2025-10-25,Antalya,Spor,Pilates Bandı,1370.91,2,2741.82,Premium,Kredi Kartı,39.0,Erkek,Tamamlandı,3.1,0.0
+2025-10-25,Samsun,Giyim,Ayakkabı,1954.26,2,3908.52,Kurumsal,Banka Kartı,21.0,Erkek,Tamamlandı,4.0,0.0
+2025-10-25,Antalya,Giyim,Tişört,148.05,2,296.1,Premium,Kapıda Ödeme,42.0,Erkek,Beklemede,3.9,0.0
+2025-10-25,İzmir,Gıda,Kuruyemiş,199.05,2,398.1,Bireysel,Kredi Kartı,29.0,Kadın,İade Edildi,4.7,0.16
+2025-10-25,Bursa,Gıda,Zeytinyağı,39.89,3,119.67,Bireysel,Havale/EFT,21.0,Kadın,Tamamlandı,3.9,0.24
+2025-10-25,Ankara,Ev & Yaşam,Havlu Seti,977.09,3,2931.27,Bireysel,Banka Kartı,44.0,Kadın,İptal Edildi,4.5,0.0
+2025-10-25,İzmir,Kitap & Kırtasiye,Roman,216.56,7,1515.92,Kurumsal,Kredi Kartı,33.0,Kadın,Tamamlandı,4.6,0.29
+2025-10-26,İzmir,Kozmetik,Güneş Kremi,244.03,2,488.06,Bireysel,Havale/EFT,47.0,Kadın,Tamamlandı,2.7,0.2
+2025-10-26,İzmir,Ev & Yaşam,Dekoratif Vazo,841.34,2,1682.68,Kurumsal,Kapıda Ödeme,24.0,Erkek,Tamamlandı,5.0,0.0
+2025-10-27,Adana,Giyim,Ceket,2373.11,5,11865.55,Bireysel,Havale/EFT,32.0,Kadın,Tamamlandı,3.8,0.27
+2025-10-27,İzmir,Spor,Koşu Ayakkabısı,1732.63,2,3465.26,Bireysel,Havale/EFT,26.0,Kadın,Tamamlandı,3.3,0.0
+2025-10-27,Bursa,Giyim,Ayakkabı,2492.38,1,2492.38,Kurumsal,Havale/EFT,19.0,Erkek,İade Edildi,4.1,0.27
+2025-10-27,İstanbul,Gıda,Kuruyemiş,379.38,4,1517.52,Premium,Banka Kartı,37.0,Kadın,İade Edildi,5.0,0.0
+2025-10-28,Ankara,Giyim,Pantolon,386.46,2,772.92,Bireysel,Banka Kartı,51.0,Erkek,Tamamlandı,2.5,0.13
+2025-10-29,İzmir,Elektronik,Dizüstü Bilgisayar,20725.6,2,41451.2,Bireysel,Banka Kartı,31.0,Erkek,Tamamlandı,4.1,0.0
+2025-10-30,Bursa,Giyim,Pantolon,772.8,5,3864.0,Bireysel,Banka Kartı,26.0,Erkek,İptal Edildi,3.7,0.0
+2025-10-31,İstanbul,Kozmetik,Güneş Kremi,808.19,1,808.19,Bireysel,Kredi Kartı,18.0,Kadın,İade Edildi,5.0,0.0
+2025-10-31,Konya,Ev & Yaşam,Dekoratif Vazo,673.26,2,1346.52,Kurumsal,Kredi Kartı,29.0,Erkek,Tamamlandı,4.0,0.0
+2025-10-31,İstanbul,Giyim,Ceket,1668.88,2,3337.76,Bireysel,Kredi Kartı,35.0,Kadın,Tamamlandı,5.0,0.0
+2025-10-31,Adana,Gıda,Çay,485.4,6,2912.4,Bireysel,Havale/EFT,26.0,Kadın,Beklemede,4.0,0.1
+2025-11-02,Bursa,Elektronik,Kulaklık,12579.24,1,12579.24,Bireysel,Banka Kartı,40.0,Kadın,Tamamlandı,3.9,0.19
+2025-11-02,İstanbul,Elektronik,Tablet,6205.03,5,31025.15,Bireysel,Kredi Kartı,37.0,Erkek,Tamamlandı,3.8,0.15
+2025-11-02,İstanbul,Gıda,Kahve,223.23,3,669.69,Bireysel,Havale/EFT,30.0,Kadın,Tamamlandı,3.7,0.26
+2025-11-02,İstanbul,Kitap & Kırtasiye,Kalem Seti,104.16,3,312.48,Bireysel,Kapıda Ödeme,47.0,Kadın,Tamamlandı,3.0,0.0
+2025-11-03,İzmir,Elektronik,Tablet,7338.7,4,29354.8,Premium,Kredi Kartı,39.0,Erkek,Tamamlandı,5.0,0.15
+2025-11-03,Bursa,Gıda,Kuruyemiş,265.41,3,796.23,Bireysel,Banka Kartı,25.0,Kadın,Tamamlandı,4.0,0.24
+2025-11-03,Samsun,Elektronik,Akıllı Telefon,22589.97,3,67769.91,Premium,Kredi Kartı,32.0,Erkek,Tamamlandı,3.6,0.0
+2025-11-04,İzmir,Ev & Yaşam,Havlu Seti,783.9,1,783.9,Kurumsal,Kapıda Ödeme,54.0,Kadın,Tamamlandı,4.8,0.18
+2025-11-05,Ankara,Spor,Pilates Bandı,2902.89,2,5805.78,Bireysel,Havale/EFT,26.0,Erkek,Tamamlandı,2.7,0.0
+2025-11-05,Bursa,Kozmetik,Nemlendirici Krem,767.03,2,1534.06,Premium,Banka Kartı,20.0,Erkek,Tamamlandı,4.8,0.0
+2025-11-06,İzmir,Ev & Yaşam,Mum,469.27,2,938.54,Bireysel,Havale/EFT,45.0,Erkek,Tamamlandı,4.7,0.25
+2025-11-06,İstanbul,Kitap & Kırtasiye,Kalem Seti,245.23,1,245.23,Kurumsal,Havale/EFT,43.0,Kadın,Tamamlandı,2.0,0.0
+2025-11-06,Konya,Elektronik,Akıllı Telefon,7396.19,2,14792.38,Bireysel,Kredi Kartı,35.0,Kadın,İade Edildi,3.7,0.0
+2025-11-06,Adana,Gıda,Zeytinyağı,33.33,1,33.33,Premium,Havale/EFT,44.0,Erkek,Tamamlandı,4.6,0.0
+2025-11-07,İzmir,Kozmetik,Parfüm,344.73,3,1034.19,Bireysel,Havale/EFT,50.0,Kadın,Tamamlandı,4.4,0.0
+2025-11-07,Bursa,Elektronik,Dizüstü Bilgisayar,12895.18,1,12895.18,Bireysel,Banka Kartı,36.0,Kadın,Tamamlandı,2.9,0.14
+2025-11-07,Antalya,Ev & Yaşam,Nevresim Takımı,1288.88,9,11599.92,Bireysel,Kredi Kartı,,Erkek,Tamamlandı,5.0,0.27
+2025-11-08,Ankara,Elektronik,Kulaklık,7823.69,1,7823.69,Bireysel,Banka Kartı,29.0,Erkek,Tamamlandı,4.0,0.0
+2025-11-11,Gaziantep,Gıda,Bal,200.28,4,801.12,Kurumsal,Banka Kartı,23.0,Kadın,Tamamlandı,3.4,0.0
+2025-11-12,Adana,Giyim,Pantolon,2408.18,4,9632.72,Kurumsal,Havale/EFT,39.0,Kadın,Beklemede,2.9,0.28
+2025-11-12,Trabzon,Ev & Yaşam,Mum,203.19,2,406.38,Bireysel,Banka Kartı,39.0,Erkek,Tamamlandı,3.6,0.11
+2025-11-12,Ankara,Gıda,Çay,139.45,3,418.35,Bireysel,Banka Kartı,29.0,Kadın,Tamamlandı,3.3,0.0
+2025-11-12,Ankara,Gıda,Kahve,425.56,4,1702.24,Bireysel,Havale/EFT,41.0,Erkek,Tamamlandı,3.8,0.08
+2025-11-12,Ankara,Giyim,Ayakkabı,732.78,1,732.78,Bireysel,Kredi Kartı,41.0,Kadın,Tamamlandı,5.0,0.0
+2025-11-13,Konya,Gıda,Zeytinyağı,355.9,2,711.8,Kurumsal,Kredi Kartı,35.0,Kadın,Tamamlandı,2.9,0.0
+2025-11-14,Adana,Kozmetik,Güneş Kremi,443.74,1,443.74,Bireysel,Kapıda Ödeme,34.0,Erkek,Tamamlandı,2.6,0.0
+2025-11-14,Ankara,Ev & Yaşam,Dekoratif Vazo,1275.05,3,3825.15,Bireysel,Havale/EFT,,Kadın,Tamamlandı,3.3,0.18
+2025-11-14,Konya,Gıda,Zeytinyağı,273.81,1,273.81,Bireysel,Kredi Kartı,49.0,Kadın,İptal Edildi,3.2,0.0
+2025-11-15,Antalya,Giyim,Ceket,2099.39,2,4198.78,Bireysel,Kredi Kartı,26.0,Erkek,Tamamlandı,4.8,0.19
+2025-11-15,Ankara,Ev & Yaşam,Havlu Seti,391.74,4,1566.96,Kurumsal,Banka Kartı,50.0,Erkek,Tamamlandı,3.5,0.0
+2025-11-15,İzmir,Elektronik,Kulaklık,7391.47,1,7391.47,Bireysel,Kredi Kartı,30.0,Erkek,İptal Edildi,3.3,0.0
+2025-11-15,Ankara,Elektronik,Akıllı Telefon,12841.13,2,25682.26,Kurumsal,Banka Kartı,40.0,Kadın,Tamamlandı,3.0,0.0
+2025-11-15,İzmir,Spor,Dambıl Seti,2813.52,4,11254.08,Bireysel,Kredi Kartı,18.0,Erkek,İptal Edildi,4.6,0.0
+2025-11-16,İstanbul,Ev & Yaşam,Mum,1116.08,1,1116.08,Bireysel,Banka Kartı,39.0,Erkek,Tamamlandı,4.4,0.14
+2025-11-17,Ankara,Elektronik,Dizüstü Bilgisayar,23992.36,7,167946.52,Kurumsal,Banka Kartı,37.0,Kadın,Tamamlandı,2.4,0.0
+2025-11-18,İstanbul,Gıda,Bal,487.11,1,487.11,Premium,Havale/EFT,18.0,Erkek,Tamamlandı,3.7,0.19
+2025-11-18,İstanbul,Elektronik,Kulaklık,2914.4,1,2914.4,Bireysel,Kredi Kartı,29.0,Kadın,İade Edildi,4.1,0.28
+2025-11-19,Antalya,Giyim,Tişört,1485.46,3,4456.38,Bireysel,Kredi Kartı,28.0,Erkek,Tamamlandı,3.8,0.24
+2025-11-19,Trabzon,Spor,Yoga Matı,1252.8,5,6264.0,Premium,Havale/EFT,18.0,Erkek,Tamamlandı,4.3,0.18
+2025-11-19,Ankara,Giyim,Ayakkabı,2024.94,5,10124.7,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,3.9,0.0
+2025-11-19,İstanbul,Giyim,Elbise,874.38,3,2623.14,Bireysel,Kredi Kartı,18.0,Kadın,Tamamlandı,5.0,0.3
+2025-11-20,İzmir,Ev & Yaşam,Yastık,594.22,6,3565.32,Bireysel,Banka Kartı,56.0,Kadın,Tamamlandı,4.2,0.28
+2025-11-20,İstanbul,Giyim,Elbise,2455.04,1,2455.04,Bireysel,Banka Kartı,29.0,Erkek,Tamamlandı,4.0,0.0
+2025-11-21,İstanbul,Ev & Yaşam,Havlu Seti,1099.13,1,1099.13,Kurumsal,Kapıda Ödeme,18.0,Kadın,İade Edildi,4.6,0.18
+2025-11-21,Konya,Giyim,Elbise,856.18,2,1712.36,Bireysel,Banka Kartı,45.0,Erkek,Tamamlandı,2.6,0.15
+2025-11-21,Gaziantep,Giyim,Ceket,648.78,3,1946.34,Bireysel,Banka Kartı,51.0,Kadın,Tamamlandı,4.4,0.0
+2025-11-22,Ankara,Ev & Yaşam,Dekoratif Vazo,643.31,2,1286.62,Kurumsal,Kredi Kartı,30.0,Kadın,Tamamlandı,5.0,0.21
+2025-11-22,Samsun,Spor,Dambıl Seti,2764.92,3,8294.76,Kurumsal,Kredi Kartı,29.0,Erkek,Beklemede,5.0,0.0
+2025-11-22,İstanbul,Kozmetik,Nemlendirici Krem,789.28,3,2367.84,Bireysel,Kredi Kartı,21.0,Kadın,İade Edildi,5.0,0.28
+2025-11-22,Konya,Ev & Yaşam,Nevresim Takımı,1320.1,1,1320.1,Bireysel,Kapıda Ödeme,32.0,Erkek,İade Edildi,2.2,0.0
+2025-11-23,İzmir,Elektronik,Kulaklık,12791.63,1,12791.63,Kurumsal,Havale/EFT,44.0,Erkek,İptal Edildi,5.0,0.09
+2025-11-23,İzmir,Spor,Yoga Matı,2171.12,2,4342.24,Bireysel,Kredi Kartı,23.0,Erkek,Beklemede,4.8,0.0
+2025-11-25,İzmir,Giyim,Ceket,1622.27,1,1622.27,Kurumsal,Banka Kartı,44.0,Erkek,Tamamlandı,4.6,0.28
+2025-11-26,Bursa,Spor,Koşu Ayakkabısı,1096.44,3,3289.32,Kurumsal,Kredi Kartı,19.0,Erkek,Tamamlandı,3.3,0.0
+2025-11-26,İstanbul,Elektronik,Kulaklık,2090.03,1,2090.03,Bireysel,Kapıda Ödeme,52.0,Kadın,İade Edildi,4.1,0.08
+2025-11-27,Trabzon,Ev & Yaşam,Yastık,465.93,4,1863.72,Kurumsal,Kredi Kartı,41.0,Kadın,Tamamlandı,3.8,0.0
+2025-11-27,İstanbul,Giyim,Tişört,1458.18,6,8749.08,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,4.5,0.0
+2025-11-28,Konya,Elektronik,Akıllı Telefon,4172.78,1,4172.78,Kurumsal,Kredi Kartı,40.0,Erkek,İptal Edildi,4.7,0.0
+2025-11-28,Ankara,Gıda,Çay,140.63,1,140.63,Bireysel,Havale/EFT,58.0,Erkek,Tamamlandı,3.3,0.0
+2025-11-29,Adana,Kozmetik,Göz Farı,1068.45,1,1068.45,Bireysel,Kredi Kartı,52.0,Kadın,Tamamlandı,4.2,0.0
+2025-11-29,Bursa,Ev & Yaşam,Havlu Seti,247.28,2,494.56,Kurumsal,Banka Kartı,18.0,Kadın,Tamamlandı,3.9,0.0
+2025-11-29,Ankara,Giyim,Tişört,235.11,1,235.11,Premium,Kredi Kartı,25.0,Erkek,Tamamlandı,4.1,0.0
+2025-11-29,Bursa,Kitap & Kırtasiye,Defter,188.76,1,188.76,Bireysel,Kredi Kartı,34.0,Kadın,Tamamlandı,4.5,0.27
+2025-11-30,Gaziantep,Gıda,Çay,56.79,4,227.16,Kurumsal,Kredi Kartı,43.0,Erkek,İptal Edildi,3.8,0.0
+2025-11-30,İstanbul,Elektronik,Kulaklık,11594.21,1,11594.21,Bireysel,Havale/EFT,33.0,Kadın,Tamamlandı,4.1,0.24
+2025-11-30,Antalya,Gıda,Zeytinyağı,315.28,9,2837.52,Kurumsal,Havale/EFT,28.0,Kadın,İptal Edildi,3.6,0.14
+2025-12-01,Antalya,Ev & Yaşam,Dekoratif Vazo,1342.15,2,2684.3,Bireysel,Kapıda Ödeme,38.0,Kadın,Tamamlandı,4.7,0.0
+2025-12-01,İzmir,Giyim,Ceket,728.67,2,1457.34,Bireysel,Kredi Kartı,23.0,Kadın,Tamamlandı,4.4,0.06
+2025-12-02,Gaziantep,Spor,Yoga Matı,2103.21,1,2103.21,Bireysel,Havale/EFT,18.0,Erkek,İade Edildi,5.0,0.0
+2025-12-02,Antalya,Gıda,Çay,389.12,2,778.24,Bireysel,Kredi Kartı,27.0,Kadın,Tamamlandı,4.4,0.0
+2025-12-03,Gaziantep,Giyim,Ceket,2488.92,7,17422.44,Bireysel,Kapıda Ödeme,51.0,Erkek,Beklemede,4.1,0.12
+2025-12-04,Antalya,Spor,Koşu Ayakkabısı,2883.48,2,5766.96,Kurumsal,Havale/EFT,29.0,Erkek,Tamamlandı,4.8,0.07
+2025-12-04,Ankara,Kitap & Kırtasiye,Ajanda,201.91,1,201.91,Bireysel,Kapıda Ödeme,34.0,Erkek,Beklemede,4.6,0.0
+2025-12-04,Adana,Ev & Yaşam,Yastık,1201.23,6,7207.38,Bireysel,Havale/EFT,25.0,Erkek,Tamamlandı,4.3,0.29
+2025-12-05,İstanbul,Giyim,Pantolon,978.48,1,978.48,Premium,Banka Kartı,42.0,Erkek,Tamamlandı,5.0,0.0
+2025-12-06,Gaziantep,Spor,Pilates Bandı,2740.75,3,8222.25,Bireysel,Kredi Kartı,,Erkek,İptal Edildi,5.0,0.0
+2025-12-07,İzmir,Ev & Yaşam,Yastık,174.87,1,174.87,Bireysel,Havale/EFT,32.0,Erkek,İptal Edildi,2.7,0.0
+2025-12-09,İzmir,Kitap & Kırtasiye,Roman,290.69,1,290.69,Bireysel,Kapıda Ödeme,42.0,Erkek,Tamamlandı,5.0,0.17
+2025-12-09,İstanbul,Giyim,Ayakkabı,1091.52,2,2183.04,Bireysel,Banka Kartı,48.0,Erkek,İptal Edildi,3.1,0.13
+2025-12-09,İstanbul,Spor,Koşu Ayakkabısı,272.31,5,1361.55,Bireysel,Banka Kartı,20.0,Erkek,Tamamlandı,5.0,0.0
+2025-12-10,İzmir,Kitap & Kırtasiye,Kalem Seti,129.28,1,129.28,Bireysel,Kapıda Ödeme,28.0,Erkek,İade Edildi,3.6,0.0
+2025-12-10,Antalya,Spor,Koşu Ayakkabısı,2412.4,2,4824.8,Premium,Banka Kartı,43.0,Erkek,Tamamlandı,5.0,0.15
+2025-12-10,İstanbul,Kozmetik,Nemlendirici Krem,730.52,2,1461.04,Bireysel,Kredi Kartı,46.0,Erkek,Tamamlandı,3.4,0.0
+2025-12-10,İstanbul,Ev & Yaşam,Yastık,763.4,4,3053.6,Premium,Banka Kartı,38.0,Erkek,Tamamlandı,3.5,0.18
+2025-12-10,Trabzon,Giyim,Elbise,1395.23,2,2790.46,Bireysel,Kredi Kartı,48.0,Erkek,İptal Edildi,5.0,0.0
+2025-12-11,İzmir,Gıda,Zeytinyağı,380.34,2,760.68,Bireysel,Kredi Kartı,28.0,Kadın,Tamamlandı,3.4,0.14
+2025-12-11,Samsun,Giyim,Ceket,1399.94,3,4199.82,Premium,Kredi Kartı,28.0,Kadın,Tamamlandı,3.4,0.0
+2025-12-12,Gaziantep,Giyim,Ceket,1362.73,2,2725.46,Bireysel,Kredi Kartı,45.0,Kadın,İade Edildi,4.3,0.25
+2025-12-13,Ankara,Ev & Yaşam,Yastık,514.9,1,514.9,Bireysel,Kredi Kartı,47.0,Erkek,Tamamlandı,3.7,0.15
+2025-12-14,Gaziantep,Kitap & Kırtasiye,Kalem Seti,287.22,3,861.66,Kurumsal,Havale/EFT,60.0,Erkek,İade Edildi,3.8,0.0
+2025-12-14,Antalya,Spor,Spor Çantası,2148.64,1,2148.64,Premium,Kredi Kartı,44.0,Kadın,Beklemede,3.4,0.0
+2025-12-14,İstanbul,Gıda,Bal,55.62,6,333.72,Bireysel,Kredi Kartı,62.0,Kadın,Tamamlandı,5.0,0.07
+2025-12-14,İstanbul,Gıda,Bal,441.14,3,1323.42,Kurumsal,Banka Kartı,42.0,Kadın,Tamamlandı,4.1,0.0
+2025-12-15,Ankara,Elektronik,Akıllı Saat,2823.81,1,2823.81,Kurumsal,Havale/EFT,20.0,Erkek,Beklemede,4.1,0.15
+2025-12-17,Samsun,Ev & Yaşam,Dekoratif Vazo,1084.81,4,4339.24,Bireysel,Kredi Kartı,33.0,Erkek,Beklemede,3.1,0.0
+2025-12-18,Bursa,Giyim,Ceket,591.85,2,1183.7,Premium,Banka Kartı,38.0,Kadın,Tamamlandı,4.7,0.0
+2025-12-19,İzmir,Kitap & Kırtasiye,Defter,238.2,1,238.2,Kurumsal,Kredi Kartı,31.0,Erkek,Tamamlandı,5.0,0.0
+2025-12-20,Ankara,Kozmetik,Nemlendirici Krem,86.34,2,172.68,Bireysel,Banka Kartı,18.0,Erkek,Tamamlandı,3.0,0.12
+2025-12-20,Konya,Gıda,Kahve,317.33,2,634.66,Bireysel,Banka Kartı,49.0,Erkek,İade Edildi,2.7,0.11
+2025-12-21,İstanbul,Spor,Dambıl Seti,1107.21,1,1107.21,Bireysel,Kredi Kartı,41.0,Erkek,İade Edildi,3.2,0.0
+2025-12-22,Ankara,Elektronik,Tablet,6334.06,3,19002.18,Bireysel,Banka Kartı,18.0,Kadın,Tamamlandı,5.0,0.0
+2025-12-23,Antalya,Gıda,Bal,339.24,9,3053.16,Bireysel,Kredi Kartı,51.0,Erkek,Tamamlandı,5.0,0.0
+2025-12-24,Adana,Elektronik,Dizüstü Bilgisayar,4762.45,3,14287.35,Kurumsal,Banka Kartı,32.0,Erkek,Tamamlandı,2.2,0.0
+2025-12-24,İstanbul,Gıda,Kuruyemiş,296.42,2,592.84,Bireysel,Kredi Kartı,47.0,Erkek,İptal Edildi,2.8,0.26
+2025-12-25,Ankara,Gıda,Zeytinyağı,397.97,1,397.97,Bireysel,Kredi Kartı,26.0,Kadın,Tamamlandı,4.5,0.0
+2025-12-25,İstanbul,Ev & Yaşam,Nevresim Takımı,1485.91,2,2971.82,Kurumsal,Kredi Kartı,36.0,Kadın,Beklemede,3.6,0.0
+2025-12-26,İstanbul,Ev & Yaşam,Nevresim Takımı,506.15,4,2024.6,Bireysel,Banka Kartı,31.0,Erkek,Tamamlandı,4.5,0.15
+2025-12-26,İstanbul,Kozmetik,Nemlendirici Krem,1078.84,1,1078.84,Bireysel,Kredi Kartı,39.0,Kadın,Tamamlandı,3.4,0.29
+2025-12-26,Konya,Giyim,Tişört,1592.72,2,3185.44,Bireysel,Kapıda Ödeme,45.0,Erkek,Tamamlandı,3.2,0.0
+2025-12-27,Gaziantep,Giyim,Pantolon,1795.54,1,1795.54,Bireysel,Havale/EFT,27.0,Erkek,İade Edildi,2.7,0.0
+2025-12-27,Adana,Elektronik,Dizüstü Bilgisayar,4579.34,4,18317.36,Kurumsal,Banka Kartı,39.0,Erkek,Tamamlandı,3.0,0.0
+2025-12-27,Adana,Gıda,Çay,136.81,6,820.86,Bireysel,Banka Kartı,45.0,Erkek,Tamamlandı,2.8,0.0
+2025-12-27,Adana,Gıda,Kuruyemiş,93.8,1,93.8,Bireysel,Kapıda Ödeme,23.0,Erkek,İade Edildi,3.4,0.15
+2025-12-27,Konya,Gıda,Bal,37.58,1,37.58,Bireysel,Kapıda Ödeme,45.0,Kadın,Tamamlandı,5.0,0.13
+2025-12-27,İzmir,Ev & Yaşam,Yastık,1020.27,3,3060.81,Premium,Havale/EFT,18.0,Erkek,Tamamlandı,3.3,0.27
+2025-12-27,İstanbul,Ev & Yaşam,Yastık,886.56,1,886.56,Bireysel,Havale/EFT,34.0,Kadın,Tamamlandı,3.3,0.0
+2025-12-28,Samsun,Ev & Yaşam,Yastık,1439.3,1,1439.3,Kurumsal,Kredi Kartı,40.0,Erkek,Tamamlandı,4.5,0.22
+2025-12-29,Bursa,Elektronik,Akıllı Saat,11085.65,2,22171.3,Bireysel,Havale/EFT,38.0,Kadın,Tamamlandı,3.2,0.26
+2025-12-29,Bursa,Gıda,Çay,493.5,2,987.0,Bireysel,Kredi Kartı,31.0,Erkek,Tamamlandı,2.7,0.18
+2025-12-30,İzmir,Elektronik,Akıllı Telefon,19774.71,3,59324.13,Premium,Havale/EFT,47.0,Kadın,Tamamlandı,3.5,0.0
+2025-12-30,İstanbul,Ev & Yaşam,Havlu Seti,124.19,1,124.19,Bireysel,Kredi Kartı,59.0,Erkek,Tamamlandı,4.4,0.0
+2025-12-30,Antalya,Gıda,Kahve,282.96,4,1131.84,Bireysel,Banka Kartı,44.0,Erkek,Tamamlandı,3.3,0.0
+2025-12-31,İstanbul,Spor,Pilates Bandı,2432.89,1,2432.89,Bireysel,Kredi Kartı,21.0,Kadın,Beklemede,3.8,0.0
