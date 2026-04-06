@@ -1,7 +1,7 @@
 # Data Visualization Agent
 
 ## Overview
-Data Visualization Agent is an internal AI Hub module that automatically generates meaningful charts and visual summaries from uploaded datasets. Its purpose is to help users quickly understand their data without manually building dashboards or writing plotting code.
+Data Visualization Agent is a module that automatically generates meaningful charts and visual summaries from uploaded datasets. Its purpose is to help users quickly understand their data without manually building dashboards or writing plotting code.
 
 The agent analyzes the structure of a dataset, identifies suitable visual patterns, and produces chart recommendations together with ready-to-view visual outputs. It is intended as a fast, practical, and accessible tool for exploratory analysis across different departments.
 
