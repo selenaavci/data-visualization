@@ -12,7 +12,7 @@ from utils.exporter import create_zip_package, create_summary_df
 # Sayfa Ayarları
 # ---------------------------------------------------------------------------
 st.set_page_config(
-    page_title="Veri Görselleştirme Aracı",
+    page_title="Data Visualization Agent",
     page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
