@@ -65,7 +65,7 @@ def load_data(file, filename: str) -> pd.DataFrame:
 
 @st.cache_data(show_spinner="Örnek veri yükleniyor...")
 def load_sample() -> pd.DataFrame:
-    return pd.read_csv("ornek_veri/sentetik_satis_verisi.csv", encoding="utf-8-sig")
+    return pd.read_csv("ornek_veri/demo_DataVis.csv", encoding="utf-8-sig")
 
 
 df = None
